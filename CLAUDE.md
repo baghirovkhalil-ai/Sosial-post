@@ -33,7 +33,8 @@ Ardıcıl iki gün eyni sütun olmasın. Həftədə ~4 reel + 3 karusel.
    (reel → reel.mp4 + cover.jpg; karusel → slide-N.png). Ən azı 3 kadra/slayda Read ilə bax:
    mətn kəsilməsin, üst-üstə düşməsin, Azərbaycan hərfləri düz olsun.
 4. `music.wav`-ı commit etmə (.gitignore). Commit + push to `main`.
-5. Metricool (brand id `7685976`, timezone `Asia/Baku`) ilə **ertəsi gün saat 10:00**-a planla:
+5. Metricool (brand id `7685976`, timezone `Asia/Baku`) ilə **hədəf gün saat 10:00**-a planla
+   (hədəf gün = sabahdan başlayaraq 10:00 postu olmayan ilk gün, maks. 3 gün irəli):
    - Media URL: `https://raw.githubusercontent.com/baghirovkhalil-ai/Sosial-post/main/posts/<id>/<fayl>`
    - Reel: providers instagram + youtube; instagramData.type `REEL`, isAiGenerated true;
      youtubeData {title (≤90 simvol, sonda #shorts), type "short", privacy "public", madeForKids false,
