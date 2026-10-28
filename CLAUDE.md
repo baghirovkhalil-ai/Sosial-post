@@ -69,3 +69,7 @@ Səhnə növləri:
 - `chat` {title, msgs:[{from:"user"|"ai", text}]} — AI prompt nümunələri üçün
 - `cta` {small, big, sub, button} — həmişə sonuncu
 `dur` saniyədir (reel üçün; karuseldə nəzərə alınmır). Mətni oxumağa vaxt ver: ~12 söz = 3.5 san.
+
+## YouTube dərsləri (ayrı sistem)
+Meta Ads + Google Ads ingiliscə uzun dərs videoları: hər gün 18:00 (Meta) və 19:00 (Google).
+Bütün qaydalar `lessons/README.md`-dədir. Reels qaydaları (yuxarıdakılar) dərslərə tətbiq olunmur.

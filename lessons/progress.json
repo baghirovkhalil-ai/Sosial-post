@@ -1,0 +1,9 @@
+{
+  "next": {"meta": 2, "google": 2},
+  "times": {"meta": "18:00", "google": "19:00"},
+  "timezone": "Asia/Baku",
+  "posted": [
+    {"id": "meta-01", "date": "2026-10-29", "time": "18:00"},
+    {"id": "google-01", "date": "2026-10-29", "time": "19:00"}
+  ]
+}
