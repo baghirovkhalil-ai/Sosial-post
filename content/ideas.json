@@ -1,7 +1,7 @@
 [
  {"n":1,"status":"done","date":"2026-10-28","format":"reel","pillar":"AI","hook":"30 günlük kontent planı 3 saat? AI ilə 1 dəqiqə","angle":"Kontent planı üçün düzgün prompt: konkret, format, ton"},
  {"n":2,"status":"done","date":"2026-10-29","format":"carousel","pillar":"Ads","hook":"Instagram reklamında pulu yandıran 5 səhv","angle":"Boost, geniş auditoriya, like hədəfi, 1 kreativ, tez söndürmək"},
- {"n":3,"status":"todo","format":"reel","pillar":"Ads","hook":"Reklama 100 AZN qoydun, 0 mesaj gəldi? Səbəb büdcə deyil","angle":"Kreativin ilk 2 saniyəsi — qarmaq olmayan video satmır"},
+ {"n":3,"status":"done","date":"2026-10-31","format":"reel","pillar":"Ads","hook":"Reklama 100 AZN qoydun, 0 mesaj gəldi? Səbəb büdcə deyil","angle":"Kreativin ilk 2 saniyəsi — qarmaq olmayan video satmır"},
  {"n":4,"status":"done","date":"2026-10-30","format":"reel","pillar":"AI","hook":"ChatGPT-yə bu sualı ver — rəqibinin zəif yerini tapacaq","angle":"Rəqib analizi promptu: rəylər, qiymət, mesajlar"},
  {"n":5,"status":"todo","format":"carousel","pillar":"Instagram","hook":"Profilinə girən 10 nəfərdən 9-u niyə izləmir?","angle":"Bio, highlights, ilk 9 post, CTA — profil auditi checklist"},
  {"n":6,"status":"todo","format":"reel","pillar":"Psixologiya","hook":"Menyuda ən bahalı yemək satılmaq üçün deyil","angle":"Anchoring/decoy effekti — Bakı kafeləri üçün qiymət psixologiyası"},
