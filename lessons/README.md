@@ -26,9 +26,10 @@ Format: 16:9 uzun video (YouTube "video", Short deyil), 2.5–4 dəqiqə, ingili
    `frame-title.png`, `thumb.jpg` və videodan 2 kadra (`ffmpeg -ss 60 -i lesson.mp4 -frames:v 1 x.jpg`) Read ilə bax: mətn kəsilməsin, üst-üstə düşməsin.
 4. Commit (`script.json`, `lesson.mp4`, `thumb.jpg`, `frame-title.png`) + push `main`.
 5. Metricool (brand `7685976`, timezone `Asia/Baku`): əvvəlcə `getScheduledPosts` ilə həmin saata artıq dərs qoyulubmu yoxla — dublikat yaratma. Sonra `createScheduledPost`:
-   - providers `[{"network":"youtube"}]`, media `https://raw.githubusercontent.com/baghirovkhalil-ai/Sosial-post/main/lessons/<id>/lesson.mp4`
+   - providers `[{"network":"youtube"}]`, media `https://raw.githubusercontent.com/baghirovkhalil-ai/Sosial-post/<COMMIT_SHA>/lessons/<id>/lesson.mp4` — push-dan sonra `git rev-parse HEAD` ilə SHA götür (`main` linki GitHub keşinə görə köhnə faylı verə bilər). thumb.jpg üçün də eyni.
    - `youtubeData`: `{"title": youtube_title (≤100 simvol), "type":"video", "privacy":"public", "madeForKids":false, "category":"EDUCATION", "tags":[...], "isAiGeneratedContent":true}`
-   - `videoThumbnailUrl` = `.../thumb.jpg` (xəta versə, thumbnail-siz yenidən göndər).
+   - `videoThumbnailUrl` = `.../<COMMIT_SHA>/lessons/<id>/thumb.jpg` (xəta versə, thumbnail-siz yenidən göndər).
+   - Repo-da render gedərkən `git stash`/`rebase --autostash` etmə — video fayllarını korlayır. Commit-i render bitəndən sonra et.
    - `text` (YouTube təsviri): description + boş sətir + "In this lesson:" və slayd başlıqları siyahısı + boş sətir +
      "Free lessons every day: Meta Ads at 18:00 and Google Ads at 19:00 (Baku time)." + "Instagram: @khalil.marketingone" +
      "Narration is AI-generated; content written by Khalil Baghirov." + 4–6 hashtag (#metaads #facebookads … / #googleads #ppc …).
