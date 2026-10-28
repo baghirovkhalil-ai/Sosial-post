@@ -8,7 +8,7 @@ Format: 16:9 uzun video (YouTube "video", Short deyil), 2.5–4 dəqiqə, ingili
 - `curriculum.json` — 30 Meta + 30 Google dərs başlığı (sıra dəyişməz).
 - `progress.json` — növbəti dərs nömrələri və paylaşılanların siyahısı.
 - `<course>-<NN>/script.json` — ssenari (format aşağıda); render sonrası `lesson.mp4`, `thumb.jpg`, `frame-title.png`.
-- `render_lesson.py` — slaydlar (PIL, brend stili) + lokal Piper TTS səsi (hər slayd ayrıca, tam sinxron) + ffmpeg.
+- `render_lesson.py` + `template.html` — animasiyalı video: Piper TTS hər cümləni ayrıca səsləndirir (bəndlər, söz-söz başlıqlar və altyazılar səslə sinxron), `template.html` Playwright ilə kadr-kadr (25 fps) çəkilir, ffmpeg yığır. Thumbnail PIL ilə.
 
 ## Gündəlik iş qaydası (scheduled task bunu edir)
 1. `git pull`. `progress.json`-dan növbəti `meta` və `google` nömrəsini götür (30-dan böyükdürsə həmin kurs bitib — keç).
@@ -20,7 +20,9 @@ Format: 16:9 uzun video (YouTube "video", Short deyil), 2.5–4 dəqiqə, ingili
    - Bəndlər qısa (≤ 8 söz), `points`/`steps` ≤ 4–5 bənd, `compare` hər tərəfdə 3 bənd.
    - Faktlar dəqiq olsun: platformaların rəsmi sənədlərinə uyğun yaz, uydurma rəqəm/statistika yazma. Əmin deyilsənsə WebSearch et.
    - Əvvəlki dərsə qısa istinad et ("In lesson 4 we…") ki, seriya kimi hiss olunsun.
-3. Render: `python3 lessons/render_lesson.py lessons/<id>/script.json` (Piper yoxdursa: `pip install --break-system-packages piper-tts`; səs modeli avtomatik GitHub-dan yüklənir).
+3. Render: `python3 lessons/render_lesson.py lessons/<id>/script.json` — bir dərs ~12–15 dəqiqə çəkir, ona görə Bash-da `run_in_background` və ya uzun timeout istifadə et.
+   Lazım olanlar: `pip install --break-system-packages piper-tts playwright` (Chromium adətən `/opt/pw-browsers`-dədir; yoxdursa `python3 -m playwright install chromium`). Səs modeli avtomatik GitHub-dan yüklənir.
+   Bəndlər narration-dakı cümlələrə söz uyğunluğu ilə bağlanır — ona görə hər bəndin sözləri narration-da həmin bəndi izah edən cümlədə də keçsin.
    `frame-title.png`, `thumb.jpg` və videodan 2 kadra (`ffmpeg -ss 60 -i lesson.mp4 -frames:v 1 x.jpg`) Read ilə bax: mətn kəsilməsin, üst-üstə düşməsin.
 4. Commit (`script.json`, `lesson.mp4`, `thumb.jpg`, `frame-title.png`) + push `main`.
 5. Metricool (brand `7685976`, timezone `Asia/Baku`): əvvəlcə `getScheduledPosts` ilə həmin saata artıq dərs qoyulubmu yoxla — dublikat yaratma. Sonra `createScheduledPost`:
