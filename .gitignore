@@ -1,2 +1,4 @@
 posts/*/music.wav
 node_modules/
+lessons/__pycache__/
+lessons/*/_voice*.wav
