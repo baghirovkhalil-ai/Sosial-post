@@ -10,11 +10,16 @@ Heç vaxt bura şəxsi və ya müştəri məlumatı yazma.
 SMM-çilər, marketinq öyrənənlər. Dil: Azərbaycan dili, səmimi, sadə, "sən" müraciəti.
 
 ## Brend stili (dəyişmə — səhifə vahid görünməlidir)
-- Fon: tünd kosmik (#05070f), grid, ulduzlar, göy/firuzəyi/qırmızı işıq ləkələri.
-- Rənglər: firuzəyi #2ee6d6 (əsas), qırmızı #ff2d55 (səhv/xəbərdarlıq), sarı #ffc83d (rəqəm/nəticə).
-- Şrift: Inter Black/ExtraBold. Böyük başlıqlar UPPERCASE + firuzəyi/qırmızı "glitch" kölgə.
-- Yuxarıda kateqoriya etiketi (məs. "META ADS", "AI + MARKETİNQ"), reel-də progress bar.
-- Sonda həmişə Khalil-in şəkli + ağ düymə + @khalil.marketingone.
+- AĞ FON (#f6f7fa → #eceff4), yavaş axan nöqtəli grid, yumşaq mavi işıq ləkələri,
+  kənarlarda üzən parlaq 3D mavi/ağ kürələr və mavi halqa (feed postları ilə eyni stil).
+- Rənglər: qara mətn #0c0e14, royal mavi #1c4eff (vurğu), qırmızı #eb3c46 (yalnız səhv/xəbərdarlıq).
+- Şrift: Inter Black. Başlıqlar cümlə hərfi ilə (UPPERCASE yox), söz-söz maska animasiyası ilə açılır.
+- Yuxarıda "KHALIL BAGHIROV" + mavi nöqtə + kateqoriya etiketi; aşağıda "Meta Ads • Google Ads • TikTok Ads".
+  Yuxarıda progress bar YOXDUR.
+- Sonda həmişə Khalil-in fonsuz şəkli (assets/khalil-cut.png) + qara düymə + @khalil.marketingone.
+- Musiqi: hər video üçün fərqli ENERJİLİ trek (engine/music.py seed-ə görə janr seçir:
+  tropical, phonk, electro, future bass, drum&bass, afro). Ardıcıl iki reel-də eyni janr olmasın —
+  `musicSeed % 6` fərqli olsun.
 - Videoda emoji işlətmə (şrift göstərmir). Caption-da emoji olar.
 
 ## Sütunlar (rotasiya)
