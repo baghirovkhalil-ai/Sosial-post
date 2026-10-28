@@ -8,3 +8,5 @@
 | 2026-10-28 00:30 | Bu videonu AI montaj etdi (Khalil çəkiliş) | reel | AI | əl ilə istək, IG + YT Shorts |
 | 2026-10-31 12:00 | Reklama 100 AZN, 0 mesaj — səbəb ilk 2 saniyə | reel | Ads | IG + YT Shorts |
 | 2026-10-29 20:00 | Profilinə girirlər, amma izləmirlər? (profil auditi) | reel | Instagram | IG + YT Shorts |
+| 2026-10-29 18:00 | YT dərs: Meta Ads #1 — How Meta Ads Actually Work | video 16:9 | Lessons | YouTube |
+| 2026-10-29 19:00 | YT dərs: Google Ads #1 — How Google Ads Works | video 16:9 | Lessons | YouTube |
