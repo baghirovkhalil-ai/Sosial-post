@@ -154,7 +154,9 @@ def main(spec_path):
     spec = {"course": sc["course"], "courseLabel": COURSE[sc["course"]], "num": sc["num"], "title": sc["title"], "subtitle": sc["subtitle"],
             "total": total, "slides": sc["slides"]}
     mp4 = os.path.join(out, "lesson.mp4")
-    render_video(spec, wav, mp4, os.path.join(out, "frame-title.png"))
+    tmp = os.path.join("/tmp", f"lesson-{sc['id']}-{os.getpid()}.mp4")  # render outside the repo, then move
+    render_video(spec, wav, tmp, os.path.join(out, "frame-title.png"))
+    shutil.move(tmp, mp4)
     thumbnail(sc, os.path.join(out, "thumb.jpg"))
     for f in (raw, wav): os.remove(f)
     dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", mp4], capture_output=True, text=True).stdout)
