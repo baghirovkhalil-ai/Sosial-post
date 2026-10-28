@@ -25,11 +25,12 @@ SMM-çilər, marketinq öyrənənlər. Dil: Azərbaycan dili, səmimi, sadə, "s
 ## Sütunlar (rotasiya)
 AI (praktik alətlər/promptlar) · Ads (Meta/TikTok reklam) · Instagram (böyümə, Reels) ·
 Psixologiya (satış/qiymət psixologiyası) · Biznes (Bakı SMB praktik məsləhət).
-Ardıcıl iki gün eyni sütun olmasın. Həftədə ~4 reel + 3 karusel.
+HƏR GÜN 2 REEL: saat **12:00** və **20:00** (karusel yoxdur — ideas.json-da "carousel" olan ideyanı reel kimi hazırla).
+Ardıcıl iki slotda eyni sütun olmasın (12:00 və 20:00 fərqli sütun olsun).
 
 ## Gündəlik iş qaydası (scheduled task bunu edir)
 1. `git pull`. `content/ideas.json`-da ilk `"status":"todo"` ideyanı götür
-   (dünən ilə eyni sütundursa, növbətini). 5-dən az todo qalıbsa, WebSearch ilə
+   (əvvəlki slotla eyni sütundursa, növbətini). 5-dən az todo qalıbsa, WebSearch ilə
    aktual mövzulara baxıb 10 yeni ideya əlavə et.
 2. `posts/<YYYY-MM-DD>-<slug>/spec.json` yaz (format aşağıda). Reel 25–35 san, 6–8 səhnə;
    karusel 6–9 slayd. Birinci səhnə güclü qarmaq (sual, rəqəm, ziddiyyət).
@@ -38,14 +39,14 @@ Ardıcıl iki gün eyni sütun olmasın. Həftədə ~4 reel + 3 karusel.
    (reel → reel.mp4 + cover.jpg; karusel → slide-N.png). Ən azı 3 kadra/slayda Read ilə bax:
    mətn kəsilməsin, üst-üstə düşməsin, Azərbaycan hərfləri düz olsun.
 4. `music.wav`-ı commit etmə (.gitignore). Commit + push to `main`.
-5. Metricool (brand id `7685976`, timezone `Asia/Baku`) ilə **hədəf gün saat 10:00**-a planla
-   (hədəf gün = sabahdan başlayaraq 10:00 postu olmayan ilk gün, maks. 3 gün irəli):
+5. Metricool (brand id `7685976`, timezone `Asia/Baku`) ilə **boş slota** planla.
+   Slotlar: hər gün 12:00 və 20:00. Sabahdan başlayaraq (maks. 3 gün irəli) boş olan ilk slotu seç.
+   Bir işə salınmada **2 reel** hazırla — ən erkən iki boş slot üçün (adətən bir günün 12:00 və 20:00-ı).
    - Media URL: `https://raw.githubusercontent.com/baghirovkhalil-ai/Sosial-post/main/posts/<id>/<fayl>`
    - Reel: providers instagram + youtube; instagramData.type `REEL`, isAiGenerated true;
      youtubeData {title (≤90 simvol, sonda #shorts), type "short", privacy "public", madeForKids false,
      category "EDUCATION", isAiGeneratedContent true}; videoThumbnailUrl = cover.jpg (YouTube thumbnail
      xəta verə bilər — normaldır).
-   - Karusel: yalnız instagram, type `POST`, media = bütün slaydlar sırası ilə.
    - Caption: 1-ci sətir qarmaq, 3–6 qısa sətir dəyər, 1 CTA (yadda saxla / paylaş / "X" yaz DM-ə),
      8–12 hashtag (az + en qarışıq, məs. #rəqəmsalmarketinq #bakı #smm #aimarketing).
    - Əvvəlcə getScheduledPosts ilə həmin günə artıq post qoyulubmu yoxla — dublikat yaratma.
