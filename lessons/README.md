@@ -30,8 +30,8 @@ Format: 16:9 uzun video (YouTube "video", Short deyil), 2.5–4 dəqiqə, ingili
    - `text` (YouTube təsviri): description + boş sətir + "In this lesson:" və slayd başlıqları siyahısı + boş sətir +
      "Free lessons every day: Meta Ads at 18:00 and Google Ads at 19:00 (Baku time)." + "Instagram: @khalil.marketingone" +
      "Narration is AI-generated; content written by Khalil Baghirov." + 4–6 hashtag (#metaads #facebookads … / #googleads #ppc …).
-   - Saat: Meta → həmin gün 18:00, Google → 19:00. Saat keçibsə, növbəti günün eyni saatı.
-6. `progress.json`-u yenilə (nömrə +1, `posted`-ə `{id, date, time}` əlavə et), `content/log.md`-yə sətir yaz, push.
+   - Tarix: `progress.json`-dakı `next_date` (həmişə 1 gün qabaqcadan hazırlanır). Meta → həmin tarix 18:00, Google → 19:00. `next_date` keçmişdədirsə, sabahkı tarixi götür. Həmin slotda artıq dərs varsa, o dərs artıq planlanıb — `next_date`-i 1 gün irəli at və təkrar planlama.
+6. `progress.json`-u yenilə (nömrələr +1, `next_date` +1 gün, `posted`-ə `{id, date, time}` əlavə et), `content/log.md`-yə sətir yaz, push.
 
 ## Playlist
 Metricool playlist yarada bilmir. Kanalda iki playlist bir dəfə əl ilə yaradılır: **"Meta Ads Course (Free)"** və **"Google Ads Course (Free)"**, videolar ora əlavə olunur.
