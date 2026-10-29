@@ -1,0 +1,107 @@
+{
+  "id": "google-02",
+  "course": "google",
+  "num": 2,
+  "title": "Setting Up Your Google Ads Account",
+  "subtitle": "Avoid the settings that waste money from day one",
+  "youtube_title": "How to Set Up a Google Ads Account the Right Way (Expert Mode) | Google Ads Course Lesson 2",
+  "description": "Lesson 2 of the free Google Ads course. A clean account setup saves you money before your first click. In this lesson: Smart Mode vs Expert Mode, the settings you cannot change later, billing, linking Google Analytics, conversion tracking, and giving access to other people safely.",
+  "tags": [
+    "google ads",
+    "google ads tutorial",
+    "google ads for beginners",
+    "google ads account setup",
+    "expert mode",
+    "ppc",
+    "search ads",
+    "google ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson two of this free Google Ads course. In lesson one we learned how the auction, Ad Rank, and Quality Score work. Today we set up your Google Ads account step by step, and avoid the settings that waste money from day one."
+    },
+    {
+      "type": "big",
+      "kicker": "The biggest beginner mistake",
+      "text": "Google's default setup is *built for Google*",
+      "narration": "Here's the biggest beginner mistake. When you sign up, Google guides you into a quick, simplified campaign with broad default settings. It looks easy, but you give up a lot of control. The default setup is built to get you spending, not to protect your budget. So in this lesson, we take control from the very first screen."
+    },
+    {
+      "type": "compare",
+      "title": "Smart Mode vs Expert Mode",
+      "badLabel": "Smart Mode",
+      "bad": [
+        "Simplified Smart campaigns",
+        "Few targeting and keyword controls",
+        "Limited reporting"
+      ],
+      "goodLabel": "Expert Mode",
+      "good": [
+        "All campaign types",
+        "Full control over keywords and bids",
+        "Detailed reporting and conversions"
+      ],
+      "narration": "Google Ads has two modes. Smart Mode runs simplified Smart campaigns, with few targeting and keyword controls and limited reporting. Expert Mode gives you all campaign types, full control over keywords and bids, and detailed reporting and conversions. For this course, we use Expert Mode."
+    },
+    {
+      "type": "steps",
+      "title": "Create the account",
+      "items": [
+        "Go to ads.google.com",
+        "Switch to Expert Mode",
+        "Create the account without a campaign",
+        "Confirm business details"
+      ],
+      "narration": "Here's how to create the account. Go to ads dot google dot com and sign in with your business Google account. When the setup asks about your goal, look for the option to switch to Expert Mode. Then choose to create the account without a campaign, so nothing starts spending yet. Finally, confirm your business details. The exact wording of these screens changes from time to time, but the idea stays the same: account first, campaign later."
+    },
+    {
+      "type": "points",
+      "title": "Settings you can't change later",
+      "items": [
+        "Billing country",
+        "Time zone",
+        "Currency"
+      ],
+      "narration": "Pay close attention on this screen, because some settings you can't change later. Your billing country, your time zone, and your currency are fixed for the account. Choose the time zone where your business works, so your reports and ad schedules match your real day. If you get them wrong, you have to create a new account."
+    },
+    {
+      "type": "points",
+      "title": "Before your first campaign",
+      "items": [
+        "Add billing and verify payment",
+        "Link Google Analytics",
+        "Set up conversion tracking",
+        "Keep auto-tagging on"
+      ],
+      "narration": "Before your first campaign, do four things. Add billing and verify your payment method. Link Google Analytics, so you can see what people do after the click. Set up conversion tracking, so Google knows what a real result is, like a call, a form, or a purchase. And keep auto-tagging on, so clicks are matched to your analytics data."
+    },
+    {
+      "type": "points",
+      "title": "Give access the safe way",
+      "items": [
+        "Invite people by email",
+        "Choose the lowest access level needed",
+        "Never share your login",
+        "Agencies can connect through a manager account"
+      ],
+      "narration": "Next, access. Invite people by email in the access and security section. Choose the lowest access level needed, for example read only for someone who only checks reports. Never share your login. And agencies can connect through a manager account, which you can unlink at any time. That way you stay the owner of your account and your data."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Create your account in Expert Mode",
+        "Check your time zone and currency",
+        "Link Google Analytics and turn on auto-tagging"
+      ],
+      "narration": "Your homework for today. Create your account in Expert Mode, without a campaign. Check your time zone and currency before you confirm. Then link Google Analytics and make sure auto-tagging is on."
+    },
+    {
+      "type": "outro",
+      "next": "Google Ads Campaign Types Explained",
+      "narration": "In the next lesson, we will go through every Google Ads campaign type, and which one fits your business. Subscribe so you don't miss it, and I'll see you in lesson three."
+    }
+  ],
+  "thumb": "Google Ads Setup *Done Right*"
+}
