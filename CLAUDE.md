@@ -34,8 +34,14 @@ SMM-çilər, marketinq öyrənənlər. Dil: Azərbaycan dili, səmimi, sadə, "s
 - mp3-ü `posts/<id>/voice.mp3` kimi qoy → `render.mjs` avtomatik: `engine/voice.py` take-i pauzalardan
   səhnələrə bölür, səhnə müddətlərini səsə uyğunlaşdırır, altyazı = `vo` (söz-söz karaoke, səslə sinxron),
   musiqi səsin altında yatır (ducking). voice.mp3 yoxdursa video səssiz (yalnız musiqi) render olunur.
-- Səs faylını yükləmək üçün `storage.googleapis.com` domeni icazəli olmalıdır (claude.ai → Settings → Capabilities).
-  Bloklanıbsa, səssiz render et və Khalil-ə qeyd et.
+- **Toplu iş axını (Khalil təsdiqlədi, 2026-10-29):** sessiya ElevenLabs mp3-ünü yükləyə bilmir (storage.googleapis.com
+  bloklu). Ona görə: video əvvəl səssiz (musiqi ilə) render olunur və planlanır; sonda Khalil-ə hər video üçün
+  nömrə + tarix/saat + ElevenLabs mətni (yuxarıdakı formatda, kod blokunda) göndərilir. ElevenLabs generasiyası
+  işləsə, mətnlə yanaşı mp3 linkini də ver. Khalil səsləri toplu yaradıb nömrə ilə söhbətə atır.
+- Khalil mp3 atanda: müddətini ffprobe ilə yoxla (səhv video olmasın), `posts/<id>/voice.mp3` et, render et,
+  3 kadra bax, commit + push, Metricool postunu **commit-SHA linki** ilə yenilə
+  (`https://raw.githubusercontent.com/baghirovkhalil-ai/Sosial-post/<sha>/posts/<id>/reel.mp4` — `main` linki keşlənir),
+  mətn/digər sahələr eyni qalsın.
 
 ## Sütunlar (rotasiya)
 AI (praktik alətlər/promptlar) · Ads (Meta/TikTok reklam) · Instagram (böyümə, Reels) ·
