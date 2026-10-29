@@ -28,8 +28,7 @@
  },
  {
   "n": 4,
-  "status": "done",
-  "date": "2026-10-30",
+  "status": "todo",
   "format": "reel",
   "pillar": "AI",
   "hook": "ChatGPT-yə bu sualı ver — rəqibinin zəif yerini tapacaq",
@@ -37,20 +36,20 @@
  },
  {
   "n": 5,
-  "status": "done",
+  "status": "todo",
   "format": "reel",
   "pillar": "Instagram",
   "hook": "Profilinə girən 10 nəfərdən 9-u niyə izləmir?",
-  "angle": "Bio, highlights, ilk 9 post, CTA — profil auditi checklist",
-  "date": "2026-10-29"
+  "angle": "Bio, highlights, ilk 9 post, CTA — profil auditi checklist"
  },
  {
   "n": 6,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Psixologiya",
   "hook": "Menyuda ən bahalı yemək satılmaq üçün deyil",
-  "angle": "Anchoring/decoy effekti — Bakı kafeləri üçün qiymət psixologiyası"
+  "angle": "Anchoring/decoy effekti — Bakı kafeləri üçün qiymət psixologiyası",
+  "date": "2026-10-30"
  },
  {
   "n": 7,
@@ -94,11 +93,12 @@
  },
  {
   "n": 12,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "AI",
   "hook": "Müştəri artıq Google-da yox, ChatGPT-də axtarır",
-  "angle": "AI axtarışında görünmək (GEO): rəylər, sayt, Google Maps"
+  "angle": "AI axtarışında görünmək (GEO): rəylər, sayt, Google Maps",
+  "date": "2026-10-29"
  },
  {
   "n": 13,
