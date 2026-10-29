@@ -1,0 +1,31 @@
+{
+ "id": "2026-10-30-reqib-zeif-yer",
+ "type": "reel",
+ "tag": "AI + MARKETİNQ",
+ "musicSeed": 16,
+ "scenes": [
+  {"kind":"hook","dur":3.8,"small":"ChatGPT-yə bu sualı ver","big":"Zəif yeri","sub":"Rəqibinin — *AI tapacaq*",
+   "cap":"Rəqibinin zəif yerini ChatGPT ilə tap",
+   "vo":"Rəqibinin zəif yerini bilmək istəyirsən? ChatGPT-yə bu sualı ver."},
+  {"kind":"step","dur":3.8,"num":"01","title":"Rəyləri topla","sub":"Google Maps və Instagram *şərhləri*","visual":"target",
+   "cap":"Birinci: rəqibin rəylərini və şərhlərini kopyala",
+   "vo":"Birinci: rəqibin Google Maps rəylərini və Instagram şərhlərini kopyala."},
+  {"kind":"chat","dur":6.6,"title":"Sonra bunu yaz:","msgs":[
+    {"from":"user","text":"Bu rəyləri analiz et: müştərilər ən çox nədən şikayət edir? 3 əsas problemi yaz."},
+    {"from":"ai","text":"1. Çatdırılma gecikir. 2. Direktə cavab gec gəlir. 3. Qiymət yazılmır."}],
+   "cap":"AI şikayətləri qruplaşdırır — sən fürsəti görürsən",
+   "vo":"Sonra yaz: bu rəyləri analiz et, müştərilər ən çox nədən şikayət edir? AI şikayətləri qruplaşdırır."},
+  {"kind":"step","dur":3.8,"num":"02","color":"yellow","title":"Qiymətə bax","sub":"Paket, endirim, *çatdırılma* şərtləri",
+   "cap":"İkinci: qiymət və şərtlərini müqayisə etdir",
+   "vo":"İkinci: qiymətlərini, paketlərini və çatdırılma şərtlərini müqayisə etdir."},
+  {"kind":"step","dur":3.8,"num":"03","color":"red","title":"Mesajını yoxla","sub":"Nə vəd edir, nəyi ~demir~?",
+   "cap":"Üçüncü: reklamda nə vəd edir, nəyi susur?",
+   "vo":"Üçüncü: reklamında nə vəd edir və nəyi demir?"},
+  {"kind":"compare","dur":5,"title":"Məqsəd nədir?","badLabel":"SƏHV","bad":"Rəqibi kopyalamaq","goodLabel":"DOĞRU","good":"Onun zəif yerini *öz təklifinə* çevirmək",
+   "cap":"Kopyalama — onun boşluğunu sən doldur",
+   "vo":"Məqsəd kopyalamaq deyil. Onun zəif yerini öz təklifinə çevir."},
+  {"kind":"cta","dur":4.6,"small":"Rəqibinə birlikdə baxaq?","big":"RƏQİB yaz","sub":"Direktə yaz — analiz edək","button":"Direktə yaz →",
+   "cap":"Direktə RƏQİB yaz — birlikdə analiz edək",
+   "vo":"Rəqibinə birlikdə baxaq? Direktə RƏQİB yaz."}
+ ]
+}
