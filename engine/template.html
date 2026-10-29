@@ -68,8 +68,9 @@ html,body{width:var(--W);height:var(--H);overflow:hidden;background:var(--paper)
 .photo{position:absolute;left:0;bottom:0;width:600px;height:560px;object-fit:cover;object-position:50% 0;-webkit-mask:linear-gradient(#000 0 0) 50% 0/430px 300px no-repeat,radial-gradient(circle 257px at 300px 300px,#000 99%,transparent 100%)}
 .slide .ph-wrap{transform:scale(.72);margin:-78px 0}
 /* captions: karaoke word highlight, no box */
-.cap{position:absolute;left:70px;right:70px;bottom:300px;font-weight:800;font-size:50px;line-height:1.3;text-align:center}
-.cap .cw{margin:0 -.06em;padding:.02em .1em;border-radius:12px}
+.cap{position:absolute;left:60px;right:60px;bottom:330px;font-weight:800;font-size:60px;line-height:1.25;text-align:center}
+.cap .chunk{position:absolute;left:0;right:0;bottom:0;display:none}.cap .cw>i{font-style:normal}
+.cap .cw{display:inline-block;margin:0 -.06em;padding:.02em .1em;border-radius:12px}
 .cap .cw.on{background:var(--lime)}
 .slide .cap{display:none}
 .swipe{position:absolute;bottom:52px;right:70px;font-weight:800;font-size:30px;background:var(--lime);border:3px solid var(--ink);border-radius:40px;padding:10px 24px}
@@ -101,16 +102,36 @@ function drawBg(t){
   const x=W*(.82+.08*Math.sin(t*.3)),y=H*(.2+.05*Math.cos(t*.25));const rg=g.createRadialGradient(x,y,0,x,y,W*.75);
   rg.addColorStop(0,'rgba(212,255,58,.30)');rg.addColorStop(1,'rgba(212,255,58,0)');g.fillStyle=rg;g.fillRect(0,0,W,H);
   // editorial grid lines, slow drift
-  const st=90,o=(t*10)%st;g.strokeStyle='rgba(11,11,12,.045)';g.lineWidth=2;g.beginPath();
+  const st=90,o=(t*22)%st;g.strokeStyle='rgba(11,11,12,.045)';g.lineWidth=2;g.beginPath();
   for(let xx=-o;xx<W;xx+=st){g.moveTo(xx,0);g.lineTo(xx,H)}for(let yy=-o;yy<H;yy+=st){g.moveTo(0,yy);g.lineTo(W,yy)}g.stroke();
+  drawShapes(t);
   g.drawImage(grain,0,0);
 }
+/* kinetic shapes: drift + rotate, re-shuffle with a spring on every scene */
+const SH=['ast','ring','plus','dot','zig','ast'];
+function shapePos(si,k){let s=(si*977+k*131+7)>>>0;const r=()=>{s=(s*1664525+1013904223)>>>0;return s/4294967296};
+  if(MODE==='reel'){return k<3?[.885+r()*.07,.22+k*.19+r()*.1,r()*6]:[.15+r()*.7,.115+r()*.02,r()*6]}
+  return [k%2?.92:.08,.85+r()*.06,r()*6]}
+let SI=0,SLT=0;
+function drawShapes(t){const n=MODE==='reel'?4:2;
+  for(let k=0;k<n;k++){const [x0,y0,ph]=shapePos(SI,k),[x1,y1]=shapePos(Math.max(0,SI-1),k);const m=MODE==='reel'?spring(SLT/.8):1;
+    const x=(x1+(x0-x1)*m)*W+18*Math.sin(t*1.1+ph),y=(y1+(y0-y1)*m)*H+24*Math.cos(t*.9+ph);const rot=t*(k%2?.8:-.6)+ph;const sc=k===0?1.1:.85;
+    g.save();g.translate(x,y);g.rotate(rot);g.scale(sc,sc);g.lineWidth=7;g.strokeStyle=INK;g.fillStyle=LIME;g.lineCap='round';g.lineJoin='round';
+    const ty=SH[k];
+    if(ty==='ast'){for(let a=0;a<4;a++){g.save();g.rotate(a*Math.PI/4);g.fillRect(-9,-38,18,76);g.strokeRect(-9,-38,18,76);g.restore()}}
+    else if(ty==='ring'){g.beginPath();g.arc(0,0,30,0,7);g.stroke()}
+    else if(ty==='plus'){g.beginPath();g.moveTo(-24,0);g.lineTo(24,0);g.moveTo(0,-24);g.lineTo(0,24);g.stroke()}
+    else if(ty==='dot'){g.beginPath();g.arc(0,0,16,0,7);g.fill();g.stroke()}
+    else if(ty==='zig'){g.beginPath();g.moveTo(-40,10);for(let q=0;q<5;q++)g.lineTo(-40+q*20+10,q%2?10:-10);g.lineTo(40,10);g.stroke()}
+    g.restore()}}
 /* signature transition: lime + ink panels wipe upward at scene start */
 function drawFx(lt,isFirst){
   f.clearRect(0,0,W,H);if(MODE!=='reel'||isFirst||lt>.5)return;
-  const p=easeIO(lt/.5);
-  f.fillStyle=LIME;f.fillRect(0,H-(H*2)*p,W,H);   // lime panel moves from bottom (covering) to top (gone)
-  f.fillStyle=INK;f.fillRect(0,H-(H*2)*p+H-14,W,14);
+  const p=easeIO(lt/.5),v=SI%3;
+  if(v===0){f.fillStyle=LIME;f.fillRect(0,H-(H*2)*p,W,H);f.fillStyle=INK;f.fillRect(0,H-(H*2)*p+H-14,W,14)}
+  else if(v===1){f.fillStyle=INK;f.fillRect(W-(W*2)*p,0,W,H);f.fillStyle=LIME;f.fillRect(W-(W*2)*p+W-26,0,26,H)}
+  else{const r=Math.hypot(W,H)*.6;const q=lt/.5;f.fillStyle=LIME;f.beginPath();
+    if(q<.5){f.arc(W/2,H*.45,r*easeIO(q*2),0,7);f.fill()}else{f.rect(0,0,W,H);f.arc(W/2,H*.45,r*easeIO((q-.5)*2),0,7,true);f.fill('evenodd')}}
 }
 
 const esc=s=>String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;');
@@ -145,7 +166,9 @@ function sceneHTML(s,i,n){
 }
 const scenes=SPEC.scenes;let starts=[],T=0;scenes.forEach(s=>{starts.push(T);T+=s.dur||4});window.TOTAL=T;
 let cur=-1;
-const capHTML=c=>words(esc(String(c).replace(/[*_~]/g,''))).replace(/class="w"/g,'class="w cw"');
+function capHTML(c){const ws=String(c).replace(/[*_~]/g,'').split(/\s+/).filter(Boolean);const ch=[];let cur=[];
+  ws.forEach(w=>{const len=cur.join(' ').length+w.length;if(cur.length&&(cur.length>=4||len>24)){ch.push(cur);cur=[]}cur.push(w)});if(cur.length)ch.push(cur);
+  return ch.map(c=>`<div class="chunk">${c.map(w=>`<span class="cw" data-l="${w.length+1}"><i>${esc(w)}</i></span>`).join(' ')}</div>`).join('')}
 function build(i){const s=scenes[i];
   const prog=MODE==='reel'?`<div class="prog">${scenes.map(()=>'<b><i></i></b>').join('')}</div>`:'';
   document.getElementById('root').innerHTML=`<div class="brand"><i></i>KHALIL BAGHIROV</div>${SPEC.tag?`<div class="tag">${esc(SPEC.tag)}</div>`:''}${prog}${sceneHTML(s,i,scenes.length)}${MODE==='reel'&&s.cap?`<div class="cap">${capHTML(s.cap)}</div>`:''}`}
@@ -156,7 +179,9 @@ window.renderAt=function(t){
   const s=scenes[i],lt=t-starts[i],dur=s.dur||4,R=MODE==='reel';
   drawBg(t);drawFx(lt,i===0);
   const cam=document.getElementById('cam');
-  if(R){const z=1+.02*clamp(lt/dur)+(i>0?.05*(1-ease(lt/.6)):0);cam.style.transform=`scale(${z})`}
+  SI=i;SLT=lt;
+  if(R){const z=1+.025*clamp(lt/dur)+(i>0?.07*(1-ease(lt/.55)):0);const sh=i===0&&lt<.6?(1-lt/.6)*6:0;
+    cam.style.transform=`translate(${6*Math.sin(t*.8)+sh*Math.sin(t*90)}px,${8*Math.cos(t*.7)}px) rotate(${.35*Math.sin(t*.5)}deg) scale(${z})`}
   document.querySelectorAll('.prog b i').forEach((b,j)=>{b.style.width=(j<i?100:j>i?0:100*clamp(lt/dur))+'%'});
   const D=R?1:0; // in slide mode everything is fully shown (lt is near scene end anyway)
   document.querySelectorAll('[data-in]').forEach(el=>{
@@ -171,14 +196,18 @@ window.renderAt=function(t){
   });
   document.querySelectorAll('[data-count]').forEach(el=>{el.textContent=fmtNum(parseFloat(el.dataset.count)*ease((lt-parseFloat(el.dataset.cin))/1.2))+el.dataset.suffix});
   document.querySelectorAll('[data-words]').forEach(el=>{const st=parseFloat(el.dataset.words);
-    el.querySelectorAll('.w>i').forEach((w,k)=>{const p=(lt-st-k*.08)/.45;w.style.transform=`translateY(${(1-ease(p))*115}%)`;w.style.opacity=clamp(p*3)})});
+    el.querySelectorAll('.w>i').forEach((w,k)=>{const p=(lt-st-k*.08)/.45;w.style.transform=`translateY(${(1-ease(p))*115}%) scale(${1+.25*(1-spring(p))}) rotate(${(1-ease(p))*8}deg)`;w.style.opacity=clamp(p*3)})});
+  document.querySelectorAll('.sticker,.inv').forEach((el,k)=>{el.style.rotate=`${-2+1.5*Math.sin(t*3+k)}deg`});
   // marker wipe: starts after the words are in
   document.querySelectorAll('.scene .mk').forEach((m,k)=>{m.style.setProperty('--mk',(100*ease((lt-.6-k*.25)/.45))+'%')});
   // captions: words appear + karaoke highlight
-  document.querySelectorAll('.cap').forEach(el=>{const ws=[...el.querySelectorAll('.cw')];const span=Math.min(dur*.7,ws.length*.3);
-    el.style.opacity=clamp((lt-.15)/.15);
-    ws.forEach((w,k)=>{const a=.15+k*span/Math.max(1,ws.length),b=.15+(k+1)*span/Math.max(1,ws.length);const p=(lt-a)/.15;
-      w.firstChild.style.opacity=clamp(.2+p);w.classList.toggle('on',lt>=a&&lt<b+.05)})});
+  document.querySelectorAll('.cap').forEach(el=>{const ws=[...el.querySelectorAll('.cw')];
+    const [c0,c1]=s.capT||[.15,.15+Math.min(dur*.7,ws.length*.3)];const tot=ws.reduce((a,w)=>a+ +w.dataset.l,0)||1;
+    let acc=0,curChunk=null;ws.forEach(w=>{const a=c0+(c1-c0)*acc/tot;acc+= +w.dataset.l;const b=c0+(c1-c0)*acc/tot;w._a=a;w._b=b;
+      const on=lt>=a&&lt<b;w.classList.toggle('on',on);w.firstChild.style.opacity=lt>=a?1:.35;if(on||(!curChunk&&lt>=a))curChunk=w.parentNode;if(lt>=a)curChunk=w.parentNode});
+    if(!curChunk)curChunk=el.querySelector('.chunk');
+    el.querySelectorAll('.chunk').forEach(c=>{c.style.display=c===curChunk?'block':'none'});
+    const fw=curChunk.querySelector('.cw');const pp=clamp((lt-(fw._a||0))/.18);curChunk.style.transform=`scale(${.85+.15*spring(pp)})`;el.style.opacity=lt<c0-.1?0:1});
   document.querySelectorAll('[data-ck]').forEach(b=>{const p=ease((lt-parseFloat(b.dataset.ck))/.35);b.style.background=p>0?LIME:'';
     b.style.transform=`rotate(${p>0?(1-spring((lt-parseFloat(b.dataset.ck))/.4))*-20:0}deg)`;const pa=b.querySelector('.ck');pa.style.strokeDasharray='1';pa.style.strokeDashoffset=1-p});
   document.querySelectorAll('[data-vis]').forEach(sv=>{const vp=clamp((lt-0.7)/1.3);

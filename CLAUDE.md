@@ -27,6 +27,16 @@ SMM-çilər, marketinq öyrənənlər. Dil: Azərbaycan dili, səmimi, sadə, "s
   `musicSeed % 6` fərqli olsun.
 - Videoda emoji işlətmə (şrift göstərmir). Caption-da emoji olar.
 
+## Səs (voiceover) — ElevenLabs
+- Hər səhnədə `vo` sahəsi: diktorun deyəcəyi 1–2 cümlə (danışıq dili, rəqəmlər rəqəmlə, "AZN" yox "manat").
+- ElevenLabs: model `eleven_v3`, səs **Ibrahim Mammadli** (`BQgh92MxG7QAtCA8wY7O`, az), generations_count 1.
+  Mətn: `[excited] <vo1> [long pause] <vo2> [long pause] ...` — bütün video BİR take.
+- mp3-ü `posts/<id>/voice.mp3` kimi qoy → `render.mjs` avtomatik: `engine/voice.py` take-i pauzalardan
+  səhnələrə bölür, səhnə müddətlərini səsə uyğunlaşdırır, altyazı = `vo` (söz-söz karaoke, səslə sinxron),
+  musiqi səsin altında yatır (ducking). voice.mp3 yoxdursa video səssiz (yalnız musiqi) render olunur.
+- Səs faylını yükləmək üçün `storage.googleapis.com` domeni icazəli olmalıdır (claude.ai → Settings → Capabilities).
+  Bloklanıbsa, səssiz render et və Khalil-ə qeyd et.
+
 ## Sütunlar (rotasiya)
 AI (praktik alətlər/promptlar) · Ads (Meta/TikTok reklam) · Instagram (böyümə, Reels) ·
 Psixologiya (satış/qiymət psixologiyası) · Biznes (Bakı SMB praktik məsləhət).

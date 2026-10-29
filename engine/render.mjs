@@ -2,7 +2,7 @@
 // Reel spec  -> posts/<id>/reel.mp4 + cover.jpg
 // Carousel   -> posts/<id>/slide-1.png ...
 import { createRequire } from 'module';
-import { readFileSync } from 'fs';
+import { readFileSync, existsSync } from 'fs';
 const { chromium } = createRequire(import.meta.url)('playwright');
 import { spawn, execFileSync } from 'child_process';
 import path from 'path';
@@ -12,6 +12,13 @@ const ENGINE = path.dirname(fileURLToPath(import.meta.url));
 const specPath = path.resolve(process.argv[2]);
 const outDir = path.dirname(specPath);
 const spec = JSON.parse(readFileSync(specPath, 'utf8'));
+// Voiceover: posts/<id>/voice.mp3 (+ scene.vo texts) -> scene durations + caption timing follow the voice
+const HAS_VOICE = spec.type !== 'carousel' && existsSync(path.join(outDir, 'voice.mp3'));
+if (HAS_VOICE) {
+  execFileSync('python3', [path.join(ENGINE, 'voice.py'), specPath], { stdio: 'inherit' });
+  const vt = JSON.parse(readFileSync(path.join(outDir, 'voice_timing.json'), 'utf8'));
+  spec.scenes.forEach((s, i) => { s.dur = vt.durs[i]; s.capT = vt.capT[i]; if (s.vo) s.cap = s.vo; });
+}
 const FPS = 30;
 
 const browser = await chromium.launch();
@@ -41,8 +48,15 @@ if (spec.type === 'carousel') {
   const wav = path.join(outDir, 'music.wav');
   execFileSync('python3', [path.join(ENGINE, 'music.py'), wav, String(total + 0.5), String(spec.musicSeed ?? Math.floor(Math.random() * 1000))], { stdio: 'inherit' });
   const out = path.join(outDir, 'reel.mp4');
+  let audio = wav;
+  if (HAS_VOICE) { // music ducked under the voice
+    audio = path.join(outDir, 'mix.wav');
+    execFileSync('ffmpeg', ['-v', 'error', '-y', '-i', wav, '-i', path.join(outDir, 'voice_aligned.wav'), '-filter_complex',
+      '[0:a]volume=0.55[m];[1:a]aformat=channel_layouts=stereo,volume=1.0,asplit[v][sc];[m][sc]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=350[md];[md][v]amix=inputs=2:normalize=0:duration=first,loudnorm=I=-14:TP=-1.5:LRA=11',
+      '-ar', '44100', audio]);
+  }
   const ff = spawn('ffmpeg', ['-v', 'error', '-y', '-f', 'image2pipe', '-framerate', String(FPS), '-c:v', 'mjpeg', '-i', '-',
-    '-i', wav, '-map', '0:v', '-map', '1:a', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '20', '-pix_fmt', 'yuv420p',
+    '-i', audio, '-map', '0:v', '-map', '1:a', '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '20', '-pix_fmt', 'yuv420p',
     '-c:a', 'aac', '-b:a', '160k', '-shortest', '-movflags', '+faststart', out], { stdio: ['pipe', 'inherit', 'inherit'] });
   for (let f = 0; f < frames; f++) {
     await page.evaluate((x) => window.renderAt(x), f / FPS);
