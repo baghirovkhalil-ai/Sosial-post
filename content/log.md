@@ -11,3 +11,5 @@
 | 2026-10-29 18:00 | YT dərs: Meta Ads #1 — How Meta Ads Actually Work | video 16:9 | Lessons | YouTube |
 | 2026-10-29 19:00 | YT dərs: Google Ads #1 — How Google Ads Works | video 16:9 | Lessons | YouTube |
 - 2026-10-29 01:00 — əlavə REEL: AI montaj showcase (Khalil-in öz videosu, AI ilə montaj), IG+YT, Metricool id 409406226
+| 2026-10-30 18:00 | YT dərs: Meta Ads #2 — Setting Up Business Manager the Right Way | video 16:9 | Lessons | YouTube |
+| 2026-10-30 19:00 | YT dərs: Google Ads #2 — Setting Up Your Google Ads Account | video 16:9 | Lessons | YouTube |
