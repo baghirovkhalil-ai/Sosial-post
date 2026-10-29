@@ -17,3 +17,6 @@
 | 2026-10-29 20:00 | ChatGPT biznesini tövsiyə edirmi? (AI axtarışda görünmək) | reel | AI | v3 |
 | 2026-10-30 12:00 | Menyudakı ən bahalı yemək satılmaq üçün deyil | reel | Psixologiya | v3 |
 | 2026-10-31 12:00 | Reklama 100 AZN, 0 mesaj — ilk 2 saniyə (v3 ilə yenidən render) | reel | Ads | v3 |
+| 2026-10-30 20:00 | Rəqibinin zəif yerini ChatGPT ilə tap | reel | AI | v3, Metricool 410306564 |
+| 2026-10-31 20:00 | Profilinə girirlər, amma izləmirlər? (profil auditi) | reel | Instagram | v3, Metricool 410306681 |
+| 2026-10-29 | Repo bərpa edildi: d354a28 commit-i təsadüfən bütün faylları silmişdi (217b29e) | — | — | avtomatik |

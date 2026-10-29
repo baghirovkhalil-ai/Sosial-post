@@ -28,19 +28,21 @@
  },
  {
   "n": 4,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "AI",
   "hook": "ChatGPT-yə bu sualı ver — rəqibinin zəif yerini tapacaq",
-  "angle": "Rəqib analizi promptu: rəylər, qiymət, mesajlar"
+  "angle": "Rəqib analizi promptu: rəylər, qiymət, mesajlar",
+  "date": "2026-10-30"
  },
  {
   "n": 5,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Instagram",
   "hook": "Profilinə girən 10 nəfərdən 9-u niyə izləmir?",
-  "angle": "Bio, highlights, ilk 9 post, CTA — profil auditi checklist"
+  "angle": "Bio, highlights, ilk 9 post, CTA — profil auditi checklist",
+  "date": "2026-10-31"
  },
  {
   "n": 6,
