@@ -1,0 +1,12 @@
+{
+ "id":"2026-10-29-chatgpt-tovsiye","type":"reel","tag":"AI + MARKETİNQ","musicSeed":13,
+ "scenes":[
+  {"kind":"hook","dur":3.8,"small":"Müştəri artıq belə soruşur:","big":"ChatGPT, tövsiyə et","sub":"Sənin biznesin *çıxır?*","cap":"Müştəri artıq Google-a yox, ChatGPT-yə soruşur"},
+  {"kind":"chat","dur":6.2,"title":"Bu testi indi et:","msgs":[{"from":"user","text":"Bakıda yaxşı diş klinikası tövsiyə et"},{"from":"ai","text":"Rəylərə və məlumatlara görə bu klinikalara baxa bilərsən: …"}],"cap":"Öz sahəni yaz — siyahıda sən varsan?"},
+  {"kind":"step","dur":3.8,"num":"01","title":"Google Maps","sub":"Ad, kateqoriya, ünvan, saatlar — *tam* doldur","visual":"target","cap":"Birinci: Google Maps profilini tam doldur"},
+  {"kind":"step","dur":3.8,"num":"02","color":"yellow","title":"Rəylər","sub":"Müştəri nə aldığını *sözlə* yazsın","cap":"İkinci: rəylərdə xidmətin adı keçsin"},
+  {"kind":"step","dur":3.8,"num":"03","color":"red","title":"Aydın sayt","sub":"Nə edirsən, harada, kimə — bir səhifədə","cap":"Üçüncü: saytda nə etdiyini sadə dillə yaz"},
+  {"kind":"compare","dur":5,"title":"Fərq budur:","badLabel":"GÖRÜNMÜR","bad":"Yalnız Instagram səhifəsi","goodLabel":"GÖRÜNÜR","good":"Maps + rəylər + sayt = AI səni *tapa bilir*","cap":"Yalnız Instagram azdır — AI səni tapmalıdır"},
+  {"kind":"cta","dur":4.6,"small":"Biznesin AI-da görünür?","big":"TEST yaz","sub":"Direktə yaz — birlikdə yoxlayaq","button":"Direktə yaz →","cap":"Direktə TEST yaz — birlikdə yoxlayaq"}
+ ]
+}

@@ -13,3 +13,7 @@
 - 2026-10-29 01:00 — əlavə REEL: AI montaj showcase (Khalil-in öz videosu, AI ilə montaj), IG+YT, Metricool id 409406226
 | 2026-10-30 18:00 | YT dərs: Meta Ads #2 — Setting Up Business Manager the Right Way | video 16:9 | Lessons | YouTube |
 | 2026-10-30 19:00 | YT dərs: Google Ads #2 — Setting Up Your Google Ads Account | video 16:9 | Lessons | YouTube |
+| 2026-10-29 | Stil v3 (ağ kağız + laym, Unbounded/Onest). Köhnə 20:00 / 30-okt 12:00 / 31-okt 12:00 reels qaralamaya keçdi, yeni videolarla əvəzləndi | — | — | Khalil-in istəyi |
+| 2026-10-29 20:00 | ChatGPT biznesini tövsiyə edirmi? (AI axtarışda görünmək) | reel | AI | v3 |
+| 2026-10-30 12:00 | Menyudakı ən bahalı yemək satılmaq üçün deyil | reel | Psixologiya | v3 |
+| 2026-10-31 12:00 | Reklama 100 AZN, 0 mesaj — ilk 2 saniyə (v3 ilə yenidən render) | reel | Ads | v3 |
