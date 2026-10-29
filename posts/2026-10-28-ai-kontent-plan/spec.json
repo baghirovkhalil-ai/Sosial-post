@@ -1,0 +1,12 @@
+{
+ "id":"2026-10-28-ai-kontent-plan","type":"reel","tag":"AI + MARKETİNQ","musicSeed":11,
+ "scenes":[
+  {"kind":"hook","dur":3.5,"small":"30 günlük kontent planı","big":"3 SAAT?","sub":"AI ilə — *1 dəqiqə*","cap":"Hələ də kontent planını əllə yazırsan?"},
+  {"kind":"chat","dur":6,"title":"Bu promptu yaz:","msgs":[{"from":"user","text":"Bakıda kafe üçün 30 günlük Instagram planı yaz: hər gün mövzu, format və CTA."},{"from":"ai","text":"Gün 1 — Reels: səhər qəhvəsinin hazırlanması. CTA: “Səhər qəhvən bizdən”. Gün 2 — Karusel: menyunun 5 sirri…"}],"cap":"Biznesini və hədəfini yaz — qalanını AI edir"},
+  {"kind":"step","dur":3.6,"num":"01","title":"Konkret yaz","sub":"Biznes, şəhər, auditoriya","visual":"target","cap":"Birinci: konkret ol — kim, harada, kimə?"},
+  {"kind":"step","dur":3.4,"num":"02","color":"yellow","title":"Format istə","sub":"Reels, karusel, story — hər gün üçün","cap":"İkinci: hər gün üçün format istə"},
+  {"kind":"step","dur":3.4,"num":"03","color":"red","title":"Ton ver","sub":"“Səmimi, sadə dildə yaz”","cap":"Üçüncü: necə danışsın, onu da de"},
+  {"kind":"compare","dur":6,"title":"Fərqi gör:","bad":"“Mənə post ideyası ver”","good":"“Nərimanovdakı kafe üçün 25–35 yaş qadınlara 30 Reels ideyası ver”","cap":"Sual nə qədər dəqiq olsa, cavab o qədər işləkdir"},
+  {"kind":"cta","dur":4.5,"small":"Promptu itirmə","big":"Yadda saxla","sub":"Hər gün 1 AI + marketinq dərsi","button":"İzlə →","cap":"Yadda saxla və izlə — sabah yeni dərs"}
+ ]
+}

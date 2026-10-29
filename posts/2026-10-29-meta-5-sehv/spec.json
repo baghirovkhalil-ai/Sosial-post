@@ -1,0 +1,80 @@
+{
+ "id": "2026-10-29-meta-5-sehv",
+ "type": "reel",
+ "tag": "META ADS",
+ "scenes": [
+  {
+   "kind": "hook",
+   "small": "Instagram reklamında",
+   "big": "Pulu yandıran",
+   "sub": "*5 səhv* — 3-cü hamıda var",
+   "cap": "Instagram reklamına pul gedir, müştəri yoxdur?",
+   "dur": 3.6
+  },
+  {
+   "kind": "step",
+   "num": "01",
+   "title": "Boost düyməsi",
+   "sub": "Ads Manager-siz reklam = kor atəş. Hədəf, auditoriya, ölçmə yoxdur.",
+   "visual": "target",
+   "cap": "Birinci səhv: Boost düyməsi ilə reklam",
+   "dur": 3.4
+  },
+  {
+   "kind": "step",
+   "num": "02",
+   "color": "yellow",
+   "title": "Hamıya göstər",
+   "sub": "“18–65, bütün Azərbaycan” — büdcə hər kəsə paylanır, alıcıya çatmır.",
+   "cap": "İkinci: hamıya göstərmək — büdcə alıcıya çatmır",
+   "dur": 3.6
+  },
+  {
+   "kind": "step",
+   "num": "03",
+   "color": "red",
+   "title": "Like hədəfi",
+   "sub": "Like satış deyil. Hədəfi “Mesaj” və ya “Lead” seç.",
+   "cap": "Üçüncü: like hədəfi — like satış deyil",
+   "dur": 3.4
+  },
+  {
+   "kind": "step",
+   "num": "04",
+   "title": "Bir kreativ",
+   "sub": "Ən azı 3 fərqli video/şəkil test et — alqoritm qalibi özü tapır.",
+   "visual": "bars",
+   "cap": "Dördüncü: cəmi bir kreativ",
+   "dur": 3.4
+  },
+  {
+   "kind": "step",
+   "num": "05",
+   "color": "yellow",
+   "title": "2 gündə söndür",
+   "sub": "Alqoritmə öyrənmək üçün 5–7 gün lazımdır. Tələsmə.",
+   "cap": "Beşinci: reklamı 2 gündə söndürmək",
+   "dur": 3.4
+  },
+  {
+   "kind": "compare",
+   "title": "Nəticə:",
+   "badLabel": "BELƏ YOX",
+   "bad": "Boost + hamıya + like = ~pul gedir, müştəri yox~",
+   "goodLabel": "BELƏ",
+   "good": "Ads Manager + dəqiq auditoriya + mesaj hədəfi = *müraciət*",
+   "cap": "Boost + hamıya + like = pul gedir",
+   "dur": 4.6
+  },
+  {
+   "kind": "cta",
+   "small": "Reklam hesabına baxım?",
+   "big": "Direktə yaz",
+   "sub": "“AUDİT” yaz — pulsuz yoxlayım",
+   "button": "Direktə yaz →",
+   "cap": "Direktə AUDİT yaz — reklam hesabına baxım",
+   "dur": 4.5
+  }
+ ],
+ "musicSeed": 2
+}
