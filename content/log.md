@@ -21,3 +21,5 @@
 | 2026-10-31 20:00 | Profilinə girirlər, amma izləmirlər? (profil auditi) | reel | Instagram | v3, Metricool 410306681 |
 | 2026-10-29 | Repo bərpa edildi: d354a28 commit-i təsadüfən bütün faylları silmişdi (217b29e) | — | — | avtomatik |
 | 2026-10-31 18:00/19:00 | YouTube dərsləri: meta-03 (Account Structure), google-03 (Campaign Types) | lesson | Meta/Google | Metricool 410855638, 410855645 |
+| 2026-11-01 12:00 | Reklam klik gətirir, mesaj yox? (mesaj kampaniyası) | reel | Ads | v3, Metricool 411456271 |
+| 2026-11-01 20:00 | Biznes üçün 7 pulsuz AI aləti | reel | AI | v3, Metricool 411456363 |

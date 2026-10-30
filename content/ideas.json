@@ -55,19 +55,21 @@
  },
  {
   "n": 7,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Ads",
   "hook": "Eyni büdcə, 3 dəfə ucuz müraciət — bir ayarla",
-  "angle": "Mesaj kampaniyası + WhatsApp/Direct hədəfi vs trafik"
+  "angle": "Mesaj kampaniyası + WhatsApp/Direct hədəfi vs trafik",
+  "date": "2026-11-01 12:00"
  },
  {
   "n": 8,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "AI",
   "hook": "Biznes üçün 7 pulsuz AI aləti (2026)",
-  "angle": "Mətn, şəkil, video, səs, təqdimat, analiz, avtomatlaşdırma — hər birinə 1 istifadə"
+  "angle": "Mətn, şəkil, video, səs, təqdimat, analiz, avtomatlaşdırma — hər birinə 1 istifadə",
+  "date": "2026-11-01 20:00"
  },
  {
   "n": 9,
