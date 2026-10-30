@@ -1,0 +1,10 @@
+{"id":"2026-11-01-pulsuz-ai-aletler","type":"reel","tag":"AI","musicSeed":9,
+ "scenes":[
+  {"kind":"hook","dur":4.0,"small":"Biznes üçün","big":"7 AI aləti","sub":"Hamısının *pulsuz planı* var","cap":"Biznes üçün 7 AI aləti — hamısının pulsuz planı var","vo":"Biznes üçün yeddi AI aləti. Hamısının pulsuz planı var."},
+  {"kind":"list","dur":5.4,"title":"Yaz və dizayn et:","items":["ChatGPT — mətn, caption","Canva — post dizaynı","CapCut — video montaj"],"cap":"ChatGPT mətn, Canva dizayn, CapCut video üçün","vo":"ChatGPT mətn və caption üçün, Canva dizayn üçün, CapCut video montaj üçün."},
+  {"kind":"list","dur":5.4,"title":"Səs, slayd, analiz:","items":["ElevenLabs — səs","Gamma — təqdimat","NotebookLM — sənəd analizi"],"cap":"ElevenLabs səs, Gamma təqdimat, NotebookLM analiz","vo":"ElevenLabs səs üçün, Gamma təqdimat üçün, NotebookLM sənədləri analiz etmək üçün."},
+  {"kind":"step","dur":3.8,"num":"07","color":"yellow","title":"Zapier","sub":"Təkrar işləri *avtomatlaşdır*","visual":"bars","cap":"Yeddinci: Zapier təkrar işləri avtomatlaşdırır","vo":"Yeddinci: Zapier. Təkrarlanan işləri avtomatlaşdırır."},
+  {"kind":"step","dur":3.8,"num":"!","color":"red","title":"Limit var","sub":"Pulsuz plan — *məhdud* istifadə","cap":"Pulsuz planların limiti var — əvvəl sına","vo":"Amma pulsuz planların limiti var. Əvvəl sına, sonra qərar ver."},
+  {"kind":"list","dur":4.6,"title":"Bu həftə sına:","items":["1 alət seç","1 real işə tətbiq et","Vaxta qənaəti ölç"],"cap":"Bu həftə bir alət seç və real işdə sına","vo":"Bu həftə bir alət seç, real bir işə tətbiq et və nə qədər vaxt qazandığını ölç."},
+  {"kind":"cta","dur":5.0,"small":"Siyahını itirmə","big":"Yadda saxla","sub":"Hər gün 1 AI + marketinq dərsi","button":"İzlə →","cap":"Yadda saxla və izlə — sabah yeni dərs","vo":"Siyahını itirmə. Yadda saxla və izlə."}
+ ]}

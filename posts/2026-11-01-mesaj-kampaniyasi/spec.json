@@ -1,0 +1,10 @@
+{"id":"2026-11-01-mesaj-kampaniyasi","type":"reel","tag":"META ADS","musicSeed":20,
+ "scenes":[
+  {"kind":"hook","dur":4.0,"small":"Reklam klik gətirir, amma","big":"Mesaj yox?","sub":"Səbəb — *kampaniya məqsədi*","cap":"Reklam klik gətirir, amma bir mesaj da gəlmir?","vo":"Reklam klik gətirir, amma bir mesaj da gəlmir? Səbəb kampaniyanın məqsədidir."},
+  {"kind":"step","dur":3.8,"num":"01","color":"red","title":"Trafik","sub":"Meta *klik edəni* tapır — ~yazanı yox~","visual":"cross","cap":"Trafik kampaniyası klik edəcək adamı axtarır","vo":"Trafik kampaniyası klik edəcək adamı axtarır, yazacaq adamı yox."},
+  {"kind":"step","dur":3.8,"num":"02","title":"Mesaj","sub":"Söhbətə *başlayacaq* adamlara göstərir","visual":"target","cap":"Mesaj hədəfi isə yazmağa hazır adamları tapır","vo":"Mesaj hədəfi isə yazmağa hazır olan adamlara göstərir."},
+  {"kind":"compare","dur":5.0,"title":"Fərq budur:","badLabel":"TRAFİK","bad":"Profilə və ya sayta klik","goodLabel":"MESAJ","good":"Direct və WhatsApp-da *söhbət*","cap":"Klik yox, söhbət lazımdırsa — mesaj hədəfi seç","vo":"Sənə klik yox, söhbət lazımdırsa, mesaj hədəfini seç."},
+  {"kind":"list","dur":5.2,"title":"Ads Manager-də:","items":["Məqsəd: Engagement","Konversiya yeri: Mesajlar","Instagram + WhatsApp seç"],"cap":"Ads Manager-də bu üç ayarı et","vo":"Ads Manager-də məqsəd Engagement, konversiya yeri mesajlar, sonra Instagram və WhatsApp seç."},
+  {"kind":"step","dur":3.8,"num":"03","color":"yellow","title":"Hazır suallar","sub":"“Qiymət neçəyədir?” — *bir toxunuşla* yazsın","cap":"Hazır suallar qoy ki, adam bir toxunuşla yazsın","vo":"Hazır suallar əlavə et ki, adam bir toxunuşla yaza bilsin."},
+  {"kind":"cta","dur":5.0,"small":"Reklamına baxım?","big":"MESAJ yaz","sub":"Direktə yaz — ayarlarına birlikdə baxaq","button":"Direktə yaz →","cap":"Direktə MESAJ yaz — reklamına baxım","vo":"Reklamına baxım? Direktə MESAJ yaz."}
+ ]}
