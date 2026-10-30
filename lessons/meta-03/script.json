@@ -1,0 +1,88 @@
+{
+  "id": "meta-03",
+  "course": "meta",
+  "num": 3,
+  "title": "Campaigns, Ad Sets and Ads: Account Structure",
+  "subtitle": "What you control at each of the three levels",
+  "youtube_title": "Meta Ads Account Structure: Campaigns, Ad Sets and Ads Explained | Meta Ads Course Lesson 3",
+  "description": "Lesson 3 of the free Meta Ads course. Every Meta ad lives inside a three-level structure: campaign, ad set and ad. In this lesson: what you control at each level, how the levels work together, a simple structure for small budgets, and how to name your campaigns so your reports stay clear.",
+  "tags": ["meta ads", "facebook ads", "meta ads account structure", "campaign ad set ad", "facebook ads for beginners", "meta ads tutorial", "ads manager", "meta ads course"],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson three of this free Meta Ads course. In lesson two we set up a business portfolio, a safe home for your Page and ad account. Today we open Ads Manager and learn its structure: campaigns, ad sets, and ads. Once you understand these three levels, everything else in Meta Ads makes sense."
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "Three levels: *campaign*, ad set, ad",
+      "narration": "Here's the core idea. Every ad on Meta lives inside three levels. At the top is the campaign. Inside the campaign you have one or more ad sets. And inside each ad set you have one or more ads. Each level controls different decisions, so when something is wrong, you know exactly where to look."
+    },
+    {
+      "type": "points",
+      "title": "Campaign level: the goal",
+      "items": [
+        "Choose the objective",
+        "Special ad category, if needed",
+        "Advantage campaign budget, optional",
+        "A/B test settings"
+      ],
+      "narration": "Let's start at the top. At the campaign level you choose the objective, like awareness, traffic, leads, or sales. This tells Meta what result you want. If your ads are about housing, jobs, credit, or social issues, you must declare a special ad category, if needed. You can also turn on Advantage campaign budget, which is optional and lets Meta share one budget across your ad sets. And this is where you find A/B test settings."
+    },
+    {
+      "type": "points",
+      "title": "Ad set level: who, where, how much",
+      "items": [
+        "Conversion location and performance goal",
+        "Budget and schedule",
+        "Audience",
+        "Placements"
+      ],
+      "narration": "The ad set level is where you decide who, where, and how much. First, the conversion location and performance goal, for example a website, a lead form, or WhatsApp messages. Then the budget and schedule, unless the budget is set at the campaign level. Next, the audience: location, age, and targeting. And finally placements, meaning Facebook, Instagram, Messenger, and more."
+    },
+    {
+      "type": "points",
+      "title": "Ad level: what people see",
+      "items": [
+        "Identity: Page and Instagram account",
+        "Format: image, video or carousel",
+        "Primary text, headline and button",
+        "Destination and tracking"
+      ],
+      "narration": "The ad level is what people actually see. Choose the identity, meaning the Page and Instagram account the ad runs from. Pick the format: an image, a video, or a carousel. Write the primary text, the headline, and the call to action button. Then set the destination, like your website or chat, and the tracking, such as your Pixel."
+    },
+    {
+      "type": "steps",
+      "title": "A simple structure for small budgets",
+      "items": [
+        "One campaign per goal",
+        "One or two ad sets",
+        "Three to five ads per ad set",
+        "Let it run before changing things"
+      ],
+      "narration": "For a small budget, keep it simple. Create one campaign per goal, for example one for leads. Use one or two ad sets, so each one gets enough budget to learn. Add three to five ads per ad set, so Meta can find the best creative. And let it run for a few days before changing things. Too many small ad sets split your money and slow down learning."
+    },
+    {
+      "type": "big",
+      "kicker": "A pro habit",
+      "text": "Name it so you *understand it* in 3 months",
+      "narration": "One pro habit: name everything clearly. A good campaign name includes the goal, the product, and the month, for example leads, dental cleaning, November. Ad sets can describe the audience, and ads can describe the creative, like video one or testimonial. Name it so you understand it in three months, and your reports become much easier to read."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Open Ads Manager and explore the three levels",
+        "Draft one campaign without publishing",
+        "Write a naming rule for your account"
+      ],
+      "narration": "Your homework for today. Open Ads Manager and explore the three levels by clicking through the tabs. Draft one campaign without publishing, just to see every setting. Then write a naming rule for your account and use it from now on."
+    },
+    {
+      "type": "outro",
+      "next": "Choosing the Right Campaign Objective",
+      "narration": "In the next lesson, we will go deeper into the first decision you make: choosing the right campaign objective. Subscribe so you don't miss it, and I'll see you in lesson four."
+    }
+  ],
+  "thumb": "Campaign, Ad Set, Ad *Explained*"
+}

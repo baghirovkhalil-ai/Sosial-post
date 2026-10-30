@@ -1,0 +1,95 @@
+{
+  "id": "google-03",
+  "course": "google",
+  "num": 3,
+  "title": "Google Ads Campaign Types Explained",
+  "subtitle": "Search, Performance Max, Demand Gen and more",
+  "youtube_title": "Google Ads Campaign Types Explained: Search, PMax, Demand Gen, Video | Google Ads Course Lesson 3",
+  "description": "Lesson 3 of the free Google Ads course. Google Ads has several campaign types, and choosing the right one is the first big decision. In this lesson: how intent shapes your choice, Search vs Performance Max, Display, Video and Demand Gen, Shopping and App campaigns, and which type a small business should start with.",
+  "tags": [
+    "google ads",
+    "google ads campaign types",
+    "performance max",
+    "demand gen",
+    "search campaign",
+    "google ads for beginners",
+    "ppc",
+    "google ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson three of this free Google Ads course. In lesson two we set up your account in Expert Mode, without a campaign. Today we choose what to build first, by going through every Google Ads campaign type, and which one fits your business."
+    },
+    {
+      "type": "big",
+      "kicker": "The key question",
+      "text": "Are people *searching* for you yet?",
+      "narration": "Before we look at the list, ask one key question. Are people already searching for what you sell? If they are, you can catch them with high intent at the moment they search. If they are not, you need to create demand first, by showing ads to people while they browse or watch videos. This one question narrows your choice a lot."
+    },
+    {
+      "type": "compare",
+      "title": "Search vs Performance Max",
+      "badLabel": "Performance Max",
+      "bad": [
+        "One campaign across all Google channels",
+        "Google picks most placements",
+        "Needs good conversion data"
+      ],
+      "goodLabel": "Search",
+      "good": [
+        "Text ads on Google search results",
+        "You choose the keywords",
+        "Clear search terms reporting"
+      ],
+      "narration": "The two campaign types you will hear about most are Search and Performance Max. Performance Max runs one campaign across all Google channels, like Search, YouTube, Display, Gmail, and Maps. Google picks most placements with automation, so it needs good conversion data to work well. Search shows text ads on Google search results. You choose the keywords, and you get clear search terms reporting. For beginners, Search is easier to control."
+    },
+    {
+      "type": "points",
+      "title": "Campaigns that build demand",
+      "items": [
+        "Display: image ads on websites and apps",
+        "Video: ads on YouTube",
+        "Demand Gen: YouTube, Discover, Gmail and more"
+      ],
+      "narration": "Now the campaigns that build demand. Display shows image ads on websites and apps in the Google Display Network. Video runs your ads on YouTube, before, during, or next to other videos. And Demand Gen shows visual ads on YouTube, Discover, Gmail, and more, including the Display Network, and it is built for reaching new people and remarketing. These are great for awareness, but they usually bring less ready-to-buy traffic than Search."
+    },
+    {
+      "type": "points",
+      "title": "Special campaign types",
+      "items": [
+        "Shopping: product ads from Merchant Center",
+        "App: promote app installs",
+        "Smart: simplified, few controls"
+      ],
+      "narration": "There are also special campaign types. Shopping shows product ads with a picture and price, using your product feed from Merchant Center, so it is for online stores. App campaigns promote app installs and in app actions. And Smart campaigns are the simplified version we skipped in lesson two. Smart is simple, with few controls, which is why we avoid it in this course."
+    },
+    {
+      "type": "steps",
+      "title": "Which one should you start with?",
+      "items": [
+        "Local service business: Search",
+        "Online store: Search or Shopping",
+        "New product nobody searches: Demand Gen or Video",
+        "Add Performance Max after tracking works"
+      ],
+      "narration": "So which one should you start with? A local service business, like a clinic or a repair service, should start with Search. An online store can start with Search or Shopping. For a new product nobody searches for yet, try Demand Gen or Video to build awareness. And add Performance Max after tracking works and you are getting steady conversions."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Search Google like your customer would",
+        "Pick one campaign type for your business",
+        "Write down why it fits"
+      ],
+      "narration": "Your homework for today. Search Google like your customer would, and see which ads show up. Pick one campaign type for your business based on today's lesson. Then write down why it fits, in one sentence. That is the campaign we will plan in the coming lessons."
+    },
+    {
+      "type": "outro",
+      "next": "Keyword Research with Keyword Planner",
+      "narration": "In the next lesson, we will do keyword research with Keyword Planner, to find what your customers really type into Google. Subscribe so you don't miss it, and I'll see you in lesson four."
+    }
+  ],
+  "thumb": "Which Campaign Type *Fits You*"
+}
