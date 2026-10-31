@@ -1,0 +1,103 @@
+{
+  "id": "google-04",
+  "course": "google",
+  "num": 4,
+  "title": "Keyword Research with Keyword Planner",
+  "subtitle": "Find the words your customers really search",
+  "youtube_title": "Google Ads Keyword Research with Keyword Planner (Step by Step) | Google Ads Course Lesson 4",
+  "description": "Lesson 4 of the free Google Ads course. Search campaigns start with keywords, and Keyword Planner is Google's free tool to find them. In this lesson: the two ways to use Keyword Planner, what the main columns mean, how to judge search intent, and how to build a short first keyword list for a small business.",
+  "tags": [
+    "google ads",
+    "keyword planner",
+    "google keyword planner",
+    "keyword research",
+    "google ads keywords",
+    "google ads for beginners",
+    "ppc",
+    "google ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson four of this free Google Ads course. In lesson three we compared the campaign types, and for most small businesses we picked Search as the first campaign. Search runs on keywords, so today we learn keyword research with Keyword Planner."
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "Think like your *customer*, not like your company",
+      "narration": "Here's the core idea. Think like your customer, not like your company. Businesses often use their own internal words, but customers search in simple language, like dentist near me or teeth whitening price. Your job is to find those real words, and Keyword Planner shows you how people actually search."
+    },
+    {
+      "type": "steps",
+      "title": "Open Keyword Planner",
+      "items": [
+        "Sign in to Google Ads",
+        "Tools, then Planning",
+        "Click Keyword Planner",
+        "Choose one of two options"
+      ],
+      "narration": "Keyword Planner is free inside your account. Sign in to Google Ads. Open Tools, then Planning. Click Keyword Planner. Then choose one of two options, which we look at next. You don't need a running campaign to use it."
+    },
+    {
+      "type": "compare",
+      "title": "Two ways to use it",
+      "badLabel": "Discover new keywords",
+      "bad": [
+        "Start with words or a website",
+        "Get new keyword ideas",
+        "Best for a fresh list"
+      ],
+      "goodLabel": "Get search volume and forecasts",
+      "good": [
+        "Paste your own keyword list",
+        "See volume and trends",
+        "Forecast clicks and cost"
+      ],
+      "narration": "There are two ways to use it. Discover new keywords lets you start with words or a website, and you get new keyword ideas related to your business. This is best for a fresh list. Get search volume and forecasts is for when you already have a list. You paste your own keyword list, see volume and trends, and forecast clicks and cost for a budget."
+    },
+    {
+      "type": "points",
+      "title": "Read the key columns",
+      "items": [
+        "Average monthly searches",
+        "Three month and year over year change",
+        "Competition: low, medium, high",
+        "Top of page bid ranges"
+      ],
+      "narration": "Now read the key columns. Average monthly searches shows how often people search a keyword. Note that accounts with little ad spend may see ranges, like one hundred to one thousand, instead of exact numbers. Three month and year over year change shows the trend. Competition, low, medium, or high, shows how many advertisers bid on it. And the top of page bid ranges give a rough idea of the cost per click."
+    },
+    {
+      "type": "points",
+      "title": "Judge intent, not just volume",
+      "items": [
+        "Buyer words: price, near me, book",
+        "Research words: what is, ideas",
+        "Remove jobs, free and DIY searches",
+        "Group similar keywords together"
+      ],
+      "narration": "Don't chase volume alone, judge intent. Buyer words, like price, near me, or book, show someone ready to act. Research words, like what is or ideas, usually mean the person is still learning. Remove jobs, free, and DIY searches that will never become customers. Then group similar keywords together, because each group will become an ad group later."
+    },
+    {
+      "type": "big",
+      "kicker": "Start small",
+      "text": "Start with *15 to 30* strong keywords",
+      "narration": "For a small budget, start small. Start with fifteen to thirty strong keywords with clear buyer intent, not hundreds. A short, focused list spends your budget on the searches most likely to bring customers, and you can add more later, based on real data. Quality beats quantity, especially in your first month."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Run Discover new keywords for your business",
+        "Mark buyer words and remove the rest",
+        "Save 15 to 30 keywords in groups"
+      ],
+      "narration": "Your homework for today. Run Discover new keywords for your business, using your main service and your website. Mark buyer words and remove the rest. Then save fifteen to thirty keywords in groups, ready for your first campaign."
+    },
+    {
+      "type": "outro",
+      "next": "Keyword Match Types",
+      "narration": "In the next lesson, we will learn how Google matches your keywords to real searches: keyword match types. Subscribe so you don't miss it, and I'll see you in lesson five."
+    }
+  ],
+  "thumb": "Keyword Planner *Step by Step*"
+}

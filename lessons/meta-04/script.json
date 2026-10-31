@@ -1,0 +1,111 @@
+{
+  "id": "meta-04",
+  "course": "meta",
+  "num": 4,
+  "title": "Choosing the Right Campaign Objective",
+  "subtitle": "Six objectives, one simple rule to pick the right one",
+  "youtube_title": "Meta Ads Campaign Objectives Explained: Which One to Choose | Meta Ads Course Lesson 4",
+  "description": "Lesson 4 of the free Meta Ads course. The campaign objective tells Meta what result you want, and Meta shows your ads to the people most likely to give you that result. In this lesson: the six Meta Ads objectives, why Meta optimizes for exactly what you ask, a common mistake with Traffic and Engagement, and how a small business should choose.",
+  "tags": [
+    "meta ads",
+    "facebook ads",
+    "meta ads objectives",
+    "campaign objective",
+    "leads objective",
+    "sales objective",
+    "facebook ads for beginners",
+    "meta ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson four of this free Meta Ads course. In lesson three we learned the three levels: campaign, ad set, and ad. Today we make the first decision at the campaign level, and it is the most important one: choosing the right campaign objective."
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "Meta gives you *exactly* what you ask for",
+      "narration": "Here's the core idea. Meta gives you exactly what you ask for. When you choose an objective, Meta looks for the people in your audience who are most likely to take that action. Ask for clicks, and you get people who click. Ask for leads, and you get people who fill in forms. So the objective is not a label, it is an instruction."
+    },
+    {
+      "type": "points",
+      "title": "The six objectives: top of funnel",
+      "items": [
+        "Awareness: reach and ad recall",
+        "Traffic: visits to a destination",
+        "Engagement: messages, video views, interactions"
+      ],
+      "narration": "Today Meta has six objectives. Awareness is for reach and ad recall, showing your brand to as many people as possible. Traffic sends visits to a destination, like your website or app. Engagement brings messages, video views, and other interactions with your posts."
+    },
+    {
+      "type": "points",
+      "title": "The six objectives: results",
+      "items": [
+        "Leads: contacts from forms, calls, chats",
+        "App promotion: installs and app actions",
+        "Sales: purchases and conversions"
+      ],
+      "narration": "The next three are closer to results. Leads collects contacts from forms, calls, and chats. App promotion drives installs and app actions. And Sales is for purchases and other valuable conversions."
+    },
+    {
+      "type": "compare",
+      "title": "Wrong goal vs right goal",
+      "badLabel": "Traffic for a shop",
+      "bad": [
+        "Cheap clicks",
+        "People who click a lot",
+        "Few real purchases"
+      ],
+      "goodLabel": "Sales for a shop",
+      "good": [
+        "Clicks may cost more",
+        "People likely to buy",
+        "Results you can count"
+      ],
+      "narration": "Here's the most common mistake. A shop owner wants sales but chooses Traffic, because the clicks look cheap. Meta delivers cheap clicks, often from people who click a lot but rarely buy, so there are few real purchases. With the Sales objective, clicks may cost more, but Meta targets people likely to buy, and you get results you can count."
+    },
+    {
+      "type": "steps",
+      "title": "How to choose in 3 questions",
+      "items": [
+        "What action pays your bills?",
+        "Where does that action happen?",
+        "Can Meta measure it?"
+      ],
+      "narration": "To choose, ask three questions. First, what action pays your bills? For a shop it is a purchase, for a dentist it is a booked appointment or a lead. Second, where does that action happen: on your website, in an instant form, on WhatsApp, or by phone? Third, can Meta measure it? If the action is on your website, you need the Pixel, which we cover in lesson five."
+    },
+    {
+      "type": "points",
+      "title": "Quick picks for small businesses",
+      "items": [
+        "Online shop with Pixel: Sales",
+        "Service business: Leads",
+        "Chat-based sales: Engagement or Leads",
+        "New brand, local event: Awareness"
+      ],
+      "narration": "Here are some quick picks. An online shop with the Pixel installed should usually use Sales. A service business, like a clinic or a school, usually starts with Leads. If you sell through chat, on WhatsApp or Instagram Direct, chat-based sales can use Engagement or Leads with messages as the conversion location. And for a new brand or a local event, Awareness can help people remember you."
+    },
+    {
+      "type": "big",
+      "kicker": "Remember",
+      "text": "Choose the objective *closest to money*",
+      "narration": "So remember this rule. Choose the objective closest to money, as long as Meta can measure that result. The closer your objective is to the real business result, the better Meta can find the right people for you."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Write the one action that pays your bills",
+        "Note where that action happens",
+        "Pick your objective for your first campaign"
+      ],
+      "narration": "Your homework for today. Write the one action that pays your bills. Note where that action happens, on a website, a form, or in chat. Then pick your objective for your first campaign, using the three questions from this lesson."
+    },
+    {
+      "type": "outro",
+      "next": "Meta Pixel Explained",
+      "narration": "In the next lesson, we will set up the tool that lets Meta measure results on your website: the Meta Pixel explained. Subscribe so you don't miss it, and I'll see you in lesson five."
+    }
+  ],
+  "thumb": "Pick the *Right* Objective"
+}
