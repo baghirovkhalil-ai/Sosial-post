@@ -1,0 +1,112 @@
+{
+  "id": "meta-05",
+  "course": "meta",
+  "num": 5,
+  "title": "Meta Pixel Explained",
+  "subtitle": "How Meta sees what people do on your website",
+  "youtube_title": "Meta Pixel Explained for Beginners: Setup, Events and Testing | Meta Ads Course Lesson 5",
+  "description": "Lesson 5 of the free Meta Ads course. The Meta Pixel is a small piece of code on your website that tells Meta what visitors do after they see your ads. In this lesson: what the Pixel does, standard events, three ways to install it, how to test it, and why the Pixel alone is not enough today.",
+  "tags": [
+    "meta pixel",
+    "facebook pixel",
+    "meta ads",
+    "facebook ads",
+    "pixel setup",
+    "events manager",
+    "meta ads for beginners",
+    "meta ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson five of this free Meta Ads course. In lesson four we learned to choose the objective closest to money, as long as Meta can measure it. Today we look at the tool that makes measurement possible on your website: the Meta Pixel."
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "No Pixel, *no feedback* for Meta",
+      "narration": "Here's the core idea. Without the Pixel, Meta gets no feedback. It can see who clicked your ad, but it cannot see who bought, who booked, or who left a form on your website. And if Meta cannot see results, it cannot find more people like your buyers."
+    },
+    {
+      "type": "points",
+      "title": "What the Pixel does",
+      "items": [
+        "Code on every page of your site",
+        "Sends events back to Meta",
+        "Measures results of your ads",
+        "Builds audiences for retargeting"
+      ],
+      "narration": "So what is it? The Pixel is a small piece of code on every page of your site. When a visitor does something, it sends events back to Meta. That lets you measure results of your ads in Ads Manager. It also builds audiences for retargeting, like people who visited your site but did not buy."
+    },
+    {
+      "type": "points",
+      "title": "Standard events to know",
+      "items": [
+        "PageView: someone opened a page",
+        "ViewContent: viewed a product page",
+        "AddToCart and InitiateCheckout",
+        "Purchase or Lead: the money action"
+      ],
+      "narration": "Meta has a list of standard events. PageView means someone opened a page, and the base code tracks it automatically. ViewContent means someone viewed a product page. AddToCart and InitiateCheckout show buying intent. And Purchase or Lead is the money action, the event you usually optimize for."
+    },
+    {
+      "type": "steps",
+      "title": "Three ways to install it",
+      "items": [
+        "Partner integration: Shopify, WordPress, Wix",
+        "Google Tag Manager",
+        "Manual code in the site header"
+      ],
+      "narration": "You create the Pixel in Events Manager, where Meta now calls it a dataset. Then there are three ways to install it. The easiest is a partner integration, like Shopify, WordPress, or Wix, where you connect your account in a few clicks. The second is Google Tag Manager, if your site already uses it. The third is manual code in the site header, usually done by your developer."
+    },
+    {
+      "type": "steps",
+      "title": "Test before you spend",
+      "items": [
+        "Open Test Events in Events Manager",
+        "Visit your site and take actions",
+        "Check events with Meta Pixel Helper"
+      ],
+      "narration": "Always test before you spend money. Open Test Events in Events Manager and enter your website address. Visit your site and take actions, like viewing a product or sending a form, and watch the events arrive. You can also check events with Meta Pixel Helper, a free Chrome extension."
+    },
+    {
+      "type": "compare",
+      "title": "Pixel alone vs Pixel plus server",
+      "badLabel": "Pixel alone",
+      "bad": [
+        "Blocked by some browsers",
+        "Ad blockers stop it",
+        "Some conversions go missing"
+      ],
+      "goodLabel": "Pixel plus Conversions API",
+      "good": [
+        "Events also sent from server",
+        "More complete data",
+        "Better optimization"
+      ],
+      "narration": "But the Pixel has limits. It runs in the browser, so it can be blocked by some browsers and privacy settings, and ad blockers stop it, so some conversions go missing. The fix is the Pixel plus the Conversions API. With it, events are also sent from your server, which gives more complete data and better optimization."
+    },
+    {
+      "type": "big",
+      "kicker": "Remember",
+      "text": "Install and test the Pixel *before* your first ad",
+      "narration": "So remember this rule. Install and test the Pixel before your first ad. Even if you start with a small budget, every visit and every purchase teaches Meta who your real customers are. Data you did not collect yesterday cannot be added later."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Create your Pixel in Events Manager",
+        "Install it with one of three methods",
+        "Test one event with Test Events"
+      ],
+      "narration": "Your homework for today. Create your Pixel in Events Manager. Install it with one of three methods from this lesson. Then test one event with Test Events and make sure it arrives."
+    },
+    {
+      "type": "outro",
+      "next": "Conversions API (CAPI) Basics",
+      "narration": "In the next lesson, we will fix the missing data problem with Conversions API basics, explained simply. Subscribe so you don't miss it, and I'll see you in lesson six."
+    }
+  ],
+  "thumb": "Meta Pixel *Explained*"
+}

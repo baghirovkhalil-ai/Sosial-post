@@ -1,0 +1,107 @@
+{
+  "id": "google-05",
+  "course": "google",
+  "num": 5,
+  "title": "Keyword Match Types",
+  "subtitle": "Broad, phrase and exact: control who sees your ads",
+  "youtube_title": "Google Ads Keyword Match Types Explained: Broad, Phrase, Exact | Google Ads Course Lesson 5",
+  "description": "Lesson 5 of the free Google Ads course. Match types decide which searches can trigger your ads. In this lesson: broad, phrase and exact match, how to write each one, close variants, a real example, and a simple match type plan for a small budget.",
+  "tags": [
+    "google ads",
+    "keyword match types",
+    "broad match",
+    "phrase match",
+    "exact match",
+    "google ads keywords",
+    "ppc",
+    "google ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson five of this free Google Ads course. In lesson four we used Keyword Planner to build a short keyword list. But a keyword alone is not enough. Today we learn keyword match types, the setting that decides which searches can show your ads."
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "Your keyword is *not* the search",
+      "narration": "Here's the core idea. Your keyword is not the search. You add a keyword, but people type thousands of different searches. The match type tells Google how close a search must be to your keyword before your ad can appear."
+    },
+    {
+      "type": "points",
+      "title": "The three match types",
+      "items": [
+        "Broad match: related searches",
+        "Phrase match: includes your meaning",
+        "Exact match: same meaning only"
+      ],
+      "narration": "Google Ads has three match types today. Broad match shows your ad on related searches, the widest reach. Phrase match shows it on searches that include your meaning. Exact match shows it only on searches with the same meaning as your keyword. The old modified broad match was retired in 2021. So today you only need to know these three."
+    },
+    {
+      "type": "steps",
+      "title": "How to write each one",
+      "items": [
+        "Broad: dentist baku",
+        "Phrase: \"dentist baku\" in quotes",
+        "Exact: [dentist baku] in brackets"
+      ],
+      "narration": "Here is how to write each one. For broad, you just type the words: dentist baku. For phrase, you put the words in quotes. For exact, you put them in square brackets. Same words, very different reach. The words stay the same, only the symbols around them change."
+    },
+    {
+      "type": "compare",
+      "title": "One keyword, different searches",
+      "badLabel": "Broad can match",
+      "bad": [
+        "dental clinic near me",
+        "teeth whitening price",
+        "dentist jobs in baku"
+      ],
+      "goodLabel": "Exact can match",
+      "good": [
+        "dentist baku",
+        "dentist in baku",
+        "baku dentists"
+      ],
+      "narration": "Let's see a real example with the keyword dentist baku. Broad can match related searches like dental clinic near me, teeth whitening price, or even dentist jobs in baku, and that last one will never become a patient. Exact can match dentist baku, dentist in baku, or baku dentists, because these close variants have the same meaning."
+    },
+    {
+      "type": "formula",
+      "title": "The trade-off",
+      "formula": "Wider match = more reach, less control",
+      "note": "Broad works best with *Smart Bidding* and conversion tracking",
+      "narration": "So every match type is a trade-off. Wider match means more reach, but less control. Google recommends broad match together with Smart Bidding, and broad works best with Smart Bidding and conversion tracking, because then Google learns which searches really bring customers."
+    },
+    {
+      "type": "points",
+      "title": "A plan for small budgets",
+      "items": [
+        "Start with phrase and exact",
+        "Check the search terms report weekly",
+        "Try broad after conversions come in"
+      ],
+      "narration": "Here is a simple plan for small budgets. Start with phrase and exact, so your money goes to searches close to your service. Check the search terms report weekly to see what people really typed. And try broad after conversions come in, when Smart Bidding has data to learn from."
+    },
+    {
+      "type": "big",
+      "kicker": "Remember",
+      "text": "Match types decide *who* you pay for",
+      "narration": "So remember this. Match types decide who you pay for. The same keyword can bring a ready customer or a curious student, depending on the match type you choose. Start narrow, read the real searches, and open up only when your data tells you it is safe."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Take your keyword list from lesson four",
+        "Write each keyword in phrase and exact",
+        "List searches you never want to pay for"
+      ],
+      "narration": "Your homework for today. Take your keyword list from lesson four. Write each keyword in phrase and exact match. Then list searches you never want to pay for, like jobs, free, or training. We will use that list next time."
+    },
+    {
+      "type": "outro",
+      "next": "Negative Keywords",
+      "narration": "In the next lesson, we will stop paying for the wrong clicks with negative keywords. Subscribe so you don't miss it, and I'll see you in lesson six."
+    }
+  ],
+  "thumb": "Broad, Phrase or *Exact*?"
+}
