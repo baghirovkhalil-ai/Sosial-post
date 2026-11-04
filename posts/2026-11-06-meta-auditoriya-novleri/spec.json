@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-06-meta-auditoriya-novleri",
+ "type": "reel",
+ "tag": "META ADS",
+ "musicSeed": 26,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Reklamı hamıya göstərirsən?", "big": "3 auditoriya", "sub": "Hansını *nə vaxt* seçməli?",
+   "cap": "Meta reklamında 3 auditoriya növü var. Hansı nə vaxt?",
+   "vo": "Meta reklamında üç auditoriya növü var. Hansını nə vaxt seçməlisən?"},
+  {"kind": "step", "dur": 4.2, "num": "01", "title": "Geniş auditoriya", "sub": "Yalnız şəhər, yaş — *Meta özü tapır*", "visual": "target",
+   "cap": "Birinci: geniş auditoriya. Yalnız şəhər və yaş seçirsən",
+   "vo": "Birinci: geniş auditoriya. Yalnız şəhər və yaşı seçirsən, alıcını Meta özü tapır."},
+  {"kind": "step", "dur": 4.2, "num": "02", "color": "yellow", "title": "Maraqlar", "sub": "Məsələn: toy, fitnes, ana-uşaq — *dar mövzu* üçün",
+   "cap": "İkinci: maraqlar. Məhsulun dar mövzudadırsa işə yarayır",
+   "vo": "İkinci: maraqlar. Məsələn toy, fitnes, ana və uşaq. Dar mövzulu məhsul üçün yaxşıdır."},
+  {"kind": "step", "dur": 4.2, "num": "03", "title": "Retargeting", "sub": "Profilinə girən, yazan, saytına baxan — *isti* insanlar", "visual": "bars",
+   "cap": "Üçüncü: retargeting. Səni artıq tanıyanlara yenidən göstər",
+   "vo": "Üçüncü: retargeting. Profilinə girən, sənə yazan, saytına baxan insanlara yenidən göstər."},
+  {"kind": "list", "dur": 5.0, "title": "Nə vaxt hansı?", "items": ["Yeni başlayırsan → geniş", "Dar məhsul → maraqlar", "Satışı bağla → retargeting", "Tanıyanlara bənzər → lookalike"],
+   "cap": "Yeni başlayırsan geniş, dar məhsulda maraqlar, satışı bağlamaq üçün retargeting",
+   "vo": "Yeni başlayırsansa geniş, dar məhsulda maraqlar, satışı bağlamaq üçünsə retargeting."},
+  {"kind": "compare", "dur": 4.4, "title": "Ən çox edilən səhv", "bad": "20 maraq birdən, büdcə 5 manat", "good": "1 auditoriya, 1 test, 3–4 gün", "badLabel": "Səhv", "goodLabel": "Düzgün",
+   "cap": "Səhv: hər şeyi bir reklamda qarışdırmaq. Bir auditoriyanı test et",
+   "vo": "Ən çox edilən səhv: iyirmi marağı birdən seçmək. Bir auditoriya götür, üç-dörd gün test et."},
+  {"kind": "cta", "dur": 5.0, "small": "Hansı sənə uyğundur?", "big": "AUDİTORİYA yaz", "sub": "Biznesinə baxıb deyim", "button": "Direktə yaz →",
+   "cap": "Direktə AUDİTORİYA yaz — biznesinə uyğununu deyim",
+   "vo": "Hansı auditoriya sənə uyğundur? Direktə AUDİTORİYA yaz."}
+ ]
+}

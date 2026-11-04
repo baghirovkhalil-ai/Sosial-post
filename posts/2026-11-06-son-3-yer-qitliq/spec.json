@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-06-son-3-yer-qitliq",
+ "type": "reel",
+ "tag": "PSİXOLOGİYA",
+ "musicSeed": 33,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Niyə dərhal yazırsan?", "big": "Son 3 yer", "sub": "Beyin *itirməkdən* qorxur",
+   "cap": "“Son 3 yer qaldı” niyə bu qədər işləyir?",
+   "vo": "Son üç yer qaldı. Bunu görəndə niyə dərhal yazırsan?"},
+  {"kind": "step", "dur": 4.2, "num": "01", "title": "Qıtlıq", "sub": "Az olan şey *daha dəyərli* görünür", "visual": "target",
+   "cap": "Qıtlıq: az olan şey bizə daha dəyərli görünür",
+   "vo": "Birinci: qıtlıq. Az olan şey bizə daha dəyərli görünür."},
+  {"kind": "step", "dur": 4.2, "num": "02", "color": "yellow", "title": "Təcililik", "sub": "Vaxt bitir — *“sonra baxaram”* yox olur",
+   "cap": "Təcililik: vaxt məhdud olanda qərarı təxirə salmırıq",
+   "vo": "İkinci: təcililik. Vaxt məhdud olanda sonra baxaram demirik."},
+  {"kind": "list", "dur": 5.0, "title": "Etik nümunələr", "items": ["Kursda real 12 yer", "Endirim cümə gecə bitir", "Partiya: 20 ədəd", "İlk 10 müştəriyə hədiyyə"],
+   "cap": "Real limit qoy: yer sayı, son tarix, partiya sayı",
+   "vo": "Real limit qoy: kursda yer sayı, endirimin son tarixi, partiyada neçə ədəd olduğu."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "red", "title": "Yalan qıtlıq", "sub": "Hər həftə ~“son 3 yer”~ — etibar bitir",
+   "cap": "Yalan qıtlıq: hər həftə “son 3 yer” yazsan, etibarı itirirsən",
+   "vo": "Amma diqqət: hər həftə son üç yer yazsan, müştəri bunu görür və etibar bitir."},
+  {"kind": "compare", "dur": 4.4, "title": "Necə yazmalı?", "bad": "Tələs! Son şans!", "good": "Cümə 23:00-da qeydiyyat bağlanır", "badLabel": "Boş", "goodLabel": "Konkret",
+   "cap": "Boş “tələs” yox — konkret tarix və say yaz",
+   "vo": "Tələs, son şans yox. Konkret yaz: qeydiyyat cümə saat on birdə bağlanır."},
+  {"kind": "cta", "dur": 5.0, "small": "Təklifini birlikdə yazaq?", "big": "TƏKLİF yaz", "sub": "Etik qıtlıqla mətn hazırlayım", "button": "Direktə yaz →",
+   "cap": "Direktə TƏKLİF yaz — satış mətnini birlikdə quraq",
+   "vo": "Təklifini birlikdə yazaq? Direktə TƏKLİF yaz."}
+ ]
+}
