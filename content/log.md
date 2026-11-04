@@ -27,3 +27,4 @@
 | 2026-11-05 18:00/19:00 | YouTube dərsləri: meta-05 (Meta Pixel), google-05 (Match Types) — next_date 02.11 keçmişdə idi, 05.11-ə qoyuldu | lesson | Meta/Google | Metricool 416127925, 416127965 |
 | 2026-11-05 12:00 | Reels az baxışda ilişir? İlk 3 saniyə (qarmaq, mətn, tempo, altyazı) | reel | Instagram | v3, Metricool 416515112 |
 | 2026-11-05 20:00 | Direktə gec cavab = itirilmiş müştəri (4 həll) | reel | Biznes | v3, Metricool 416515205 |
+| 2026-11-06 18:00/19:00 | YouTube dərsləri: meta-06 (Conversions API), google-06 (Negative Keywords) | lesson | Meta/Google | Metricool 416535759, 416535835 |
