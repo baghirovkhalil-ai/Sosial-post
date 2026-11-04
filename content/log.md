@@ -28,3 +28,5 @@
 | 2026-11-05 12:00 | Reels az baxışda ilişir? İlk 3 saniyə (qarmaq, mətn, tempo, altyazı) | reel | Instagram | v3, Metricool 416515112 |
 | 2026-11-05 20:00 | Direktə gec cavab = itirilmiş müştəri (4 həll) | reel | Biznes | v3, Metricool 416515205 |
 | 2026-11-06 18:00/19:00 | YouTube dərsləri: meta-06 (Conversions API), google-06 (Negative Keywords) | lesson | Meta/Google | Metricool 416535759, 416535835 |
+| 2026-11-06 12:00 | Meta reklamında 3 auditoriya: geniş, maraqlar, retargeting | reel | Ads | v3, Metricool 416748964 |
+| 2026-11-06 20:00 | “Son 3 yer qaldı” niyə işləyir? Qıtlıq və təcililik (etik) | reel | Psixologiya | v3, Metricool 416749070 |
