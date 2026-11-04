@@ -73,19 +73,21 @@
  },
  {
   "n": 9,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Instagram",
   "hook": "Reels-in 300 baxışda ilişir? Bu 3 saniyəyə bax",
-  "angle": "Hook, tempo, altyazı — kəşfətə düşmə məntiqi"
+  "angle": "Hook, tempo, altyazı — kəşfətə düşmə məntiqi",
+  "date": "2026-11-05"
  },
  {
   "n": 10,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Biznes",
   "hook": "Bakıda 10 biznesdən 7-si Direct-ə gec cavab verir",
-  "angle": "Cavab sürəti = satış; avtomatik cavab və şablonlar"
+  "angle": "Cavab sürəti = satış; avtomatik cavab və şablonlar",
+  "date": "2026-11-05"
  },
  {
   "n": 11,
