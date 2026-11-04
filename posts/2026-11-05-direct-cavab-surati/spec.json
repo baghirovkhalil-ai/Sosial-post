@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-05-direct-cavab-surati",
+ "type": "reel",
+ "tag": "BİZNES",
+ "musicSeed": 13,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Direktə 3 saat sonra cavab verirsən?", "big": "Gecikdin", "sub": "Müştəri artıq *rəqibdən* alıb",
+   "cap": "Direktə saatlar sonra cavab verirsən? Müştəri artıq rəqibdədir",
+   "vo": "Direktə üç saat sonra cavab verirsən? Müştəri artıq rəqibdən alıb."},
+  {"kind": "compare", "dur": 4.6, "title": "Müştəri necə seçir?", "bad": "3 səhifəyə yazır, gözləyir", "good": "İlk cavab verəndən alır", "badLabel": "Sənin fikrin", "goodLabel": "Reallıq",
+   "cap": "Müştəri eyni anda bir neçə səhifəyə yazır",
+   "vo": "Müştəri eyni anda bir neçə səhifəyə yazır. Çox vaxt ilk cavab verəndən alır."},
+  {"kind": "step", "dur": 3.8, "num": "01", "title": "Hazır cavablar", "sub": "Qiymət, ünvan, çatdırılma — *1 kliklə*", "visual": "target",
+   "cap": "Birinci: tez-tez soruşulanlara hazır cavab yaz",
+   "vo": "Birinci: hazır cavablar. Qiymət, ünvan, çatdırılma bir kliklə getsin."},
+  {"kind": "step", "dur": 3.8, "num": "02", "color": "yellow", "title": "Avtomatik salam", "sub": "Meta Business Suite-də *ilk mesaj* özü getsin",
+   "cap": "İkinci: Meta Business Suite-də avtomatik cavab qur",
+   "vo": "İkinci: avtomatik cavab. Meta Business Suite-də ilk mesaj özü getsin."},
+  {"kind": "step", "dur": 3.8, "num": "03", "title": "Cavab saatı", "sub": "Gündə *3 dəfə* Direkt yoxlamaq — qayda olsun", "visual": "bars",
+   "cap": "Üçüncü: Direkt yoxlamaq üçün sabit saatlar təyin et",
+   "vo": "Üçüncü: cavab saatı. Direkti gündə ən azı üç dəfə yoxla."},
+  {"kind": "step", "dur": 3.8, "num": "04", "color": "red", "title": "Qiyməti gizlətmə", "sub": "~Qiymət direktdə~ — cavabı uzadır",
+   "cap": "Dördüncü: qiyməti gizlədib söhbəti uzatma",
+   "vo": "Dördüncü: qiyməti gizlətmə. Qiymət direktdə cavabı ancaq uzadır."},
+  {"kind": "cta", "dur": 5.0, "small": "Hazır cavab şablonu?", "big": "ŞABLON yaz", "sub": "Biznesinə uyğun hazırlayım", "button": "Direktə yaz →",
+   "cap": "Direktə ŞABLON yaz — hazır cavab şablonunu göndərim",
+   "vo": "Hazır cavab şablonu istəyirsən? Direktə ŞABLON yaz."}
+ ]
+}

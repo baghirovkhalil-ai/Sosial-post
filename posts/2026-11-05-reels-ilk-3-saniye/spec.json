@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-05-reels-ilk-3-saniye",
+ "type": "reel",
+ "tag": "INSTAGRAM",
+ "musicSeed": 22,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Reels-in az baxışda ilişir?", "big": "3 saniyə", "sub": "Hər şey *ilk 3 saniyədə* həll olur",
+   "cap": "Reels-in az baxışda ilişib qalır? İlk 3 saniyəyə bax",
+   "vo": "Reels-in az baxışda ilişib qalır? Problem çox vaxt ilk üç saniyədədir."},
+  {"kind": "step", "dur": 3.8, "num": "01", "title": "Qarmaq", "sub": "İlk sözdə *sual, rəqəm və ya ziddiyyət*", "visual": "target",
+   "cap": "Birinci: ilk sözdən qarmaq at",
+   "vo": "Birinci: qarmaq. İlk cümlə sual, rəqəm və ya ziddiyyət olsun."},
+  {"kind": "step", "dur": 3.8, "num": "02", "color": "yellow", "title": "Ekranda mətn", "sub": "Səssiz baxan da *mövzunu anlasın*",
+   "cap": "İkinci: ilk kadrda mövzu yazı ilə görünsün",
+   "vo": "İkinci: ekranda mətn. Səssiz baxan da mövzunu dərhal anlasın."},
+  {"kind": "step", "dur": 3.8, "num": "03", "title": "Tempo", "sub": "Uzun giriş yox — *2-3 saniyədən* bir dəyiş", "visual": "bars",
+   "cap": "Üçüncü: salam-kalamsız, birbaşa mövzuya keç",
+   "vo": "Üçüncü: tempo. Uzun salam yox, birbaşa mövzuya keç."},
+  {"kind": "step", "dur": 3.8, "num": "04", "color": "red", "title": "Altyazı", "sub": "Altyazısız video ~itirir~ — hər sözü yaz",
+   "cap": "Dördüncü: hər videoya altyazı qoy",
+   "vo": "Dördüncü: altyazı. Hər videoda olsun, oxunaqlı olsun."},
+  {"kind": "compare", "dur": 5.0, "title": "Fərqi gör", "bad": "Salam, bu gün sizə danışacam...", "good": "Reklama pul verirsən, mesaj gəlmir?", "badLabel": "Zəif", "goodLabel": "Güclü",
+   "cap": "Zəif başlanğıc və güclü qarmaq — fərqi gör",
+   "vo": "Salam, bu gün danışacam — zəifdir. Reklama pul verirsən, mesaj gəlmir? Bu isə saxlayır."},
+  {"kind": "cta", "dur": 5.0, "small": "Reels-inə baxım?", "big": "REELS yaz", "sub": "Qarmağını birlikdə yazaq", "button": "Direktə yaz →",
+   "cap": "Direktə REELS yaz — qarmağına baxım",
+   "vo": "Reels-inə baxım? Direktə REELS yaz."}
+ ]
+}
