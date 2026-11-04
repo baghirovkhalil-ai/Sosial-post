@@ -24,3 +24,4 @@
 | 2026-11-01 12:00 | Reklam klik gətirir, mesaj yox? (mesaj kampaniyası) | reel | Ads | v3, Metricool 411456271 |
 | 2026-11-01 20:00 | Biznes üçün 7 pulsuz AI aləti | reel | AI | v3, Metricool 411456363 |
 | 2026-11-01 18:00/19:00 | YouTube dərsləri: meta-04 (Campaign Objective), google-04 (Keyword Planner) | lesson | Meta/Google | Metricool 411944344, 411944390 |
+| 2026-11-05 18:00/19:00 | YouTube dərsləri: meta-05 (Meta Pixel), google-05 (Match Types) — next_date 02.11 keçmişdə idi, 05.11-ə qoyuldu | lesson | Meta/Google | Metricool 416127925, 416127965 |
