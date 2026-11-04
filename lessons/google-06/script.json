@@ -1,0 +1,112 @@
+{
+  "id": "google-06",
+  "course": "google",
+  "num": 6,
+  "title": "Negative Keywords",
+  "subtitle": "Stop paying for searches that will never buy",
+  "youtube_title": "Google Ads Negative Keywords Explained: Stop Wasting Budget | Google Ads Course Lesson 6",
+  "description": "Lesson 6 of the free Google Ads course. Negative keywords stop your ads from showing on searches that will never turn into customers. In this lesson: what negatives are, a starter list, negative match types, where to add them, and how to find new ones in the search terms report.",
+  "tags": [
+    "google ads",
+    "negative keywords",
+    "google ads keywords",
+    "search terms report",
+    "ppc",
+    "google ads for beginners",
+    "wasted ad spend",
+    "google ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson six of this free Google Ads course. In lesson five we learned broad, phrase and exact match, and we saw that broad match can show your ad on many related searches. Today we learn how to block the wrong ones, with negative keywords."
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "Tell Google who *not* to show",
+      "narration": "Here's the core idea. With normal keywords, you tell Google when to show your ad. With negative keywords, you tell Google who not to show it to. Every click from a wrong search costs you money, so negatives protect your budget."
+    },
+    {
+      "type": "points",
+      "title": "Common starter negatives",
+      "items": [
+        "free, if you sell a paid service",
+        "jobs, vacancy, salary",
+        "course, training, how to",
+        "competitor brand names"
+      ],
+      "narration": "Here are common starter negatives. Add free, if you sell a paid service. Add jobs, vacancy and salary, because job seekers are not clients. Add course, training and how to, if people only want to learn, not buy. And consider competitor brand names if you don't want to bid on them. Think about your own business: which searches would never become a paying customer?"
+    },
+    {
+      "type": "points",
+      "title": "Negative match types",
+      "items": [
+        "Negative broad: all words, any order",
+        "Negative phrase: words in this order",
+        "Negative exact: this search only"
+      ],
+      "narration": "Negatives have match types too, but they work differently. Negative broad blocks a search that contains all words, in any order. Negative phrase blocks searches with the words in this order. Negative exact blocks this search only, with nothing extra."
+    },
+    {
+      "type": "big",
+      "kicker": "Watch out",
+      "text": "Negatives *don't* catch variants",
+      "narration": "Watch out for one trap. Negatives don't catch variants. Normal keywords match plurals, misspellings and close meanings, but negative keywords do not. So if you block job, also add jobs, and add the common spelling mistakes yourself."
+    },
+    {
+      "type": "steps",
+      "title": "Where to add them",
+      "items": [
+        "Ad group level",
+        "Campaign level",
+        "Negative keyword lists",
+        "Account level"
+      ],
+      "narration": "Where do you add them? At the ad group level, to block a search only in one ad group. At the campaign level, to block it for the whole campaign. With negative keyword lists, you save one list and apply it to many campaigns. And at the account level, to block words like jobs everywhere at once."
+    },
+    {
+      "type": "steps",
+      "title": "Find new ones every week",
+      "items": [
+        "Open the search terms report",
+        "Find searches that don't fit",
+        "Add them as negatives"
+      ],
+      "narration": "Your list is never finished, so find new ones every week. Open the search terms report. It shows the real searches that triggered your ads. Find searches that don't fit your business, and add them as negatives right from the report. Ten minutes a week can save a big part of a small budget."
+    },
+    {
+      "type": "compare",
+      "title": "Without vs with negatives",
+      "badLabel": "Without negatives",
+      "bad": [
+        "Clicks from job seekers",
+        "Clicks from free searchers",
+        "Budget gone by noon"
+      ],
+      "goodLabel": "With negatives",
+      "good": [
+        "Clicks from real buyers",
+        "Lower wasted spend",
+        "Budget lasts all day"
+      ],
+      "narration": "Let's compare a small campaign. Without negatives, you pay for clicks from job seekers and clicks from free searchers, and with a small daily budget it can be gone by noon. With negatives, more of your clicks come from real buyers, you get lower wasted spend, and your budget lasts all day, when real customers are searching."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Write ten starter negatives",
+        "Save them as a negative list",
+        "Review search terms this week"
+      ],
+      "narration": "Your homework for today. Write ten starter negatives for your business. Save them as a negative list and apply it to your campaign. Then review search terms this week and add at least three more."
+    },
+    {
+      "type": "outro",
+      "next": "Structuring a Search Campaign",
+      "narration": "Now you control both sides: who sees your ads, and who does not. In the next lesson, we will put it all together by structuring a search campaign. Subscribe so you don't miss it, and I'll see you in lesson seven."
+    }
+  ],
+  "thumb": "Negative *Keywords*"
+}

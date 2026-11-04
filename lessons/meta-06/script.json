@@ -1,0 +1,111 @@
+{
+  "id": "meta-06",
+  "course": "meta",
+  "num": 6,
+  "title": "Conversions API (CAPI) Basics",
+  "subtitle": "Send your conversions from the server, not only the browser",
+  "youtube_title": "Meta Conversions API (CAPI) Explained for Beginners | Meta Ads Course Lesson 6",
+  "description": "Lesson 6 of the free Meta Ads course. The Conversions API sends events to Meta directly from your server, so fewer conversions go missing. In this lesson: what CAPI is, why it matters, Pixel vs CAPI, three ways to set it up, deduplication, and Event Match Quality.",
+  "tags": [
+    "conversions api",
+    "meta capi",
+    "meta ads",
+    "facebook ads",
+    "meta pixel",
+    "events manager",
+    "meta ads for beginners",
+    "meta ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson six of this free Meta Ads course. In lesson five we installed the Meta Pixel and saw its weak point: browsers and ad blockers can stop it. Today we fix that with the Conversions API, often called CAPI."
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "Send events from your *server* too",
+      "narration": "Here's the core idea. Send events from your server too. The Pixel lives in the visitor's browser. The Conversions API is a direct connection between your server, or your website platform, and Meta. So when a purchase happens, your system reports it to Meta itself."
+    },
+    {
+      "type": "points",
+      "title": "Why CAPI matters",
+      "items": [
+        "Not stopped by ad blockers",
+        "Fewer missing conversions",
+        "Can send offline and CRM events",
+        "Better data for optimization"
+      ],
+      "narration": "Why does it matter? Server events are not stopped by ad blockers or browser settings, so you get fewer missing conversions. You can also send offline and CRM events, like a sale closed by phone or a lead that became a client. All of this gives Meta better data for optimization, and better data usually means better results."
+    },
+    {
+      "type": "compare",
+      "title": "Pixel vs Conversions API",
+      "badLabel": "Pixel",
+      "bad": [
+        "Runs in the browser",
+        "Easy to install",
+        "Can be blocked"
+      ],
+      "goodLabel": "Conversions API",
+      "good": [
+        "Runs on your server",
+        "Needs a platform or developer",
+        "More reliable signal"
+      ],
+      "narration": "Let's compare. The Pixel runs in the browser, it is easy to install, but it can be blocked. The Conversions API runs on your server. It usually needs a platform or developer to set up, but it gives a more reliable signal. Meta recommends using both together, not choosing one."
+    },
+    {
+      "type": "steps",
+      "title": "Three ways to set it up",
+      "items": [
+        "Partner integration: Shopify, WooCommerce",
+        "Conversions API Gateway",
+        "Direct integration by a developer"
+      ],
+      "narration": "There are three ways to set it up. The easiest is a partner integration, like Shopify or WooCommerce, where you turn on server events in the settings. The second is the Conversions API Gateway, a ready solution you can launch from Events Manager on a cloud server. The third is a direct integration by a developer, which gives the most control."
+    },
+    {
+      "type": "points",
+      "title": "Deduplication: count it once",
+      "items": [
+        "Same event from Pixel and server",
+        "Send the same event name",
+        "Send the same event ID"
+      ],
+      "narration": "Now an important detail called deduplication. When you use both, Meta gets the same event from Pixel and server. To count it only once, send the same event name from both, for example Purchase, and send the same event ID. Then Meta keeps one event and removes the copy."
+    },
+    {
+      "type": "points",
+      "title": "Event Match Quality",
+      "items": [
+        "Score from zero to ten",
+        "Shown in Events Manager",
+        "Add hashed email and phone"
+      ],
+      "narration": "Finally, check Event Match Quality. It is a score from zero to ten that shows how well your server events can be matched to Meta accounts. It is shown in Events Manager for each event. To improve it, add hashed email and phone and other customer information. Hashed means the data is encrypted before it is sent."
+    },
+    {
+      "type": "big",
+      "kicker": "Remember",
+      "text": "Pixel *plus* CAPI, not Pixel or CAPI",
+      "narration": "So remember this rule. Use the Pixel plus CAPI, not the Pixel or CAPI. The Pixel catches quick browser actions like page views, and the server catches the important ones, like purchases and leads, even when the browser misses them. Together they give Meta the most complete picture of your results."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Check your platform for CAPI",
+        "Turn on server events",
+        "Check deduplication and match quality"
+      ],
+      "narration": "Your homework for today. Check your platform for CAPI, look in the settings of Shopify, WooCommerce or your website builder. Turn on server events for your main conversion. Then open Events Manager and check deduplication and match quality."
+    },
+    {
+      "type": "outro",
+      "next": "Defining Your Target Audience",
+      "narration": "Now Meta can see your results. In the next lesson, we will decide who should see your ads, by defining your target audience. Subscribe so you don't miss it, and I'll see you in lesson seven."
+    }
+  ],
+  "thumb": "Conversions API *Basics*"
+}
