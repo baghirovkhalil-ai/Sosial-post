@@ -31,3 +31,5 @@
 | 2026-11-06 12:00 | Meta reklamında 3 auditoriya: geniş, maraqlar, retargeting | reel | Ads | v3, Metricool 416748964 |
 | 2026-11-06 20:00 | “Son 3 yer qaldı” niyə işləyir? Qıtlıq və təcililik (etik) | reel | Psixologiya | v3, Metricool 416749070 |
 | 2026-11-07 18:00/19:00 | YouTube dərsləri: meta-07 (Defining Your Target Audience), google-07 (Structuring a Search Campaign) | lesson | Meta/Google | Metricool 417362863, 417362900 |
+| 2026-11-07 12:00 | Hər gün nə paylaşım? 7 günlük kontent şablonu | reel | Instagram | v3, Metricool 417971170 |
+| 2026-11-07 20:00 | Reklamı nə vaxt söndürməli? CPM, CTR, mesaj qiyməti | reel | Ads | v3, Metricool 417971276 |
