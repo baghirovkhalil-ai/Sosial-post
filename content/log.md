@@ -30,3 +30,4 @@
 | 2026-11-06 18:00/19:00 | YouTube dərsləri: meta-06 (Conversions API), google-06 (Negative Keywords) | lesson | Meta/Google | Metricool 416535759, 416535835 |
 | 2026-11-06 12:00 | Meta reklamında 3 auditoriya: geniş, maraqlar, retargeting | reel | Ads | v3, Metricool 416748964 |
 | 2026-11-06 20:00 | “Son 3 yer qaldı” niyə işləyir? Qıtlıq və təcililik (etik) | reel | Psixologiya | v3, Metricool 416749070 |
+| 2026-11-07 18:00/19:00 | YouTube dərsləri: meta-07 (Defining Your Target Audience), google-07 (Structuring a Search Campaign) | lesson | Meta/Google | Metricool 417362863, 417362900 |
