@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-07-7-gunluk-kontent-sablon",
+ "type": "reel",
+ "tag": "INSTAGRAM",
+ "musicSeed": 40,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Bu gün nə paylaşım?", "big": "7 gün", "sub": "Hazır *şablon* — yadda saxla",
+   "cap": "Hər gün “nə paylaşım?” deyirsən? Al, 7 günlük şablon",
+   "vo": "Hər gün nə paylaşım deyə düşünürsən? Al, yeddi günlük hazır şablon."},
+  {"kind": "list", "dur": 5.0, "title": "1–3-cü gün", "items": ["B.e: mini dərs", "Ç.a: müştəri nəticəsi", "Ç: kulis — necə işləyirsən"],
+   "cap": "Bazar ertəsi dərs, çərşənbə axşamı nəticə, çərşənbə kulis",
+   "vo": "Bazar ertəsi mini dərs. Çərşənbə axşamı müştəri nəticəsi. Çərşənbə kulis, necə işlədiyini göstər."},
+  {"kind": "list", "dur": 5.0, "title": "4–7-ci gün", "items": ["C.a: sualına cavab", "C: müştəri rəyi", "Ş: təklif", "B: trend + öz fikrin"],
+   "cap": "Sonra sual, rəy, təklif və trend günü",
+   "vo": "Cümə axşamı izləyicinin sualına cavab. Cümə müştəri rəyi. Şənbə təklif. Bazar trend və öz fikrin."},
+  {"kind": "step", "dur": 4.2, "num": "01", "title": "Niyə işləyir?", "sub": "Fikir yox, *rubrika* seçirsən",
+   "cap": "Hər gün sıfırdan fikir axtarmırsan — rubrika hazırdır",
+   "vo": "Niyə işləyir? Hər gün sıfırdan fikir axtarmırsan, rubrika artıq hazırdır."},
+  {"kind": "step", "dur": 4.2, "num": "02", "color": "yellow", "title": "Bir gündə çək", "sub": "Bazar günü *7 video* — həftə hazır",
+   "cap": "Bir gündə həftəlik videoları çək, sonra sadəcə planla",
+   "vo": "Bir gün ayır, həftənin videolarını birdən çək, sonra sadəcə planla."},
+  {"kind": "compare", "dur": 4.4, "title": "Fərq", "bad": "Hər gün “nə yazım?”", "good": "Rubrika + plan", "badLabel": "Xaos", "goodLabel": "Sistem",
+   "cap": "Xaos yox — sistem: rubrika və plan",
+   "vo": "Hər gün nə yazım xaosu yox. Rubrika və plan, yəni sistem."},
+  {"kind": "cta", "dur": 5.0, "small": "Öz biznesinə uyğun plan?", "big": "PLAN yaz", "sub": "Rubrikaları birlikdə seçək", "button": "Direktə yaz →",
+   "cap": "Direktə PLAN yaz — rubrikaları birlikdə seçək",
+   "vo": "Öz biznesinə uyğun plan istəyirsən? Direktə PLAN yaz."}
+ ]
+}

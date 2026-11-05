@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-07-reklami-ne-vaxt-sondurmeli",
+ "type": "reel",
+ "tag": "META ADS",
+ "musicSeed": 47,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Reklamı söndürüm, ya yox?", "big": "3 rəqəm", "sub": "Hisslə yox, *rəqəmlə* qərar ver",
+   "cap": "Reklamı nə vaxt söndürməli? Bu 3 rəqəmə bax",
+   "vo": "Reklamı söndürüm, ya yox? Hisslə yox, bu üç rəqəmə bax."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "CPM", "sub": "1000 göstərişin qiyməti — *auditoriya* nə qədər bahadır",
+   "cap": "CPM: min göstərişə nə qədər ödəyirsən",
+   "vo": "Birinci: CPM. Min göstərişə nə qədər ödədiyini göstərir."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "CTR", "sub": "Görənlərdən neçə faizi *klik* edir",
+   "cap": "CTR: reklamı görənlərin neçə faizi klik edir",
+   "vo": "İkinci: CTR. Reklamı görənlərin neçə faizi klik edir. Bu, kreativin gücüdür."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "red", "title": "Mesaj qiyməti", "sub": "Bir müraciət sənə ~neçəyə~ başa gəlir",
+   "cap": "Mesaj başına qiymət: bir müraciət neçəyə başa gəlir",
+   "vo": "Üçüncü: mesaj başına qiymət. Bir müraciət sənə neçə manata başa gəlir."},
+  {"kind": "list", "dur": 5.4, "title": "Qərar qaydası", "items": ["CTR aşağı → kreativi dəyiş", "CTR yaxşı, mesaj az → təklifi dəyiş", "Mesaj bahadır, düzəlmir → söndür"],
+   "cap": "CTR aşağıdırsa kreativ, mesaj azdırsa təklif, düzəlmirsə söndür",
+   "vo": "CTR aşağıdırsa kreativi dəyiş. Klik var, mesaj yoxdursa təklifi dəyiş. Mesaj bahadır və düzəlmirsə, söndür."},
+  {"kind": "compare", "dur": 4.4, "title": "Nə vaxt?", "bad": "1 gündən sonra söndürmək", "good": "3–4 gün data topla", "badLabel": "Tələsik", "goodLabel": "Düzgün",
+   "cap": "Bir gündə qərar vermə — 3–4 gün data topla",
+   "vo": "Bir gündən sonra söndürmə. Üç-dörd gün data topla, sonra qərar ver."},
+  {"kind": "cta", "dur": 5.0, "small": "Reklamına baxım?", "big": "AUDİT yaz", "sub": "Rəqəmlərinə birlikdə baxaq", "button": "Direktə yaz →",
+   "cap": "Direktə AUDİT yaz — rəqəmlərinə birlikdə baxaq",
+   "vo": "Reklamının rəqəmlərinə birlikdə baxaq? Direktə AUDİT yaz."}
+ ]
+}
