@@ -1,0 +1,102 @@
+{
+  "id": "meta-07",
+  "course": "meta",
+  "num": 7,
+  "title": "Defining Your Target Audience",
+  "subtitle": "Know your customer before you touch targeting",
+  "youtube_title": "How to Define Your Target Audience for Meta Ads | Meta Ads Course Lesson 7",
+  "description": "Lesson 7 of the free Meta Ads course. Before you choose any targeting option, you need to know exactly who your customer is. In this lesson: the customer profile, the questions to ask, the three audience types in Meta, Advantage+ audience, and how to use your audience in your ads.",
+  "tags": [
+    "meta ads",
+    "facebook ads",
+    "target audience",
+    "facebook ads targeting",
+    "advantage+ audience",
+    "customer persona",
+    "meta ads for beginners",
+    "meta ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson seven of this free Meta Ads course. In lessons five and six we set up the Pixel and the Conversions API, so Meta can now see your results. Today we answer a bigger question: who are you actually selling to?"
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "Know your *customer* before targeting",
+      "narration": "Here's the core idea. Know your customer before targeting. Many beginners open Ads Manager and start clicking interests. But targeting is only a tool. If you don't know who buys from you and why, no setting will save the campaign."
+    },
+    {
+      "type": "points",
+      "title": "Questions about your customer",
+      "items": [
+        "Who buys most often?",
+        "Where do they live?",
+        "What problem do they have?",
+        "What stops them from buying?"
+      ],
+      "narration": "Start with four questions about your customer. Who buys most often? Look at your real clients, not who you wish they were. Where do they live? Maybe only in Baku, or only near your shop. What problem do they have that your product solves? And what stops them from buying, like price, trust or delivery time?"
+    },
+    {
+      "type": "steps",
+      "title": "Build a simple customer profile",
+      "items": [
+        "Look at your last 20 clients",
+        "Write age range and location",
+        "Write their main pain in their words",
+        "Name the profile, like Busy Mom"
+      ],
+      "narration": "Now build a simple customer profile. Look at your last 20 clients, or your last 20 messages if you are new. Write age range and location that appear most. Write their main pain in their words, exactly how they say it in messages. Then name the profile, like Busy Mom or Small Shop Owner, so your whole team understands it."
+    },
+    {
+      "type": "points",
+      "title": "Three audience types in Meta",
+      "items": [
+        "Saved audiences: location, age, interests",
+        "Custom audiences: people who know you",
+        "Lookalike audiences: people similar to them"
+      ],
+      "narration": "In Meta there are three audience types. Saved audiences use location, age, interests and other options you choose. Custom audiences are people who know you, like website visitors, Instagram followers or your customer list. Lookalike audiences are people similar to them, found by Meta. We will cover each one in the next lessons."
+    },
+    {
+      "type": "compare",
+      "title": "Original vs Advantage+ audience",
+      "badLabel": "Original audience",
+      "bad": [
+        "You set the limits",
+        "Meta stays inside them",
+        "Easy to go too narrow"
+      ],
+      "goodLabel": "Advantage+ audience",
+      "good": [
+        "Your choices become suggestions",
+        "Meta can look wider",
+        "Controls like location still apply"
+      ],
+      "narration": "Today Meta offers two ways to target. With the original audience, you set the limits, and Meta stays inside them, but it is easy to go too narrow. With Advantage+ audience, your choices become suggestions, and Meta can look wider when it finds better people. Hard controls like location still apply, so your ads still stay in your city."
+    },
+    {
+      "type": "big",
+      "kicker": "Remember",
+      "text": "Your audience shapes the *message*",
+      "narration": "And remember this. Your audience shapes the message, not only the targeting. Meta's delivery works more and more on its own, so your creative does a lot of the targeting. When your ad speaks to the Busy Mom in her own words, the right people stop scrolling, and Meta learns who to show it to."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Answer the four customer questions",
+        "Write one customer profile",
+        "Write one ad headline for that profile"
+      ],
+      "narration": "Your homework for today. Answer the four customer questions using your real clients. Write one customer profile with a name, age range, location and main pain. Then write one ad headline for that profile, using the words your customers actually use. Keep this profile, because we will use it in every lesson that follows."
+    },
+    {
+      "type": "outro",
+      "next": "Interest Targeting vs Broad Targeting",
+      "narration": "Now you know who your customer is. In the next lesson, we will compare interest targeting versus broad targeting, and see when each one works. Subscribe so you don't miss it, and I'll see you in lesson eight."
+    }
+  ],
+  "thumb": "Find Your *Audience*"
+}

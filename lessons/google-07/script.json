@@ -1,0 +1,106 @@
+{
+  "id": "google-07",
+  "course": "google",
+  "num": 7,
+  "title": "Structuring a Search Campaign",
+  "subtitle": "Campaigns, ad groups and keywords that make sense",
+  "youtube_title": "How to Structure a Google Ads Search Campaign (Simple Method) | Google Ads Course Lesson 7",
+  "description": "Lesson 7 of the free Google Ads course. A clean structure makes your Google Ads easier to manage and your ads more relevant. In this lesson: the account levels, what each level controls, how to group keywords into themed ad groups, when to split campaigns, and a simple example structure.",
+  "tags": [
+    "google ads",
+    "search campaign",
+    "google ads structure",
+    "ad groups",
+    "google ads account structure",
+    "ppc",
+    "google ads for beginners",
+    "google ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson seven of this free Google Ads course. In lessons five and six we learned match types and negative keywords. Today we put the pieces together and learn how to structure a search campaign, so everything stays clean and easy to manage."
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "One *theme* per ad group",
+      "narration": "Here's the core idea. One theme per ad group. When the keywords in a group are about one thing, you can write an ad that matches them exactly. A matching ad feels more relevant to the searcher, and relevant ads usually get better results. It also makes your reports easy to read, because you can see which theme brings customers."
+    },
+    {
+      "type": "steps",
+      "title": "The three levels",
+      "items": [
+        "Campaign",
+        "Ad group",
+        "Keywords and ads"
+      ],
+      "narration": "A Google Ads account has three main levels. First, the campaign. Inside each campaign you create an ad group, or several of them. And inside each ad group live your keywords and ads, which work together. Every search campaign follows these three levels."
+    },
+    {
+      "type": "points",
+      "title": "What the campaign controls",
+      "items": [
+        "Budget",
+        "Bidding strategy",
+        "Locations and languages",
+        "Networks and schedule"
+      ],
+      "narration": "Each level controls different things. The campaign controls the budget, so all ad groups inside share it. It controls the bidding strategy. It controls locations and languages, so who can see your ads. And it controls networks and schedule, meaning where and when ads run. So if two products need different budgets or locations, put them in different campaigns."
+    },
+    {
+      "type": "points",
+      "title": "What the ad group holds",
+      "items": [
+        "Closely related keywords",
+        "Ads written for those keywords",
+        "A matching landing page"
+      ],
+      "narration": "The ad group holds closely related keywords about one theme. It holds ads written for those keywords, at least one responsive search ad. And each ad group should send people to a matching landing page, the page that talks about exactly what they searched for."
+    },
+    {
+      "type": "compare",
+      "title": "Messy vs clean structure",
+      "badLabel": "Messy",
+      "bad": [
+        "All keywords in one group",
+        "One general ad for all",
+        "Homepage for every click"
+      ],
+      "goodLabel": "Clean",
+      "good": [
+        "One group per service",
+        "Ads that repeat the search",
+        "A page for each service"
+      ],
+      "narration": "Let's compare. A messy account puts all keywords in one group, uses one general ad for all of them, and sends the homepage for every click. A clean account has one group per service, ads that repeat the search words, and a page for each service. The clean one is easier to read in reports, and easier to improve."
+    },
+    {
+      "type": "steps",
+      "title": "Example: a dental clinic",
+      "items": [
+        "Campaign: Dental services in Baku",
+        "Ad group: Teeth whitening",
+        "Ad group: Dental implants",
+        "Separate campaign for your brand"
+      ],
+      "narration": "Here's an example for a dental clinic. Create a campaign called Dental services in Baku, targeting Baku. Add an ad group for Teeth whitening, with only whitening keywords. Add an ad group for Dental implants, with only implant keywords. And many advertisers create a separate campaign for your brand name searches, so you can see brand and non brand results apart."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "List your main services",
+        "Make one ad group per service",
+        "Pick a landing page for each"
+      ],
+      "narration": "Your homework for today. List your main services or product groups. Make one ad group per service, and move your keywords into the right group. Then pick a landing page for each ad group, the most specific page you have. Even a small account with three clean ad groups beats one big messy group."
+    },
+    {
+      "type": "outro",
+      "next": "Writing Responsive Search Ads",
+      "narration": "Now your campaign has a clean structure. In the next lesson, we will fill those ad groups with great ads, by writing responsive search ads. Subscribe so you don't miss it, and I'll see you in lesson eight."
+    }
+  ],
+  "thumb": "Clean Campaign *Structure*"
+}
