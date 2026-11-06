@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-08-marketinq-budcesi-bolgu",
+ "type": "reel",
+ "tag": "BİZNES",
+ "musicSeed": 55,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Marketinqə 1000 manat ayırdın.", "big": "Hara gedir?", "sub": "Hamısını reklama vermə — *bölgü* lazımdır",
+   "cap": "Aylıq marketinq büdcəsi necə bölünür?",
+   "vo": "Marketinqə ayda 1000 manat ayırdın. Hamısını reklama verirsən? Gəl düzgün bölək."},
+  {"kind": "stat", "dur": 4.2, "small": "Reklam", "value": 60, "suffix": "%", "label": "işləyən kampaniyalara — 600 manat",
+   "cap": "60% reklam: Meta və ya Google kampaniyaları",
+   "vo": "Altmış faiz reklama. Yəni altı yüz manat işləyən kampaniyalara."},
+  {"kind": "step", "dur": 4.2, "num": "20%", "title": "Kontent", "sub": "Video, foto, *kreativ* — 200 manat",
+   "cap": "20% kontent: video, foto, kreativ",
+   "vo": "İyirmi faiz kontentə: video, foto, kreativ. İki yüz manat."},
+  {"kind": "step", "dur": 4.2, "num": "10%", "color": "yellow", "title": "Alətlər", "sub": "Planlama, dizayn, AI abunələri — 100 manat",
+   "cap": "10% alətlər: planlama, dizayn, AI",
+   "vo": "On faiz alətlərə: planlama, dizayn, AI abunələri."},
+  {"kind": "step", "dur": 4.4, "num": "10%", "color": "red", "title": "Test", "sub": "Yeni auditoriya, yeni kreativ — ~risk~ pulu",
+   "cap": "10% test: yeni auditoriya və yeni kreativ yoxla",
+   "vo": "Son on faiz testə. Yeni auditoriya, yeni kreativ yoxla."},
+  {"kind": "compare", "dur": 4.6, "title": "Bu bir başlanğıcdır", "bad": "Hər ay eyni bölgü", "good": "Nəticəyə görə dəyiş", "badLabel": "Səhv", "goodLabel": "Düzgün",
+   "cap": "Bu sabit qayda deyil — nəticəyə baxıb hər ay dəyiş",
+   "vo": "Bu sabit qayda deyil, başlanğıcdır. Hər ay nəticəyə bax və bölgünü dəyiş."},
+  {"kind": "cta", "dur": 5.0, "small": "Sənin büdcəni bölək?", "big": "BÜDCƏ yaz", "sub": "Biznesinə uyğun plan çıxaraq", "button": "Direktə yaz →",
+   "cap": "Direktə BÜDCƏ yaz — sənin biznesinə uyğun bölək",
+   "vo": "Sənin biznesinə uyğun bölgü istəyirsən? Direktə BÜDCƏ yaz."}
+ ]
+}

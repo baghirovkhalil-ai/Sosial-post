@@ -1,0 +1,31 @@
+{
+ "id": "2026-11-08-ai-1-sekil-10-kreativ",
+ "type": "reel",
+ "tag": "AI + REKLAM",
+ "musicSeed": 50,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Dizayner yoxdur? Problem deyil", "big": "1 şəkil = 10 kreativ", "sub": "Məhsul şəklindən *AI ilə* reklam variantları",
+   "cap": "1 məhsul şəklindən 10 reklam kreativi — AI ilə",
+   "vo": "Bir məhsul şəklindən on reklam kreativi. Dizaynersiz, AI ilə."},
+  {"kind": "step", "dur": 4.2, "num": "01", "title": "Təmiz şəkil", "sub": "Məhsulu işıqlı yerdə, *düz fonda* çək",
+   "cap": "Əvvəlcə məhsulu işıqlı yerdə, düz fonda çək",
+   "vo": "Birinci addım: məhsulu işıqlı yerdə, düz fonda çək."},
+  {"kind": "chat", "dur": 6.0, "title": "Fon dəyiş:", "msgs": [
+     {"from": "user", "text": "Bu şəkildəki məhsulu saxla, fonu isti kafe masası et. Məhsulu dəyişmə."},
+     {"from": "ai", "text": "Hazırdır. Məhsul eyni qaldı, fon kafe masasıdır."}],
+   "cap": "AI-ya şəkli at və fonu dəyişməsini istə — məhsul eyni qalsın",
+   "vo": "Şəkli AI-ya at və yaz: məhsulu saxla, yalnız fonu dəyiş."},
+  {"kind": "list", "dur": 5.2, "title": "Variant fikirləri", "items": ["Kafe, ofis, ev fonu", "Bayram və mövsüm fonu", "Rəng və işıq dəyişikliyi", "Əldə, istifadədə"],
+   "cap": "Fon, mövsüm, rəng, istifadə səhnəsi — hər biri yeni kreativ",
+   "vo": "Fonu, mövsümü, rəngi, istifadə səhnəsini dəyiş. Hər biri yeni kreativdir."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "Mətn və format", "sub": "Başlığı *özün* yaz: 9:16 story, 4:5 lent",
+   "cap": "Mətni özün əlavə et və 9:16, 4:5 formatlarına sal",
+   "vo": "Mətni özün yaz və şəkli doqquza on altı və dördə beş formatlarına sal."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "red", "title": "Yoxla", "sub": "Logo, etiket, rəng ~əyilməsin~ — məhsul real qalmalıdır",
+   "cap": "Diqqət: AI məhsulu dəyişməsin — müştəri real məhsulu görməlidir",
+   "vo": "Diqqət: AI məhsulun loqosunu və rəngini dəyişməsin. Müştəri real məhsulu görməlidir."},
+  {"kind": "cta", "dur": 5.0, "small": "Promptları istəyirsən?", "big": "KREATİV yaz", "sub": "Hazır prompt siyahısını göndərim", "button": "Direktə yaz →",
+   "cap": "Direktə KREATİV yaz — hazır promptları göndərim",
+   "vo": "Hazır promptları istəyirsən? Direktə KREATİV yaz."}
+ ]
+}
