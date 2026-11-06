@@ -34,3 +34,5 @@
 | 2026-11-07 12:00 | Hər gün nə paylaşım? 7 günlük kontent şablonu | reel | Instagram | v3, Metricool 417971170 |
 | 2026-11-07 20:00 | Reklamı nə vaxt söndürməli? CPM, CTR, mesaj qiyməti | reel | Ads | v3, Metricool 417971276 |
 | 2026-11-08 18:00/19:00 | YouTube dərsləri: meta-08 (Interest Targeting vs Broad Targeting), google-08 (Writing Responsive Search Ads) | lesson | Meta/Google | Metricool 418570689, 418570747 |
+| 2026-11-08 12:00 | 1 şəkildən 10 reklam kreativi — AI ilə | reel | AI | v3, Metricool 419157932 |
+| 2026-11-08 20:00 | Aylıq marketinq büdcəsi necə bölünür? (60/20/10/10) | reel | Biznes | v3, Metricool 419158004 |
