@@ -1,0 +1,102 @@
+{
+  "id": "google-08",
+  "course": "google",
+  "num": 8,
+  "title": "Writing Responsive Search Ads",
+  "subtitle": "Headlines and descriptions that get the click",
+  "youtube_title": "How to Write Responsive Search Ads (RSA) in Google Ads | Google Ads Course Lesson 8",
+  "description": "Lesson 8 of the free Google Ads course. Responsive search ads are the main ad type in Google Search campaigns. In this lesson: how responsive search ads work, the headline and description limits, a simple formula for writing headlines, pinning, and how to use Ad Strength without chasing it.",
+  "tags": [
+    "google ads",
+    "responsive search ads",
+    "rsa",
+    "google ads copywriting",
+    "ad strength",
+    "ppc",
+    "google ads for beginners",
+    "google ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson eight of this free Google Ads course. In lesson seven we built a clean campaign structure with one theme per ad group. Today we write the ads for those groups, using responsive search ads."
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "You give the *pieces*, Google builds the ad",
+      "narration": "Here's the core idea. You give the pieces, and Google builds the ad. Instead of one fixed ad, you write many headlines and descriptions. Google then mixes them and shows the combination that is most likely to work for each search. That is why every headline must make sense on its own, next to any other headline."
+    },
+    {
+      "type": "points",
+      "title": "The limits to remember",
+      "items": [
+        "Up to 15 headlines, 30 characters each",
+        "Up to 4 descriptions, 90 characters each",
+        "At least 3 headlines and 2 descriptions",
+        "Up to 3 headlines and 2 descriptions show"
+      ],
+      "narration": "Here are the limits to remember. You can add up to 15 headlines, 30 characters each. You can add up to 4 descriptions, 90 characters each. You need at least 3 headlines and 2 descriptions to publish the ad. And in one ad, up to 3 headlines and 2 descriptions show at the same time."
+    },
+    {
+      "type": "steps",
+      "title": "A simple headline formula",
+      "items": [
+        "Include the main keyword",
+        "Add a clear benefit",
+        "Add proof, like reviews or years",
+        "Add an offer or a call to action"
+      ],
+      "narration": "Use a simple headline formula. First, include the main keyword of the ad group, like dentist in Baku, so the ad matches the search. Second, add a clear benefit, like same day appointment. Third, add proof, like reviews or years of experience, but only true numbers. Fourth, add an offer or a call to action, like book a free check up."
+    },
+    {
+      "type": "points",
+      "title": "Descriptions that sell",
+      "items": [
+        "Explain what makes you different",
+        "Answer the main objection",
+        "End with a clear next step"
+      ],
+      "narration": "Now the descriptions, which give you more space. Explain what makes you different from the other ads on the page. Answer the main objection, like price, delivery time or trust. And end with a clear next step, like call now or get a free quote. Each description should make sense alone, because Google can show them in any order."
+    },
+    {
+      "type": "compare",
+      "title": "Pinning: careful vs too much",
+      "badLabel": "Pin everything",
+      "bad": [
+        "Fewer combinations to test",
+        "Lower Ad Strength",
+        "Google learns less"
+      ],
+      "goodLabel": "Pin only when needed",
+      "good": [
+        "Legal text or brand name",
+        "More combinations to test",
+        "Google can find winners"
+      ],
+      "narration": "You can pin a headline to a fixed position. If you pin everything, you get fewer combinations to test, lower Ad Strength, and Google learns less. Pin only when needed, for legal text or a brand name that must always appear. Then you keep more combinations to test, and Google can find winners."
+    },
+    {
+      "type": "big",
+      "kicker": "Remember",
+      "text": "Ad Strength is a *guide*, not the goal",
+      "narration": "And remember this. Ad Strength is a guide, not the goal. It checks things like how many headlines you wrote and how different they are. Use it to improve your ad, but judge the ad by clicks, conversions and cost per conversion. A Good ad that brings cheap leads is better than an Excellent ad that does not."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Write 10 headlines for one ad group",
+        "Write 4 different descriptions",
+        "Check that each one fits the limits"
+      ],
+      "narration": "Your homework for today. Pick one ad group from lesson seven and write 10 headlines for one ad group using the formula. Write 4 different descriptions, each with its own message. Then check that each one fits the limits, 30 characters for headlines and 90 for descriptions."
+    },
+    {
+      "type": "outro",
+      "next": "Ad Assets (Extensions) That Win Clicks",
+      "narration": "Now you can write responsive search ads that match the search. In the next lesson, we will add ad assets, also called extensions, that make your ad bigger and win more clicks. Subscribe so you don't miss it, and I'll see you in lesson nine."
+    }
+  ],
+  "thumb": "Write Ads That *Click*"
+}

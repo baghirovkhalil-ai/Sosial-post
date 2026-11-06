@@ -1,0 +1,105 @@
+{
+  "id": "meta-08",
+  "course": "meta",
+  "num": 8,
+  "title": "Interest Targeting vs Broad Targeting",
+  "subtitle": "When to guide Meta and when to let it search",
+  "youtube_title": "Interest Targeting vs Broad Targeting in Meta Ads | Meta Ads Course Lesson 8",
+  "description": "Lesson 8 of the free Meta Ads course. Should you pick interests or go broad? In this lesson: what interest targeting and broad targeting really mean, the pros and cons of each, when to use which, and a simple test you can run to find the winner for your business.",
+  "tags": [
+    "meta ads",
+    "facebook ads",
+    "interest targeting",
+    "broad targeting",
+    "advantage+ audience",
+    "facebook ads targeting",
+    "meta ads for beginners",
+    "meta ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson eight of this free Meta Ads course. In lesson seven we built a simple customer profile. Today we use it to answer a question every beginner asks: should you choose interests, or should you go broad?"
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "Targeting is a *hint*, creative is the filter",
+      "narration": "Here's the core idea. Targeting is a hint, and creative is the filter. Meta's delivery system decides who actually sees your ad. Your targeting gives it a starting point, but your ad itself tells people, and Meta, who it is for."
+    },
+    {
+      "type": "points",
+      "title": "What each option means",
+      "items": [
+        "Interest targeting: you pick topics and behaviors",
+        "Broad targeting: only location, age and gender",
+        "Both still use your location limits"
+      ],
+      "narration": "First, what each option means. Interest targeting: you pick topics and behaviors, like fitness, small business or online shopping, and Meta starts with people connected to them. Broad targeting: you set only location, age and gender, and Meta searches the whole group for the best people. Both still use your location limits, so a shop in Baku can stay in Baku."
+    },
+    {
+      "type": "compare",
+      "title": "Interest vs broad targeting",
+      "badLabel": "Interest targeting",
+      "bad": [
+        "Clear starting point",
+        "Smaller, more expensive pool",
+        "Interests can be inaccurate"
+      ],
+      "goodLabel": "Broad targeting",
+      "good": [
+        "Bigger pool, often cheaper reach",
+        "Meta finds buyers by itself",
+        "Needs a strong creative"
+      ],
+      "narration": "Let's compare them. Interest targeting gives a clear starting point, but it creates a smaller, more expensive pool, and interests can be inaccurate, because a like years ago is not a purchase today. Broad targeting gives a bigger pool, often with cheaper reach, and Meta finds buyers by itself using signals from your Pixel. But it needs a strong creative, because the ad has to call the right people."
+    },
+    {
+      "type": "points",
+      "title": "When interests make sense",
+      "items": [
+        "New account with little data",
+        "Very niche product",
+        "Small budget, small city"
+      ],
+      "narration": "So when do interests make sense? With a new account with little data, because Meta has not learned who buys from you yet. With a very niche product, like equipment for dentists, where the buyers are a small group. And with a small budget in a small city, where a little guidance can help the first results come faster."
+    },
+    {
+      "type": "points",
+      "title": "When broad usually wins",
+      "items": [
+        "Pixel already tracks conversions",
+        "Product fits many people",
+        "You test many creatives"
+      ],
+      "narration": "And when does broad usually win? When your Pixel already tracks conversions, so Meta has real data about your buyers. When your product fits many people, like food delivery, clothing or beauty services. And when you test many creatives, because different ads will attract different groups inside the broad audience."
+    },
+    {
+      "type": "steps",
+      "title": "Run a simple test",
+      "items": [
+        "Make two ad sets",
+        "One interest set, one broad set",
+        "Use the same ads and budget",
+        "Compare cost per result after a week"
+      ],
+      "narration": "The best answer comes from a test. Make two ad sets in the same campaign. One interest set and one broad set, with the same location and age. Use the same ads and budget in both, so only the targeting is different. Then compare cost per result after a week, not after one day, because results jump around at the start."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Write three interests for your profile",
+        "Set up one broad ad set",
+        "Plan the one-week test"
+      ],
+      "narration": "Your homework for today. Write three interests for your profile from lesson seven, the ones your real customers would have. Set up one broad ad set with only location, age and gender. Then plan the one-week test, with the same ads and the same budget, and write down the cost per result for each."
+    },
+    {
+      "type": "outro",
+      "next": "Custom Audiences",
+      "narration": "Now you know when to guide Meta and when to let it search. In the next lesson, we will build custom audiences from people who already know you, which are often your best audience. Subscribe so you don't miss it, and I'll see you in lesson nine."
+    }
+  ],
+  "thumb": "Interests or *Broad*?"
+}
