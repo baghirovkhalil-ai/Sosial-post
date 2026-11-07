@@ -1,0 +1,97 @@
+{
+  "id": "google-09",
+  "course": "google",
+  "num": 9,
+  "title": "Ad Assets That Win Clicks",
+  "subtitle": "Sitelinks, callouts, snippets and more",
+  "youtube_title": "Google Ads Assets (Extensions) Explained: Sitelinks, Callouts, Snippets | Google Ads Course Lesson 9",
+  "description": "Lesson 9 of the free Google Ads course. Ad assets, formerly called extensions, add extra information to your search ads and make them bigger. In this lesson: what assets are, the main asset types and their limits, how Google decides when to show them, and a simple checklist to set them up.",
+  "tags": [
+    "google ads",
+    "ad assets",
+    "ad extensions",
+    "sitelinks",
+    "callouts",
+    "structured snippets",
+    "ppc",
+    "google ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson nine of this free Google Ads course. In lesson eight we wrote responsive search ads with strong headlines and descriptions. Today we make those ads bigger and more useful with ad assets."
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "A bigger ad takes more *space*",
+      "narration": "Here's the core idea. A bigger ad takes more space on the results page. Ad assets, which Google used to call extensions, add extra links, details and buttons under your ad. More useful information gives people more reasons to click you, and not the ad below you. They are free to add, so every search campaign should use them."
+    },
+    {
+      "type": "points",
+      "title": "The main asset types",
+      "items": [
+        "Sitelinks to key pages",
+        "Callouts with short benefits",
+        "Structured snippets for services",
+        "Call asset with your phone number",
+        "Image assets next to the ad"
+      ],
+      "narration": "Here are the main asset types. Sitelinks to key pages, like prices, services or contact. Callouts with short benefits, like free delivery. Structured snippets for services, a list under a header such as Services or Brands. A call asset with your phone number, so people can call in one tap. And image assets next to the ad, which can make it stand out."
+    },
+    {
+      "type": "points",
+      "title": "Limits to remember",
+      "items": [
+        "Sitelink text: 25 characters",
+        "Sitelink descriptions: 35 characters each",
+        "Callout text: 25 characters",
+        "Snippet values: 25 characters each"
+      ],
+      "narration": "Some limits to remember. Sitelink text can be up to 25 characters. Sitelink descriptions can be up to 35 characters each, with two lines. Callout text can be up to 25 characters. And snippet values can be up to 25 characters each, with at least three values under one header."
+    },
+    {
+      "type": "points",
+      "title": "How Google shows assets",
+      "items": [
+        "Not every asset shows every time",
+        "Assets can help your Ad Rank",
+        "No extra fee to add them"
+      ],
+      "narration": "Now, how Google shows assets. Not every asset shows every time. Google picks the assets that it expects will help most for each search, and space on mobile is small. Assets can help your Ad Rank, because the expected impact of assets is part of it. And there is no extra fee to add them, you still pay only when someone clicks."
+    },
+    {
+      "type": "steps",
+      "title": "Asset setup checklist",
+      "items": [
+        "Add four or more sitelinks",
+        "Add four or more callouts",
+        "Add one snippet header with values",
+        "Add call and location if local"
+      ],
+      "narration": "Here is a simple asset setup checklist. Add four or more sitelinks, each one to a different page. Add four or more callouts, each with a different benefit. Add one snippet header with values, for example your main services. And add call and location if local, so people near you can call or find you fast."
+    },
+    {
+      "type": "big",
+      "kicker": "Remember",
+      "text": "Each asset needs a *different* message",
+      "narration": "And remember this. Each asset needs a different message. Don't repeat your headlines in your callouts or sitelinks. If the headline says free consultation, the callout can say ten years of experience. Every line should give a new reason to choose you."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Write four sitelinks with descriptions",
+        "Write four callouts under 25 characters",
+        "Check the assets report after a week"
+      ],
+      "narration": "Your homework for today. Write four sitelinks with descriptions, for the campaign from lesson seven. Write four callouts under 25 characters, each with a real benefit. Then check the assets report after a week, to see which assets get shown and clicked."
+    },
+    {
+      "type": "outro",
+      "next": "Landing Pages That Convert",
+      "narration": "Now your ads take more space and give more reasons to click. In the next lesson, we will look at what happens after the click, with landing pages that convert. Subscribe so you don't miss it, and I'll see you in lesson ten."
+    }
+  ],
+  "thumb": "Make Your Ad *Bigger*"
+}

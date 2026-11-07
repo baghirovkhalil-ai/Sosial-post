@@ -1,0 +1,102 @@
+{
+  "id": "meta-09",
+  "course": "meta",
+  "num": 9,
+  "title": "Custom Audiences",
+  "subtitle": "Reach people who already know you",
+  "youtube_title": "Meta Ads Custom Audiences Explained (Retargeting for Beginners) | Meta Ads Course Lesson 9",
+  "description": "Lesson 9 of the free Meta Ads course. Custom audiences let you show ads to people who already know your business: website visitors, customers and people who engaged with your Instagram or Facebook. In this lesson: the main custom audience sources, retention windows, three audiences every business should build, and how to use them for retargeting and exclusions.",
+  "tags": [
+    "meta ads",
+    "facebook ads",
+    "custom audiences",
+    "retargeting",
+    "facebook retargeting",
+    "instagram ads",
+    "meta ads for beginners",
+    "meta ads course"
+  ],
+  "slides": [
+    {
+      "type": "title",
+      "narration": "Hi, I'm Khalil Baghirov, and welcome to lesson nine of this free Meta Ads course. In lesson eight we compared interest targeting and broad targeting to find new people. Today we talk about the people who already know you, with custom audiences."
+    },
+    {
+      "type": "big",
+      "kicker": "The core idea",
+      "text": "Warm people buy *faster*",
+      "narration": "Here's the core idea. Warm people buy faster. Someone who visited your website, watched your video or messaged your page already knows your name. A custom audience is a list of these people that you build from your own data and activity, so you can show them the right next ad. That is why custom audiences are often your best performing audience."
+    },
+    {
+      "type": "points",
+      "title": "Where custom audiences come from",
+      "items": [
+        "Website visitors from your Pixel",
+        "Customer list you upload",
+        "Instagram and Facebook engagement",
+        "People who watched your videos",
+        "People who opened your lead form"
+      ],
+      "narration": "So where do custom audiences come from? Website visitors from your Pixel, which we set up in lesson five. A customer list you upload, with emails or phone numbers. Instagram and Facebook engagement, like people who liked, saved or messaged. People who watched your videos. And people who opened your lead form, even if they did not send it."
+    },
+    {
+      "type": "points",
+      "title": "Retention windows",
+      "items": [
+        "Website audiences: up to 180 days",
+        "Engagement audiences: up to 365 days",
+        "Shorter window means warmer people"
+      ],
+      "narration": "Each audience has a retention window, which is how long a person stays in it. Website audiences can keep people for up to 180 days. Engagement audiences, like Instagram or video viewers, can keep people for up to 365 days. Remember, a shorter window means warmer people, because they saw you more recently."
+    },
+    {
+      "type": "steps",
+      "title": "Three audiences to build today",
+      "items": [
+        "Website visitors, last 30 days",
+        "Instagram engagers, last 90 days",
+        "Video viewers who watched 50 percent"
+      ],
+      "narration": "Here are three audiences to build today. First, website visitors from the last 30 days. Second, Instagram engagers from the last 90 days, people who interacted with your profile or posts. Third, video viewers who watched at least 50 percent of a video, because they showed real interest."
+    },
+    {
+      "type": "compare",
+      "title": "Two ways to use them",
+      "badLabel": "Retarget",
+      "bad": [
+        "Show a reminder or offer",
+        "Answer the main objection",
+        "Use customer reviews"
+      ],
+      "goodLabel": "Exclude",
+      "good": [
+        "Hide ads from recent buyers",
+        "Stop paying for the same people",
+        "Keep prospecting ads truly new"
+      ],
+      "narration": "There are two ways to use them. First, retarget. Show a reminder or offer, answer the main objection, like price or delivery, and use customer reviews as proof. Second, exclude. Hide ads from recent buyers so they don't see an offer they already used. This helps you stop paying for the same people and keep prospecting ads truly new."
+    },
+    {
+      "type": "big",
+      "kicker": "Privacy",
+      "text": "Upload only data you are *allowed* to use",
+      "narration": "One important rule about privacy. Upload only data you are allowed to use. Customer lists must come from people who gave you their details, and Meta hashes the data before matching. Never buy lists or upload random numbers. It breaks the rules, and it does not work well anyway."
+    },
+    {
+      "type": "summary",
+      "title": "Your homework",
+      "items": [
+        "Build the three audiences in Ads Manager",
+        "Exclude recent buyers from new campaigns",
+        "Write one retargeting ad with a review"
+      ],
+      "narration": "Your homework for today. Build the three audiences in Ads Manager, under Audiences. Exclude recent buyers from new campaigns, if you have a customer list or a purchase event. And write one retargeting ad with a review from a real customer."
+    },
+    {
+      "type": "outro",
+      "next": "Lookalike Audiences",
+      "narration": "Now you know how to reach people who already know you. In the next lesson, we will use these audiences to create lookalike audiences, and find new people who look like your best customers. Subscribe so you don't miss it, and I'll see you in lesson ten."
+    }
+  ],
+  "thumb": "Retarget *Warm* People"
+}
