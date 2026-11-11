@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-12-qiymet-19-99-psixologiyasi",
+ "type": "reel",
+ "tag": "PSİXOLOGİYA",
+ "musicSeed": 59,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Fərq cəmi 1 qəpikdir.", "big": "19.99 ≠ 20", "sub": "Amma beyin *fərqli* görür",
+   "cap": "Niyə 19.99 manat, 20 yox?",
+   "vo": "Fərq cəmi bir qəpikdir. Bəs niyə hər yerdə 19.99 yazılır, 20 yox?"},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Sol rəqəm effekti", "sub": "Beyin qiyməti *soldan* oxuyur: 19 → \"on doqquz\"",
+   "cap": "Beyin qiyməti soldan oxuyur",
+   "vo": "Buna sol rəqəm effekti deyilir. Beyin qiyməti soldan oxuyur və birinci rəqəmə baxıb qərar verir."},
+  {"kind": "compare", "dur": 4.4, "title": "Necə hiss olunur?", "bad": "20 manat", "good": "19.99 manat", "badLabel": "\"İyirmi\"", "goodLabel": "\"On doqquz\"",
+   "cap": "20 manat \"iyirmi\", 19.99 isə \"on doqquz\" kimi qalır",
+   "vo": "İyirmi manat iyirmi kimi qalır. 19.99 isə yaddaşda on doqquz kimi qalır, daha ucuz görünür."},
+  {"kind": "step", "dur": 4.2, "num": "02", "color": "yellow", "title": "Harada işləyir?", "sub": "Gündəlik, ucuz, _endirim_ məhsullarında",
+   "cap": "Gündəlik və endirim məhsullarında işləyir",
+   "vo": "Bu, gündəlik alınan, ucuz və endirimli məhsullarda yaxşı işləyir."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "red", "title": "Harada ~işləmir~?", "sub": "Premium və hədiyyə: dəyirmi qiymət *keyfiyyət* deyir",
+   "cap": "Premium məhsulda dəyirmi qiymət daha yaxşıdır",
+   "vo": "Amma premium xidmətdə və hədiyyədə işləmir. Orada dəyirmi qiymət keyfiyyət hissi verir."},
+  {"kind": "list", "dur": 4.6, "title": "Qısa qayda", "items": ["Ucuz, gündəlik → 19.99", "Premium, xidmət → 200", "Hər ikisini test et"],
+   "cap": "Ucuzda 19.99, premiumda dəyirmi qiymət — test et",
+   "vo": "Qısa qayda: ucuz məhsulda 19.99, premiumda dəyirmi qiymət. Ən yaxşısı, hər ikisini test et."},
+  {"kind": "cta", "dur": 5.0, "small": "Qiymətini necə yazmalısan?", "big": "QİYMƏT yaz", "sub": "Məhsuluna baxıb deyim", "button": "Direktə yaz →",
+   "cap": "Direktə QİYMƏT yaz — məhsuluna baxıb deyim",
+   "vo": "Məhsulunun qiymətini necə yazmaq lazımdır? Direktə QİYMƏT yaz, baxıb deyim."}
+ ]
+}

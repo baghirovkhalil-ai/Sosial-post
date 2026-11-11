@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-12-hashtag-evezine-acar-soz",
+ "type": "reel",
+ "tag": "INSTAGRAM",
+ "musicSeed": 57,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "30 hashtag yazırsan?", "big": "Artıq olmur", "sub": "Instagram indi *maks. 5* hashtag qəbul edir",
+   "cap": "30 hashtag dövrü bitdi",
+   "vo": "Hələ də postun altına otuz hashtag yazırsan? Artıq olmur, Instagram maksimum beş hashtag qəbul edir."},
+  {"kind": "stat", "dur": 4.0, "small": "Hashtag limiti", "value": 5, "suffix": "", "label": "bir postda — bundan çoxu keçmir",
+   "cap": "Bir postda maksimum 5 hashtag",
+   "vo": "Bir postda cəmi beş hashtag. Bəs qalan işi nə görür? Açar sözlər."},
+  {"kind": "step", "dur": 4.2, "num": "01", "title": "1-ci sətir", "sub": "Açar söz caption-un *ilk sətrində* olsun",
+   "cap": "Açar sözü caption-un ilk sətrinə yaz",
+   "vo": "Bir: mövzunun açar sözünü caption-un ilk sətrinə yaz. İnsanlar axtarışda məhz onu yazır."},
+  {"kind": "step", "dur": 4.2, "num": "02", "color": "yellow", "title": "Profil adı", "sub": "Adın yanında sahən: _SMM Bakı_",
+   "cap": "Profil adına sahəni əlavə et",
+   "vo": "İki: profil adına sahəni əlavə et. Məsələn, SMM Bakı. Axtarışda səni belə tapırlar."},
+  {"kind": "step", "dur": 4.2, "num": "03", "title": "Videoda mətn", "sub": "Açar sözü ekranda da *yaz* və de",
+   "cap": "Açar sözü videonun içində də yaz və de",
+   "vo": "Üç: açar sözü videonun içində də yaz və səsli de."},
+  {"kind": "compare", "dur": 4.6, "title": "Hashtag necə seçilir?", "bad": "#love #instagood #follow", "good": "#bakısmm #kafebakı", "badLabel": "Ümumi", "goodLabel": "Dəqiq",
+   "cap": "Ümumi yox — mövzuna uyğun dəqiq hashtag seç",
+   "vo": "Hashtag yazırsansa, ümumi sözlər yox. Mövzuna uyğun, dəqiq beş hashtag seç."},
+  {"kind": "cta", "dur": 5.0, "small": "Profilin axtarışda çıxır?", "big": "SEO yaz", "sub": "Açar sözlərini birlikdə tapaq", "button": "Direktə yaz →",
+   "cap": "Direktə SEO yaz — açar sözlərini birlikdə tapaq",
+   "vo": "Profilin axtarışda çıxmır? Direktə SEO yaz, açar sözlərini birlikdə tapaq."}
+ ]
+}
