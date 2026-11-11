@@ -37,3 +37,5 @@
 | 2026-11-08 12:00 | 1 şəkildən 10 reklam kreativi — AI ilə | reel | AI | v3, Metricool 419157932 |
 | 2026-11-08 20:00 | Aylıq marketinq büdcəsi necə bölünür? (60/20/10/10) | reel | Biznes | v3, Metricool 419158004 |
 | 2026-11-09 18:00/19:00 | YouTube dərsləri: meta-09 (Custom Audiences), google-09 (Ad Assets That Win Clicks) | lesson | Meta/Google | Metricool 419706899, 419706905 |
+| 2026-11-12 12:00 | Hashtag artıq işləmir? Əvəzinə açar söz yaz | reel | Instagram | v3, Metricool 424674888 |
+| 2026-11-12 20:00 | Niyə 19.99 manat, 20 yox? Qiymət psixologiyası | reel | Psixologiya | v3, Metricool 424675487 |

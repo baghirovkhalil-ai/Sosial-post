@@ -154,19 +154,21 @@
  },
  {
   "n": 18,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Instagram",
   "hook": "Hashtag artıq işləmir? Əvəzinə bunu yaz",
-  "angle": "Açar sözlər, caption SEO, alt-text"
+  "angle": "Açar sözlər, caption SEO, alt-text",
+  "date": "2026-11-12"
  },
  {
   "n": 19,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Psixologiya",
   "hook": "Niyə 19.99 AZN, 20 AZN deyil?",
-  "angle": "Qiymət psixologiyası: sol rəqəm effekti və nə vaxt işləmir"
+  "angle": "Qiymət psixologiyası: sol rəqəm effekti və nə vaxt işləmir",
+  "date": "2026-11-12"
  },
  {
   "n": 20,
