@@ -172,19 +172,21 @@
  },
  {
   "n": 20,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Ads",
   "hook": "TikTok reklamı vs Instagram reklamı — kimə hansı?",
-  "angle": "Auditoriya, qiymət, kreativ tələbi müqayisəsi"
+  "angle": "Auditoriya, qiymət, kreativ tələbi müqayisəsi",
+  "date": "2026-11-13"
  },
  {
   "n": 21,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "AI",
   "hook": "Müştəri rəylərini AI ilə 2 dəqiqəyə analiz et",
-  "angle": "100 rəyi yapışdır → şikayət, tərif, ideya çıxar"
+  "angle": "100 rəyi yapışdır → şikayət, tərif, ideya çıxar",
+  "date": "2026-11-13"
  },
  {
   "n": 22,

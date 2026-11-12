@@ -39,3 +39,5 @@
 | 2026-11-09 18:00/19:00 | YouTube dərsləri: meta-09 (Custom Audiences), google-09 (Ad Assets That Win Clicks) | lesson | Meta/Google | Metricool 419706899, 419706905 |
 | 2026-11-12 12:00 | Hashtag artıq işləmir? Əvəzinə açar söz yaz | reel | Instagram | v3, Metricool 424674888 |
 | 2026-11-12 20:00 | Niyə 19.99 manat, 20 yox? Qiymət psixologiyası | reel | Psixologiya | v3, Metricool 424675487 |
+| 2026-11-13 12:00 | TikTok reklamı vs Instagram reklamı — kimə hansı? | reel | Ads | v3, Metricool 425939391 |
+| 2026-11-13 20:00 | Müştəri rəylərini AI ilə 2 dəqiqəyə analiz et | reel | AI | v3, Metricool 425939430 |
