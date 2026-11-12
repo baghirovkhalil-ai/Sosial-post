@@ -1,0 +1,31 @@
+{
+ "id": "2026-11-13-ai-rey-analizi",
+ "type": "reel",
+ "tag": "AI",
+ "musicSeed": 61,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "100 rəyi oxumağa vaxtın yoxdur?", "big": "2 dəqiqə", "sub": "AI hamısını *səndən əvvəl* oxuyur",
+   "cap": "100 müştəri rəyi, 2 dəqiqə",
+   "vo": "Yüz müştəri rəyini oxumağa vaxtın yoxdur? AI onları iki dəqiqəyə analiz edir."},
+  {"kind": "step", "dur": 4.2, "num": "01", "title": "Rəyləri topla", "sub": "Google, Instagram şərhləri, Direkt — *bir faylda*",
+   "cap": "Google, şərh və Direkt rəylərini bir yerə topla",
+   "vo": "Birinci addım: Google, Instagram şərhləri və Direktdəki rəyləri bir fayla topla."},
+  {"kind": "step", "dur": 4.2, "num": "02", "color": "red", "title": "Şəxsi məlumatı ~sil~", "sub": "Ad, telefon, ünvan — AI-ya göndərmə",
+   "cap": "Ad, telefon və ünvanları əvvəlcə sil",
+   "vo": "İkinci: ad, telefon və ünvanları sil. Müştəri məlumatını AI-ya göndərmə."},
+  {"kind": "chat", "dur": 5.6, "title": "Bu promptu yapışdır", "msgs": [
+     {"from": "user", "text": "Bu rəyləri 3 qrupa böl: şikayətlər, təriflər, ideyalar. Hər qrupda ən çox təkrarlanan 3 mövzunu say."},
+     {"from": "ai", "text": "Şikayət: çatdırılma gecikir. Tərif: dad, xidmət. İdeya: onlayn sifariş."}],
+   "cap": "Promptu yapışdır: şikayət, tərif, ideya",
+   "vo": "Üçüncü: bu promptu yaz. Rəyləri üç qrupa böl: şikayətlər, təriflər, ideyalar. Hər qrupda ən çox təkrarlananları say."},
+  {"kind": "list", "dur": 4.6, "title": "Nəticəni işlət", "items": ["Şikayət → ilk düzəldəcəyin iş", "Tərif → reklam mətni", "İdeya → yeni təklif"],
+   "cap": "Şikayəti düzəlt, tərifi reklamda işlət",
+   "vo": "Nəticəni işlət: şikayəti ilk növbədə düzəlt, tərifi reklam mətninə qoy, ideyadan yeni təklif çıxar."},
+  {"kind": "step", "dur": 4.2, "num": "03", "color": "yellow", "title": "Rəqəmləri yoxla", "sub": "AI _səhv saya_ bilər — nümunə rəyləri özün oxu",
+   "cap": "AI səhv saya bilər — bir neçə rəyi özün yoxla",
+   "vo": "Və unutma: AI səhv saya bilər. Bir neçə rəyi özün oxuyub yoxla."},
+  {"kind": "cta", "dur": 5.0, "small": "Promptu saxla", "big": "RƏY yaz", "sub": "Tam prompt göndərim", "button": "Direktə yaz →",
+   "cap": "Direktə RƏY yaz — tam promptu göndərim",
+   "vo": "Bu videonu yadda saxla. Tam promptu istəyirsən? Direktə RƏY yaz, göndərim."}
+ ]
+}

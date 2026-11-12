@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-13-tiktok-vs-instagram-reklam",
+ "type": "reel",
+ "tag": "REKLAM",
+ "musicSeed": 60,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Büdcən bir platformaya çatır?", "big": "TikTok ya Instagram?", "sub": "Səhv seçim = *yanan pul*",
+   "cap": "TikTok reklamı, ya Instagram reklamı?",
+   "vo": "Büdcən bir platformaya çatır. TikTok reklamı, ya Instagram reklamı? Səhv seçsən, pul yanır."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Auditoriya", "sub": "TikTok daha *gənc*, Instagram daha geniş yaş aralığı",
+   "cap": "TikTok daha gənc, Instagram daha geniş auditoriya",
+   "vo": "Birinci: auditoriya. TikTok-da izləyici daha gəncdir, Instagram-da yaş aralığı daha genişdir."},
+  {"kind": "compare", "dur": 4.6, "title": "Kreativ tələbi", "bad": "Şəkil, banner", "good": "Səsli, vertikal video", "badLabel": "TikTok-da işləmir", "goodLabel": "TikTok-un dili",
+   "cap": "TikTok yalnız səsli, təbii vertikal video istəyir",
+   "vo": "İkinci: kreativ. TikTok yalnız səsli, təbii, vertikal video istəyir. Banner orada işləmir."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "Instagram-ın gücü", "sub": "Şəkil, karusel, video + _Direkt_ mesaj reklamı",
+   "cap": "Instagram-da şəkil, karusel və mesaj reklamı da var",
+   "vo": "Instagram-da isə şəkil, karusel, video, hətta birbaşa Direktə mesaj gətirən reklam qura bilərsən."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "red", "title": "Hədəfləmə", "sub": "Meta-da daha çox seçim: maraq, *retargeting*, oxşar auditoriya",
+   "cap": "Meta-da hədəfləmə seçimləri daha çoxdur",
+   "vo": "Üçüncü: hədəfləmə. Meta-da maraqlar, retargeting və oxşar auditoriya kimi daha çox seçim var."},
+  {"kind": "list", "dur": 4.8, "title": "Qısa qayda", "items": ["Gənc auditoriya + video → TikTok", "Mesaj, satış, yerli biznes → Instagram", "Əmin deyilsən? Kiçik büdcə ilə test et"],
+   "cap": "Gənc + video: TikTok. Mesaj və satış: Instagram",
+   "vo": "Qısa qayda: gənc auditoriya və video varsa TikTok. Mesaj və satış lazımdırsa Instagram. Əmin deyilsən, kiçik büdcə ilə test et."},
+  {"kind": "cta", "dur": 5.0, "small": "Sənə hansı uyğundur?", "big": "PLATFORMA yaz", "sub": "Biznesinə baxıb deyim", "button": "Direktə yaz →",
+   "cap": "Direktə PLATFORMA yaz — biznesinə baxıb deyim",
+   "vo": "Sənin biznesinə hansı uyğundur? Direktə PLATFORMA yaz, baxıb deyim."}
+ ]
+}
