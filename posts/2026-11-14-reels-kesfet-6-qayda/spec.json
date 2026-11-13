@@ -1,0 +1,32 @@
+{
+ "id": "2026-11-14-reels-kesfet-6-qayda",
+ "type": "reel",
+ "tag": "INSTAGRAM",
+ "musicSeed": 69,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Reels-in kəşfətə düşmür?", "big": "6 qayda", "sub": "Alqoritm *bunlara* baxır",
+   "cap": "Kəşfətə düşən Reels-in 6 qaydası",
+   "vo": "Reels-in kəşfətə düşmür? Bu altı qaydaya bax, alqoritm məhz bunlara baxır."},
+  {"kind": "step", "dur": 4.2, "num": "01", "title": "Güclü hook", "sub": "İlk *2 saniyədə* səbəb ver",
+   "cap": "İlk saniyələrdə izləməyə səbəb ver",
+   "vo": "Bir: güclü giriş. İlk iki saniyədə izləməyə səbəb ver."},
+  {"kind": "step", "dur": 4.2, "num": "02", "color": "yellow", "title": "Qısa və sıx", "sub": "Lazımsız _hər saniyəni_ kəs",
+   "cap": "Lazımsız hissələri kəs",
+   "vo": "İki: qısa və sıx saxla. Lazımsız hər saniyəni kəs."},
+  {"kind": "step", "dur": 4.2, "num": "03", "title": "Sona qədər izlət", "sub": "İzləmə müddəti — *əsas siqnal*",
+   "cap": "İzləmə müddəti əsas siqnaldır",
+   "vo": "Üç: sona qədər izlət. İzləmə müddəti alqoritm üçün əsas siqnaldır."},
+  {"kind": "step", "dur": 4.2, "num": "04", "title": "Paylaşılsın", "sub": "Dosta *göndərilən* video daha çox yayılır",
+   "cap": "Paylaşılan video daha çox yayılır",
+   "vo": "Dörd: paylaşılan kontent hazırla. Dosta göndərilən video daha çox insana çatır."},
+  {"kind": "step", "dur": 4.2, "num": "05", "color": "red", "title": "Orijinal ol", "sub": "Başqasının videosunu ~təkrar paylaşma~",
+   "cap": "Başqasının videosunu təkrar paylaşma",
+   "vo": "Beş: orijinal ol. Instagram təkrar paylaşılan videoları daha az göstərir."},
+  {"kind": "step", "dur": 4.2, "num": "06", "title": "Ardıcıl ol", "sub": "Həftədə bir neçə dəfə, *dayanmadan*",
+   "cap": "Ardıcıl paylaş, dayanma",
+   "vo": "Altı: ardıcıl ol. Həftədə bir neçə dəfə, dayanmadan paylaş."},
+  {"kind": "cta", "dur": 5.0, "small": "Yadda saxla", "big": "REELS yaz", "sub": "Reels-inə birlikdə baxaq", "button": "Direktə yaz →",
+   "cap": "Direktə REELS yaz — videona birlikdə baxaq",
+   "vo": "Bu videonu yadda saxla. Reels-inə baxmağımı istəyirsən? Direktə REELS yaz."}
+ ]
+}

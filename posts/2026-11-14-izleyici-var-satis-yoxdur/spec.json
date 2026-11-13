@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-14-izleyici-var-satis-yoxdur",
+ "type": "reel",
+ "tag": "BİZNES",
+ "musicSeed": 64,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "İzləyici çoxdur, satış yoxdur?", "big": "Problem burada", "sub": "Bəyənmə *pul ödəmir*",
+   "cap": "İzləyici var, satış yoxdur?",
+   "vo": "İzləyicin çoxdur, amma satış yoxdur? Problem buradadır: bəyənmə pul ödəmir."},
+  {"kind": "compare", "dur": 4.6, "title": "Nəyi sayırsan?", "bad": "İzləyici, bəyənmə, baxış", "good": "Direkt, zəng, sifariş", "badLabel": "Göstəriş", "goodLabel": "Pul",
+   "cap": "Bəyənmə yox — müraciət və sifariş say",
+   "vo": "İzləyici, bəyənmə, baxış — bunlar göstərişdir. Sənə lazım olan direkt, zəng və sifarişdir."},
+  {"kind": "step", "dur": 4.2, "num": "01", "title": "Aydın təklif", "sub": "Nə satırsan, *neçəyə*, kimə — ilk baxışdan",
+   "cap": "Nə satdığın ilk baxışdan aydın olsun",
+   "vo": "Bir: təklifin aydın olsun. Nə satırsan, neçəyə və kimə — ilk baxışdan bilinsin."},
+  {"kind": "step", "dur": 4.2, "num": "02", "color": "yellow", "title": "Hər postda CTA", "sub": "\"Direktə _QİYMƏT_ yaz\" — nə edəcəyini de",
+   "cap": "Hər postda nə etməli olduğunu de",
+   "vo": "İki: hər postun sonunda nə etməli olduğunu de. Məsələn, direktə qiymət yaz."},
+  {"kind": "step", "dur": 4.2, "num": "03", "title": "Sürətli cavab", "sub": "Direktə gələni *gözlətmə*",
+   "cap": "Direktə yazanı gözlətmə",
+   "vo": "Üç: direktə yazana tez cavab ver. Gözləyən müştəri rəqibinə gedir."},
+  {"kind": "step", "dur": 4.2, "num": "04", "color": "red", "title": "Doğru auditoriya", "sub": "Giveaway izləyicisi ~almır~",
+   "cap": "Giveaway ilə gələn izləyici çox vaxt almır",
+   "vo": "Dörd: doğru auditoriya. Hədiyyə oyunu ilə gələn izləyici çox vaxt alıcı olmur."},
+  {"kind": "cta", "dur": 5.0, "small": "Profilin satmır?", "big": "SATIŞ yaz", "sub": "Profilinə birlikdə baxaq", "button": "Direktə yaz →",
+   "cap": "Direktə SATIŞ yaz — profilinə birlikdə baxaq",
+   "vo": "Profilin izləyici gətirir, amma satmır? Direktə SATIŞ yaz, birlikdə baxaq."}
+ ]
+}
