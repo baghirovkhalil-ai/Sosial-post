@@ -41,3 +41,5 @@
 | 2026-11-12 20:00 | Niyə 19.99 manat, 20 yox? Qiymət psixologiyası | reel | Psixologiya | v3, Metricool 424675487 |
 | 2026-11-13 12:00 | TikTok reklamı vs Instagram reklamı — kimə hansı? | reel | Ads | v3, Metricool 425939391 |
 | 2026-11-13 20:00 | Müştəri rəylərini AI ilə 2 dəqiqəyə analiz et | reel | AI | v3, Metricool 425939430 |
+| 2026-11-14 12:00 | İzləyici çoxdur, satış yoxdur? Problem buradadır | reel | Biznes | v3, Metricool 427203466 |
+| 2026-11-14 20:00 | Kəşfətə düşən Reels-in 6 qaydası | reel | Instagram | v3, Metricool 427203502 |
