@@ -208,19 +208,21 @@
  },
  {
   "n": 24,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Ads",
   "hook": "Rəqibinin hansı reklamı işlədiyini pulsuz gör",
-  "angle": "Meta Ad Library — necə istifadə etmək"
+  "angle": "Meta Ad Library — necə istifadə etmək",
+  "date": "2026-11-15"
  },
  {
   "n": 25,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "AI",
   "hook": "Bu promptla CV yox, satış mətni yaz",
-  "angle": "AIDA formulu ilə AI-dan satış mətni"
+  "angle": "AIDA formulu ilə AI-dan satış mətni",
+  "date": "2026-11-15"
  },
  {
   "n": 26,

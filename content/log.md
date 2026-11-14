@@ -43,3 +43,5 @@
 | 2026-11-13 20:00 | Müştəri rəylərini AI ilə 2 dəqiqəyə analiz et | reel | AI | v3, Metricool 425939430 |
 | 2026-11-14 12:00 | İzləyici çoxdur, satış yoxdur? Problem buradadır | reel | Biznes | v3, Metricool 427203466 |
 | 2026-11-14 20:00 | Kəşfətə düşən Reels-in 6 qaydası | reel | Instagram | v3, Metricool 427203502 |
+| 2026-11-15 12:00 | Rəqibinin reklamlarını pulsuz gör: Meta Ad Library | reel | Ads | v3, Metricool 428160034 |
+| 2026-11-15 20:00 | AI ilə satış mətni: AIDA formulu promptu | reel | AI | v3, Metricool 428160058 |
