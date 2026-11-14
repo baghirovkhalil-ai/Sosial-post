@@ -1,0 +1,31 @@
+{
+ "id": "2026-11-15-aida-satis-metni",
+ "type": "reel",
+ "tag": "AI",
+ "musicSeed": 74,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "AI-ya \"satış mətni yaz\" deyirsən?", "big": "Yetmir", "sub": "Ona *formul* ver: AIDA",
+   "cap": "AI ilə satış mətni: AIDA formulu",
+   "vo": "AI-ya sadəcə satış mətni yaz deyirsən? Bu yetmir. Ona formul ver: AIDA."},
+  {"kind": "list", "dur": 5.0, "title": "AIDA nədir?", "items": ["A — Diqqət", "I — Maraq", "D — İstək", "A — Hərəkət"],
+   "cap": "Diqqət, maraq, istək, hərəkət",
+   "vo": "AIDA dörd addımdır: diqqət, maraq, istək və hərəkət."},
+  {"kind": "step", "dur": 4.2, "num": "01", "title": "Məlumat ver", "sub": "Məhsul, kimə satırsan, *əsas fayda*, qiymət",
+   "cap": "Məhsulu, müştərini və faydanı yaz",
+   "vo": "Birinci: AI-ya məhsulu, kimə satdığını, əsas faydanı və qiyməti yaz."},
+  {"kind": "chat", "dur": 6.0, "title": "Bu promptu yapışdır", "msgs": [
+     {"from": "user", "text": "AIDA formulu ilə Instagram üçün satış mətni yaz. Məhsul: ev təmizliyi. Müştəri: işləyən ana. Fayda: həftəsonu boş qalır."},
+     {"from": "ai", "text": "Həftəsonun yenə təmizliyə gedir? Sən dincəl, evi biz təmizləyək..."}],
+   "cap": "Promptu yapışdır: AIDA, məhsul, müştəri, fayda",
+   "vo": "İkinci: bu promptu yapışdır. AIDA formulu ilə satış mətni yaz, sonra məhsulu, müştərini və faydanı göstər."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "3 variant istə", "sub": "Fərqli _başlıqlarla_ — ən güclüsünü seç",
+   "cap": "3 variant istə, ən güclüsünü seç",
+   "vo": "Üçüncü: üç fərqli variant istə və ən güclü başlığı olanı seç."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "red", "title": "Özün ~düzəlt~", "sub": "Öz dilinə sal, yalan vəd sil",
+   "cap": "Mətni öz dilinə sal, yalan vədi sil",
+   "vo": "Və mütləq özün düzəlt: mətni öz danışığına sal, şişirdilmiş vədləri sil."},
+  {"kind": "cta", "dur": 5.0, "small": "Promptu saxla", "big": "AIDA yaz", "sub": "Şablonu göndərim", "button": "Direktə yaz →",
+   "cap": "Direktə AIDA yaz — şablonu göndərim",
+   "vo": "Bu videonu yadda saxla. Hazır şablonu istəyirsən? Direktə AIDA yaz, göndərim."}
+ ]
+}

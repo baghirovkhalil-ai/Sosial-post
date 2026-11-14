@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-15-meta-ad-library",
+ "type": "reel",
+ "tag": "REKLAM",
+ "musicSeed": 71,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Rəqibin hansı reklamı verir?", "big": "Pulsuz bax", "sub": "Meta *Ad Library* — hamıya açıq",
+   "cap": "Rəqibinin reklamlarını pulsuz gör",
+   "vo": "Rəqibin hansı reklamları verir? Bunu pulsuz görə bilərsən. Meta Ad Library hamıya açıqdır."},
+  {"kind": "step", "dur": 4.2, "num": "01", "title": "Ad Library-ni aç", "sub": "Google-da yaz: *Meta Ad Library*",
+   "cap": "Google-da Meta Ad Library yaz və aç",
+   "vo": "Birinci addım: Google-da Meta Ad Library yaz və saytı aç."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "Ölkə: Azərbaycan", "sub": "Kateqoriya: _Bütün reklamlar_, sonra rəqibin adını yaz",
+   "cap": "Ölkəni seç, rəqibin səhifə adını yaz",
+   "vo": "İkinci: ölkəni Azərbaycan seç, kateqoriyada bütün reklamlar, sonra rəqibin səhifə adını yaz."},
+  {"kind": "list", "dur": 5.0, "title": "Nə görəcəksən", "items": ["Aktiv reklamların hamısı", "Mətn, şəkil, video", "Nə vaxtdan yayımlanır", "Facebook, Instagram, Messenger"],
+   "cap": "Aktiv reklamlar, kreativlər və başlama tarixi",
+   "vo": "Orada rəqibin bütün aktiv reklamlarını, mətnini, şəklini, videosunu və nə vaxtdan yayımlandığını görəcəksən."},
+  {"kind": "step", "dur": 4.6, "num": "03", "color": "cyan", "title": "Uzun gedəni tap", "sub": "Aylardır yayımlanan reklam _çox güman_ işləyir",
+   "cap": "Uzun müddət gedən reklam çox güman işləyir",
+   "vo": "Üçüncü: uzun müddətdir yayımlanan reklamı tap. Aylardır gedirsə, çox güman ki, nəticə verir."},
+  {"kind": "compare", "dur": 4.6, "title": "Düzgün istifadə", "bad": "Eynisini kopyala", "good": "İdeyanı öz təklifinə uyğunlaşdır", "badLabel": "Səhv", "goodLabel": "Doğru",
+   "cap": "Kopyalama — ideyanı özünə uyğunlaşdır",
+   "vo": "Amma kopyalama. İdeyanı götür, öz təklifinə və öz üslubuna uyğunlaşdır."},
+  {"kind": "cta", "dur": 5.0, "small": "Videonu saxla", "big": "RƏQİB yaz", "sub": "Birlikdə baxaq", "button": "Direktə yaz →",
+   "cap": "Direktə RƏQİB yaz — birlikdə baxaq",
+   "vo": "Bu videonu yadda saxla. Rəqiblərinin reklamlarını təhlil etmək istəyirsən? Direktə RƏQİB yaz."}
+ ]
+}
