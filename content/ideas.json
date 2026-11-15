@@ -226,19 +226,21 @@
  },
  {
   "n": 26,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Psixologiya",
   "hook": "Müştərini “bəli” deməyə yaxınlaşdıran 5 söz",
-  "angle": "Pulsuz, yeni, sən, çünki, indi — nümunələrlə"
+  "angle": "Pulsuz, yeni, sən, çünki, indi — nümunələrlə",
+  "date": "2026-11-16"
  },
  {
   "n": 27,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Biznes",
   "hook": "Google Maps-də 1-ci olmaq üçün 4 addım",
-  "angle": "Profil, şəkillər, rəylər, cavablar — yerli SEO"
+  "angle": "Profil, şəkillər, rəylər, cavablar — yerli SEO",
+  "date": "2026-11-16"
  },
  {
   "n": 28,
