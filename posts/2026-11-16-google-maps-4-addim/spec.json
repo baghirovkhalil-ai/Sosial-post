@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-16-google-maps-4-addim",
+ "type": "reel",
+ "tag": "BİZNES",
+ "musicSeed": 85,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "\"Yaxınlıqda kafe\" yazırlar", "big": "Sən yoxsan?", "sub": "Google Maps-də *1-ci* olmaq üçün 4 addım",
+   "cap": "Google Maps-də yuxarı çıxmaq üçün 4 addım",
+   "vo": "Müştəri yaxınlıqda kafe yazır, amma sən siyahıda yoxsan? Google Maps-də yuxarı çıxmaq üçün dörd addım."},
+  {"kind": "list", "dur": 5.0, "title": "Google 3 şeyə baxır", "items": ["Uyğunluq", "Məsafə", "Tanınmışlıq"],
+   "cap": "Google uyğunluq, məsafə və tanınmışlığa baxır",
+   "vo": "Google yerli nəticələrdə üç şeyə baxır: uyğunluq, məsafə və tanınmışlıq."},
+  {"kind": "step", "dur": 4.6, "num": "01", "title": "Profili doldur", "sub": "Düzgün *kateqoriya*, saatlar, nömrə, ünvan",
+   "cap": "Profili tam doldur: kateqoriya, saat, nömrə",
+   "vo": "Birinci: Google biznes profilini tam doldur. Düzgün kateqoriya, iş saatları, nömrə və ünvan."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "Real şəkillər", "sub": "Məkan, məhsul, _komanda_ — müntəzəm yenilə",
+   "cap": "Real şəkillər əlavə et və yenilə",
+   "vo": "İkinci: real şəkillər qoy. Məkanı, məhsulu, komandanı göstər və müntəzəm yenilə."},
+  {"kind": "step", "dur": 4.4, "num": "03", "title": "Rəy topla", "sub": "Hər razı müştəriyə *rəy linki* göndər",
+   "cap": "Razı müştərilərdən rəy istə",
+   "vo": "Üçüncü: rəy topla. Hər razı müştəriyə rəy linkini göndər."},
+  {"kind": "step", "dur": 4.6, "num": "04", "color": "red", "title": "Hər rəyə cavab", "sub": "Pis rəyə də — ~mübahisə yox~, həll təklif et",
+   "cap": "Hər rəyə cavab ver, pis rəyə də",
+   "vo": "Dördüncü: hər rəyə cavab ver. Pis rəyə də. Mübahisə etmə, həll təklif et."},
+  {"kind": "cta", "dur": 4.8, "small": "Profilin necədir?", "big": "MAPS yaz", "sub": "Pulsuz yoxlayım", "button": "Direktə yaz →",
+   "cap": "Direktə MAPS yaz, profilinə baxım",
+   "vo": "Profilinin necə olduğunu bilmək istəyirsən? Direktə MAPS yaz, pulsuz yoxlayım."}
+ ]
+}

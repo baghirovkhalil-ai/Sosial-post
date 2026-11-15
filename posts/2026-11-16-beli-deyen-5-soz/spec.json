@@ -1,0 +1,32 @@
+{
+ "id": "2026-11-16-beli-deyen-5-soz",
+ "type": "reel",
+ "tag": "PSİXOLOGİYA",
+ "musicSeed": 81,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Müştəri \"bəli\" demir?", "big": "5 söz", "sub": "Satış mətninə *bunları* əlavə et",
+   "cap": "Müştərini bəli deməyə yaxınlaşdıran 5 söz",
+   "vo": "Müştəri bəli demir? Satış mətninə bu beş sözü əlavə et."},
+  {"kind": "step", "dur": 4.2, "num": "01", "title": "Pulsuz", "sub": "Riski götürür: *pulsuz* çatdırılma, pulsuz məsləhət",
+   "cap": "Pulsuz sözü riski götürür",
+   "vo": "Birinci: pulsuz. Bu söz müştərinin riskini götürür. Pulsuz çatdırılma, pulsuz məsləhət."},
+  {"kind": "step", "dur": 4.0, "num": "02", "color": "yellow", "title": "Yeni", "sub": "Beyin _yeniliyə_ diqqət verir",
+   "cap": "Yeni sözü diqqət çəkir",
+   "vo": "İkinci: yeni. Beyin yeniliyə avtomatik diqqət verir."},
+  {"kind": "step", "dur": 4.2, "num": "03", "title": "Sən", "sub": "\"Biz edirik\" yox — \"*sən* qazanırsan\"",
+   "cap": "Biz yox, sən de",
+   "vo": "Üçüncü: sən. Biz edirik demə, sən qazanırsan de."},
+  {"kind": "stat", "dur": 5.0, "small": "Çünki — Harvard təcrübəsi, 1978", "value": 94, "suffix": "%", "label": "\"çünki\" deyəndə razılaşdı (səbəbsiz: 60%)",
+   "cap": "Çünki sözü ilə razılıq 60%-dən 94%-ə qalxdı",
+   "vo": "Dördüncü: çünki. Harvard təcrübəsində səbəbsiz xahişə altmış faiz razı oldu, çünki deyəndə doxsan dörd faiz."},
+  {"kind": "step", "dur": 4.2, "num": "05", "color": "red", "title": "İndi", "sub": "Gecikməyə yer qoyma, amma ~yalan təcili~ yox",
+   "cap": "İndi de, amma saxta təcililik yox",
+   "vo": "Beşinci: indi. Müştəri təxirə salmasın. Amma saxta təcililik yaratma."},
+  {"kind": "compare", "dur": 4.8, "title": "Nümunə", "bad": "Kursumuz var, qeydiyyat açıqdır", "good": "Yeni kurs: indi yazıl, çünki ilk dərs sənə pulsuz", "badLabel": "Zəif", "goodLabel": "Güclü",
+   "cap": "Zəif mətn və güclü mətn",
+   "vo": "Bax: kursumuz var yox, yeni kurs, indi yazıl, çünki ilk dərs sənə pulsuz."},
+  {"kind": "cta", "dur": 4.6, "small": "Yadda saxla", "big": "5 söz", "sub": "Növbəti postunda yoxla", "button": "Paylaş →",
+   "cap": "Yadda saxla və SMM-çi dostuna göndər",
+   "vo": "Bu videonu yadda saxla və satış mətni yazan dostuna göndər."}
+ ]
+}
