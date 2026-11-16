@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-17-chatgpt-10-prompt",
+ "type": "reel",
+ "tag": "AI",
+ "musicSeed": 90,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Yadda saxla", "big": "10 prompt", "sub": "ChatGPT ilə *marketinq* — hazır şablonlar",
+   "cap": "ChatGPT üçün 10 hazır marketinq promptu",
+   "vo": "Bunu yadda saxla: ChatGPT üçün on hazır marketinq promptu."},
+  {"kind": "chat", "dur": 5.0, "title": "Əvvəl bunu yaz", "msgs": [{"from": "user", "text": "Sən Bakıda kafe üçün marketoloqsan. Müştərim: 25–35 yaş, ofis işçisi."}, {"from": "ai", "text": "Anladım. Nə hazırlayım?"}],
+   "cap": "Əvvəlcə rol və müştərini yaz",
+   "vo": "Əvvəlcə rol ver və müştərini təsvir et. Sonra bu promptları yaz."},
+  {"kind": "list", "dur": 5.6, "title": "Kontent", "items": ["1. 30 günlük post planı", "2. 10 Reels hook-u", "3. Caption + 1 CTA", "4. Story sorğu sualları", "5. FAQ cavabları"],
+   "cap": "Plan, hook, caption, story, FAQ",
+   "vo": "Kontent üçün: aylıq plan, Reels hook-ları, caption, story sualları və tez-tez verilən suallar."},
+  {"kind": "list", "dur": 5.6, "title": "Satış", "items": ["6. Reklam mətni 3 variant", "7. Təklif başlığı", "8. Direct cavab şablonu", "9. Rəqib analizi", "10. Rəylərin xülasəsi"],
+   "cap": "Reklam, təklif, Direct, rəqib, rəylər",
+   "vo": "Satış üçün: reklam mətni, təklif başlığı, Direct cavabı, rəqib analizi və rəylərin xülasəsi."},
+  {"kind": "compare", "dur": 4.6, "title": "Nəticəni yoxla", "bad": "Kopyala, yapışdır", "good": "Öz dilinə sal", "badLabel": "Robot kimi", "goodLabel": "Sən kimi",
+   "cap": "AI cavabını öz dilinə sal",
+   "vo": "Cavabı olduğu kimi kopyalama. Öz dilinə sal, faktları yoxla."},
+  {"kind": "cta", "dur": 4.6, "small": "Tam mətnlər üçün yaz:", "big": "PROMPT", "sub": "10 promptu göndərim", "button": "Direktə yaz →",
+   "cap": "Direktə PROMPT yaz",
+   "vo": "Promptların tam mətnini istəyirsən? Direktə PROMPT yaz, göndərim."}
+ ]
+}

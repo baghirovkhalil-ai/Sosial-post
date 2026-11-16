@@ -1,0 +1,32 @@
+{
+ "id": "2026-11-17-story-stikerleri",
+ "type": "reel",
+ "tag": "INSTAGRAM",
+ "musicSeed": 88,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Story-ni baxırlar, amma", "big": "Yazan yox?", "sub": "Bu *4 stiker* baxanı danışdırır",
+   "cap": "Story-ni baxırlar, amma heç kim yazmır?",
+   "vo": "Story-ni baxırlar, amma heç kim yazmır? Bu dörd stiker baxanı danışdırır."},
+  {"kind": "compare", "dur": 4.6, "title": "Fərq nədədir?", "bad": "Sadəcə şəkil + mətn", "good": "Sual verən story", "badLabel": "Baxır, keçir", "goodLabel": "Toxunur, yazır",
+   "cap": "Sadə story baxılır, sual verən story cavab alır",
+   "vo": "Sadə şəkil baxılır və keçilir. Sual verən story isə cavab alır."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Sorğu", "sub": "\"Hansını seçərdin: *A* yoxsa *B*?\"",
+   "cap": "Sorğu: hansını seçərdin, A yoxsa B?",
+   "vo": "Birinci, sorğu. Soruş: hansını seçərdin, A yoxsa B?"},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "Sual qutusu", "sub": "\"Mənə _istənilən sualı_ ver\"",
+   "cap": "Sual qutusu: istənilən sualı ver",
+   "vo": "İkinci, sual qutusu. Yaz: mənə istənilən sualı ver."},
+  {"kind": "step", "dur": 4.4, "num": "03", "title": "Kviz", "sub": "Öz sahəndən sual — *öyrədir* və əyləndirir",
+   "cap": "Kviz: öz sahəndən sual ver",
+   "vo": "Üçüncü, kviz. Öz sahəndən sual ver, həm öyrədir, həm əyləndirir."},
+  {"kind": "step", "dur": 4.6, "num": "04", "color": "red", "title": "Geri sayım", "sub": "Endirim, yeni məhsul — ~unutmasınlar~",
+   "cap": "Geri sayım: endirimi unutmasınlar",
+   "vo": "Dördüncü, geri sayım. Endirimi və yeni məhsulu unutmasınlar."},
+  {"kind": "step", "dur": 4.4, "num": "+", "color": "yellow", "title": "Cavab verənə yaz", "sub": "Hər cavab = _DM söhbəti_ = müştəri",
+   "cap": "Cavab verənə Direct-də yaz",
+   "vo": "Ən vacibi: cavab verənə Direct-də yaz. Hər cavab bir söhbətdir."},
+  {"kind": "cta", "dur": 4.6, "small": "Story fikri üçün yaz:", "big": "STORY", "sub": "7 günlük fikir göndərim", "button": "Direktə yaz →",
+   "cap": "Direktə STORY yaz",
+   "vo": "Story fikri lazımdır? Direktə STORY yaz, yeddi günlük fikir göndərim."}
+ ]
+}

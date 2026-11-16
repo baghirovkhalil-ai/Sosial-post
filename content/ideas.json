@@ -265,5 +265,85 @@
   "pillar": "Ads",
   "hook": "Retargeting: saytına girib almayanları geri qaytar",
   "angle": "Pixel/engagement auditoriyası, sadə qurulum"
+ },
+ {
+  "n": 31,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Psixologiya",
+  "hook": "Qiyməti əvvəl yox, sonda de: niyə?",
+  "angle": "Dəyər → qiymət ardıcıllığı, lövbər effekti"
+ },
+ {
+  "n": 32,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Biznes",
+  "hook": "Direct-də “qiymət?” yazana necə cavab verməli",
+  "angle": "Hazır cavab şablonu: sual + dəyər + qiymət + CTA"
+ },
+ {
+  "n": 33,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Instagram",
+  "hook": "Bio-nu 1 dəqiqədə düzəlt: 4 sətir formulu",
+  "angle": "Kim + kimə + nəticə + CTA"
+ },
+ {
+  "n": 34,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "AI ilə 1 videodan 5 kontent",
+  "angle": "Reel → caption, story, karusel mətni, post"
+ },
+ {
+  "n": 35,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "Reklam kreativi 3 saniyədə tutmursa, pul yanır",
+  "angle": "Hook, mətn üstdə, səs olmadan anlaşılma"
+ },
+ {
+  "n": 36,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Psixologiya",
+  "hook": "3 paket qoy, ortanı satın alacaqlar",
+  "angle": "Decoy/kompromis effekti"
+ },
+ {
+  "n": 37,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Biznes",
+  "hook": "Müştəri rəyini necə istəmək olar ki, yazsın",
+  "angle": "Vaxt, link, qısa sual"
+ },
+ {
+  "n": 38,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Instagram",
+  "hook": "Reels-də ilk 3 saniyə üçün 5 hook formulu",
+  "angle": "Sual, rəqəm, ziddiyyət, səhv, nəticə"
+ },
+ {
+  "n": 39,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "ChatGPT ilə rəqib analizi: 3 prompt",
+  "angle": "Rəqibin profili, rəyləri, təklifi"
+ },
+ {
+  "n": 40,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "Meta reklamında “Mesaj” hədəfi nə vaxt seçilməli",
+  "angle": "Direct satış edən bizneslər üçün"
  }
 ]
