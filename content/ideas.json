@@ -244,19 +244,21 @@
  },
  {
   "n": 28,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Instagram",
   "hook": "Story-ni kim baxır, kim almır? Bu stikerlərlə dəyiş",
-  "angle": "Sorğu, sual, sürüşdürmə — engagement → DM"
+  "angle": "Sorğu, sual, sürüşdürmə — engagement → DM",
+  "date": "2026-11-17"
  },
  {
   "n": 29,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "AI",
   "hook": "ChatGPT-yə marketinq üçün 10 hazır prompt",
-  "angle": "Saxlamalı prompt kitabçası"
+  "angle": "Saxlamalı prompt kitabçası",
+  "date": "2026-11-17"
  },
  {
   "n": 30,

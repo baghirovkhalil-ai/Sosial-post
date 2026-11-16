@@ -47,9 +47,13 @@
 | 2026-11-15 20:00 | AI ilə satış mətni: AIDA formulu promptu | reel | AI | v3, Metricool 428160058 |
 | 2026-11-16 12:00 | Müştərini "bəli" deməyə yaxınlaşdıran 5 söz | reel | Psixologiya | v3, Metricool 429053992 |
 | 2026-11-16 20:00 | Google Maps-də 1-ci olmaq üçün 4 addım | reel | Biznes | v3, Metricool 429054019 |
+| 2026-11-17 12:00 | Story-ni kim baxır, kim almır? 4 stiker | reel | Instagram | v3, Metricool 430360933 |
+| 2026-11-17 20:00 | ChatGPT-yə marketinq üçün 10 hazır prompt | reel | AI | v3, Metricool 430360974 |
 
 ### Həftəlik statistika (2026-11-08 → 11-15, Instagram Reels)
 - ⚠️ 2026-11-12 20:00-dan bəri bütün postlar ERROR: "You have reached your Metricool account limit" (7 post paylaşılmayıb). Khalil-ə xəbər verildi.
 - Ən yaxşı: "ChatGPT-də reklam artıq var" (11-10) — 358 baxış, 294 reach, 7 interaksiya; avtomatik reel-lərdən "Hashtag artıq işləmir" (11-12) — 217 baxış.
 - Ən zəif: sayt xidməti postu (11-10) — 65 baxış; "AI ilə biznes" ümumi post (11-11) — 79 baxış.
 - Skip rate yüksəkdir (80–91%) — ilk 3 saniyə zəifdir. Növbəti həftə: daha konkret, rəqəmli/sual hook; AI + ChatGPT və Instagram axtarış mövzuları önə (#29 ChatGPT promptları prioritet).
+
+- 2026-11-16: ⚠️ 11-15 və 11-16 postları da Metricool-da ERROR ("account limit") — paylaşılmayıb. Yeni ideyalar 31–40 əlavə edildi.
