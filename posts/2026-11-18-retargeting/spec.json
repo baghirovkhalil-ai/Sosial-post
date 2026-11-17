@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-18-retargeting",
+ "type": "reel",
+ "tag": "META ADS",
+ "musicSeed": 91,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Sayta girdi, baxdı, getdi?", "big": "Geri qaytar", "sub": "Bunun adı *retargeting*-dir",
+   "cap": "Sayta girdi, baxdı və getdi? Onu geri qaytar",
+   "vo": "Saytına girdi, baxdı və almadan getdi? Onu geri qaytarmaq olar. Bunun adı retargetinqdir."},
+  {"kind": "compare", "dur": 4.6, "title": "Kimə reklam verirsən?", "bad": "Səni heç tanımayan", "good": "Artıq maraq göstərən", "badLabel": "Soyuq", "goodLabel": "İsti",
+   "cap": "Soyuq auditoriya yox, maraq göstərənlər",
+   "vo": "Səni heç tanımayan adama yox, artıq maraq göstərən adama reklam ver."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Pixel qur", "sub": "Saytına *Meta Pixel* qoy — kim girdi, görsün",
+   "cap": "Birinci addım: saytına Meta Pixel qur",
+   "vo": "Birinci, saytına Meta Pixel qur. Kim girdi, Meta görsün."},
+  {"kind": "step", "dur": 4.6, "num": "02", "color": "yellow", "title": "Auditoriya yarat", "sub": "_Sayta girənlər_ və ya Instagram-da _yazanlar_",
+   "cap": "Sayta girənlərdən və ya Instagram-da aktiv olanlardan auditoriya yarat",
+   "vo": "İkinci, xüsusi auditoriya yarat: sayta girənlər, ya da Instagram-da səninlə əlaqə quranlar."},
+  {"kind": "step", "dur": 4.4, "num": "03", "title": "Fərqli mesaj", "sub": "Rəy, zəmanət və ya *kiçik bonus* göstər",
+   "cap": "Onlara fərqli mesaj göstər: rəy, zəmanət, bonus",
+   "vo": "Üçüncü, onlara fərqli mesaj göstər: müştəri rəyi, zəmanət, ya da kiçik bonus."},
+  {"kind": "step", "dur": 4.4, "num": "!", "color": "red", "title": "Alanları çıxar", "sub": "Artıq alana eyni reklam ~pul itkisidir~",
+   "cap": "Artıq alanları auditoriyadan çıxar",
+   "vo": "Və vacib: artıq alanları auditoriyadan çıxar, yoxsa pul itirirsən."},
+  {"kind": "cta", "dur": 4.6, "small": "Qurulumda kömək üçün yaz:", "big": "PİXEL", "sub": "Sənin sayta baxım", "button": "Direktə yaz →",
+   "cap": "Direktə PIXEL yaz",
+   "vo": "Qurulumda kömək lazımdır? Direktə PIXEL yaz, saytına baxım."}
+ ]
+}

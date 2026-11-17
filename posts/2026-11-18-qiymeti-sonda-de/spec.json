@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-18-qiymeti-sonda-de",
+ "type": "reel",
+ "tag": "PSIXOLOGIYA",
+ "musicSeed": 92,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Qiyməti birinci deyirsən?", "big": "Səhvdir", "sub": "Qiyməti *sonda* de. Niyə?",
+   "cap": "Qiyməti birinci deyirsən? Bu səhvdir",
+   "vo": "Qiyməti birinci deyirsən? Bu səhvdir. Qiyməti sonda de. Bəs niyə?"},
+  {"kind": "compare", "dur": 4.8, "title": "Eyni qiymət", "bad": "\"150 manat\" — və sükut", "good": "Nəticə, bonus, sonra 150", "badLabel": "Bahadır", "goodLabel": "Dəyər",
+   "cap": "Əvvəl qiymət baha görünür, əvvəl dəyər isə qiyməti doğruldur",
+   "vo": "Birinci qiymət desən, baha görünür. Əvvəl dəyəri göstərsən, eyni qiymət ağlabatan görünür."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Problem", "sub": "Müştərinin *ağrısını* öz sözləri ilə de",
+   "cap": "Birinci, müştərinin problemini de",
+   "vo": "Birinci, müştərinin problemini onun öz sözləri ilə de."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "Nəticə", "sub": "Nə _alacağını_ konkret göstər",
+   "cap": "İkinci, nə nəticə alacağını göstər",
+   "vo": "İkinci, nə nəticə alacağını konkret göstər."},
+  {"kind": "step", "dur": 4.6, "num": "03", "title": "Lövbər", "sub": "Böyük rəqəmlə müqayisə et: *itkisi* nə qədərdir?",
+   "cap": "Üçüncü, lövbər: problemin ona neçəyə başa gəldiyini xatırlat",
+   "vo": "Üçüncü, lövbər qoy. Problemin ona neçəyə başa gəldiyini xatırlat."},
+  {"kind": "step", "dur": 4.4, "num": "04", "color": "red", "title": "Sonra qiymət", "sub": "Qısa, aydın, ~bəhanəsiz~",
+   "cap": "Və yalnız sonra qiyməti de",
+   "vo": "Və yalnız bundan sonra qiyməti de. Qısa, aydın, bəhanə gətirmədən."},
+  {"kind": "cta", "dur": 4.6, "small": "Satış skripti üçün yaz:", "big": "QİYMƏT", "sub": "Hazır şablonu göndərim", "button": "Direktə yaz →",
+   "cap": "Direktə QİYMƏT yaz",
+   "vo": "Hazır satış şablonu istəyirsən? Direktə QİYMƏT yaz, göndərim."}
+ ]
+}
