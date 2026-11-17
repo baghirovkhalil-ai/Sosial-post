@@ -49,6 +49,8 @@
 | 2026-11-16 20:00 | Google Maps-də 1-ci olmaq üçün 4 addım | reel | Biznes | v3, Metricool 429054019 |
 | 2026-11-17 12:00 | Story-ni kim baxır, kim almır? 4 stiker | reel | Instagram | v3, Metricool 430360933 |
 | 2026-11-17 20:00 | ChatGPT-yə marketinq üçün 10 hazır prompt | reel | AI | v3, Metricool 430360974 |
+| 2026-11-18 12:00 | Retargeting: saytına girib almayanları geri qaytar | reel | Ads | v3, Metricool 431733026 |
+| 2026-11-18 20:00 | Qiyməti əvvəl yox, sonda de: niyə? | reel | Psixologiya | v3, Metricool 431733089 |
 
 ### Həftəlik statistika (2026-11-08 → 11-15, Instagram Reels)
 - ⚠️ 2026-11-12 20:00-dan bəri bütün postlar ERROR: "You have reached your Metricool account limit" (7 post paylaşılmayıb). Khalil-ə xəbər verildi.
@@ -57,3 +59,4 @@
 - Skip rate yüksəkdir (80–91%) — ilk 3 saniyə zəifdir. Növbəti həftə: daha konkret, rəqəmli/sual hook; AI + ChatGPT və Instagram axtarış mövzuları önə (#29 ChatGPT promptları prioritet).
 
 - 2026-11-16: ⚠️ 11-15 və 11-16 postları da Metricool-da ERROR ("account limit") — paylaşılmayıb. Yeni ideyalar 31–40 əlavə edildi.
+- 2026-11-17: ⚠️ 11-17 postları da Metricool-da ERROR ("account limit") — paylaşılmayıb. 11-18 postları PENDING kimi planlandı.
