@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-19-bio-4-setir",
+ "type": "reel",
+ "tag": "INSTAGRAM",
+ "musicSeed": 94,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Profilinə girirlər və...", "big": "Çıxırlar", "sub": "Səbəb: *bio*. 1 dəqiqədə düzəlt",
+   "cap": "Profilinə girib çıxırlar? Səbəb bio-dur",
+   "vo": "Profilinə girirlər və dərhal çıxırlar? Səbəb çox vaxt bio-dur. Gəl bir dəqiqədə düzəldək."},
+  {"kind": "list", "dur": 4.8, "title": "4 sətir formulu", "items": ["Kimsən", "Kimə kömək edirsən", "Hansı nəticə", "Nə etsinlər (CTA)"],
+   "cap": "Formul dörd sətirdir: kim, kimə, nəticə, CTA",
+   "vo": "Formul sadədir, dörd sətir: kimsən, kimə kömək edirsən, nəticə və CTA."},
+  {"kind": "step", "dur": 4.2, "num": "01", "title": "Kim", "sub": "\"Tort ustası\" — *bir sözlə* aydın",
+   "cap": "Birinci sətir: kimsən",
+   "vo": "Birinci sətir: kimsən. Məsələn, tort ustası."},
+  {"kind": "step", "dur": 4.2, "num": "02", "color": "yellow", "title": "Kimə", "sub": "\"Bakıda ad günü və _toy_ üçün\"",
+   "cap": "İkinci sətir: kimə xidmət edirsən",
+   "vo": "İkinci sətir: kimə. Bakıda ad günü və toy üçün."},
+  {"kind": "step", "dur": 4.4, "num": "03", "title": "Nəticə", "sub": "\"Sifarişə görə dizayn, *vaxtında* çatdırılma\"",
+   "cap": "Üçüncü sətir: müştəri nə qazanır",
+   "vo": "Üçüncü sətir: nəticə. Sifarişə görə dizayn, vaxtında çatdırılma."},
+  {"kind": "step", "dur": 4.4, "num": "04", "color": "cyan", "title": "CTA", "sub": "\"Sifariş üçün direktə yaz\" + link",
+   "cap": "Dördüncü sətir: nə etməli olduqlarını de",
+   "vo": "Dördüncü sətir: CTA. Sifariş üçün direktə yaz, altında da link."},
+  {"kind": "cta", "dur": 4.6, "small": "Bio-nu yoxlayım?", "big": "BIO", "sub": "Direktə yaz, baxım", "button": "Direktə yaz →",
+   "cap": "Bio-nu yoxlamağımı istəyirsən? Direktə BIO yaz",
+   "vo": "Bio-nu yoxlamağımı istəyirsən? Direktə BIO yaz, baxım."}
+ ]
+}

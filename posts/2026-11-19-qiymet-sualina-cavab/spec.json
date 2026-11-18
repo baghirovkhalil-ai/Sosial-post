@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-19-qiymet-sualina-cavab",
+ "type": "reel",
+ "tag": "BIZNES",
+ "musicSeed": 93,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Direktə yazırlar: \"qiymət?\"", "big": "Sən?", "sub": "Yalnız rəqəm atırsan? *Müştəri gedir*",
+   "cap": "Direktə qiymət yazırlar, sən isə yalnız rəqəm atırsan?",
+   "vo": "Direktə qiymət yazırlar, sən də sadəcə rəqəm atırsan? Müştəri elə oradaca itir."},
+  {"kind": "compare", "dur": 4.8, "title": "Eyni sual", "bad": "\"80 manat\" — və sükut", "good": "Sual + dəyər + qiymət + addım", "badLabel": "Quru", "goodLabel": "Satır",
+   "cap": "Quru rəqəm yox, dörd addımlı cavab yaz",
+   "vo": "Quru rəqəm yazma. Cavabı dörd addımla qur."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Sual ver", "sub": "\"Hansı ölçü / nə üçün lazımdır?\" — *söhbəti aç*",
+   "cap": "Birinci, qısa sual ver və söhbəti aç",
+   "vo": "Birinci, qısa sual ver. Nə üçün lazımdır, hansı variant? Söhbət açılsın."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "Dəyər", "sub": "Nə _daxildir_: çatdırılma, zəmanət, bonus",
+   "cap": "İkinci, qiymətə nələrin daxil olduğunu yaz",
+   "vo": "İkinci, dəyəri göstər. Qiymətə nə daxildir: çatdırılma, zəmanət, bonus."},
+  {"kind": "step", "dur": 4.2, "num": "03", "title": "Qiymət", "sub": "Aydın rəqəm, ~gizli şərt yox~",
+   "cap": "Üçüncü, qiyməti aydın yaz",
+   "vo": "Üçüncü, qiyməti aydın yaz. Gizli şərt olmasın."},
+  {"kind": "step", "dur": 4.4, "num": "04", "color": "cyan", "title": "Növbəti addım", "sub": "\"Bu gün sifariş versən, sabah çatdırırıq\"",
+   "cap": "Dördüncü, növbəti addımı təklif et",
+   "vo": "Dördüncü, növbəti addımı təklif et. Məsələn, bu gün sifariş versən, sabah çatdırırıq."},
+  {"kind": "cta", "dur": 4.6, "small": "Hazır cavab şablonu üçün yaz:", "big": "ŞABLON", "sub": "Direktə göndərim", "button": "Direktə yaz →",
+   "cap": "Direktə ŞABLON yaz",
+   "vo": "Hazır cavab şablonu istəyirsən? Direktə ŞABLON yaz, göndərim."}
+ ]
+}
