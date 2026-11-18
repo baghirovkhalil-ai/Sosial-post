@@ -280,19 +280,21 @@
  },
  {
   "n": 32,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Biznes",
   "hook": "Direct-də “qiymət?” yazana necə cavab verməli",
-  "angle": "Hazır cavab şablonu: sual + dəyər + qiymət + CTA"
+  "angle": "Hazır cavab şablonu: sual + dəyər + qiymət + CTA",
+  "date": "2026-11-19 12:00"
  },
  {
   "n": 33,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Instagram",
   "hook": "Bio-nu 1 dəqiqədə düzəlt: 4 sətir formulu",
-  "angle": "Kim + kimə + nəticə + CTA"
+  "angle": "Kim + kimə + nəticə + CTA",
+  "date": "2026-11-19 20:00"
  },
  {
   "n": 34,

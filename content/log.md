@@ -60,3 +60,4 @@
 
 - 2026-11-16: ⚠️ 11-15 və 11-16 postları da Metricool-da ERROR ("account limit") — paylaşılmayıb. Yeni ideyalar 31–40 əlavə edildi.
 - 2026-11-17: ⚠️ 11-17 postları da Metricool-da ERROR ("account limit") — paylaşılmayıb. 11-18 postları PENDING kimi planlandı.
+- 2026-11-19: 12:00 "Direktə qiymət? yazana cavab" (Biznes, #32, seed 93) + 20:00 "Bio 4 sətir formulu" (Instagram, #33, seed 94) — PENDING planlandı. ⚠️ 11-18 postları da ERROR ("account limit") — paylaşılmayıb.
