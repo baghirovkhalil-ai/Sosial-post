@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-20-kreativ-3-saniye",
+ "type": "reel",
+ "tag": "META ADS",
+ "musicSeed": 96,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Reklamın göstərilir, amma satmır?", "big": "3 saniyə", "sub": "İlk 3 saniyə tutmursa, ~pul yanır~",
+   "cap": "Reklam ilk 3 saniyədə tutmursa, pul yanır",
+   "vo": "Reklamın göstərilir, amma satmır? İlk üç saniyə tutmursa, pulun yanır."},
+  {"kind": "compare", "dur": 5.0, "title": "İlk kadr", "badLabel": "Belə yox", "bad": "Loqo + \"Xoş gəlmisiniz\"", "goodLabel": "Belə", "good": "Problem və ya nəticə dərhal",
+   "cap": "İlk kadrda loqo yox, problem göstər",
+   "vo": "İlk kadrda loqo və salam yox. Dərhal problemi və ya nəticəni göstər."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Hook", "sub": "Sual, rəqəm və ya *nəticə* ilə başla", "visual": "target",
+   "cap": "Sual, rəqəm və ya nəticə ilə başla",
+   "vo": "Birinci: sual, rəqəm və ya nəticə ilə başla."},
+  {"kind": "step", "dur": 4.6, "num": "02", "color": "yellow", "title": "Mətn üstdə", "sub": "Çox adam səssiz baxır — əsas fikri _ekrana_ yaz",
+   "cap": "Çox adam səssiz baxır, fikri ekrana yaz",
+   "vo": "İkinci: çox adam səssiz baxır. Əsas fikri ekrana yaz."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "red", "title": "Səssiz test", "sub": "Səsi söndür və bax: *anlaşılır?*", "visual": "cross",
+   "cap": "Səsi söndür, bax: anlaşılırmı?",
+   "vo": "Üçüncü: səsi söndür və özün bax. Anlaşılırmı?"},
+  {"kind": "step", "dur": 4.6, "num": "04", "color": "cyan", "title": "Test et", "sub": "Eyni reklama 3 fərqli *hook* yaz", "visual": "bars",
+   "cap": "Eyni reklama üç fərqli hook yaz, test et",
+   "vo": "Dördüncü: eyni reklama üç fərqli hook yaz və test et."},
+  {"kind": "cta", "dur": 4.6, "small": "Kreativinə baxım?", "big": "HOOK", "sub": "Direktə yaz, yoxlayım", "button": "Direktə yaz →",
+   "cap": "Kreativini yoxlayım? Direktə HOOK yaz",
+   "vo": "Kreativinə baxmağımı istəyirsən? Direktə HOOK yaz."}
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": "2026-11-20-1-videodan-5-kontent",
+ "type": "reel",
+ "tag": "AI",
+ "musicSeed": 95,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Bir video çəkdin?", "big": "5 kontent", "sub": "*AI* ilə 10 dəqiqəyə çıxart",
+   "cap": "Bir videodan beş kontent çıxart",
+   "vo": "Bir video çəkdin? Ondan AI ilə on dəqiqəyə beş kontent çıxart."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Mətnə çevir", "sub": "Videonun *transkriptini* götür — altyazı faylı da olar", "visual": "target",
+   "cap": "Əvvəl videonu mətnə çevir",
+   "vo": "Birinci addım: videonu mətnə çevir. Altyazı faylı da işə yarayır."},
+  {"kind": "chat", "dur": 5.6, "title": "ChatGPT-yə yaz", "msgs": [
+     {"from": "user", "text": "Bu mətndən 5 kontent yarat: caption, 3 story, karusel, post, Shorts başlığı"},
+     {"from": "ai", "text": "Hazırdır! 1) Caption: qarmaq + 4 sətir + CTA..."}],
+   "cap": "Mətni ChatGPT-yə ver, beş format istə",
+   "vo": "Sonra mətni ChatGPT-yə ver və bir dəfəyə beş format istə."},
+  {"kind": "list", "dur": 5.2, "title": "1 videodan çıxır", "items": ["Reel caption", "3 story", "Karusel mətni", "Feed post", "Shorts başlığı"],
+   "cap": "Caption, story, karusel, post və Shorts başlığı",
+   "vo": "Nəticə: caption, üç story, karusel mətni, post və Shorts başlığı."},
+  {"kind": "step", "dur": 4.6, "num": "02", "color": "yellow", "title": "Səsini qoru", "sub": "Prompta öz 2–3 postunu _nümunə_ ver",
+   "cap": "Prompta öz postlarını nümunə ver",
+   "vo": "Vacib məqam: prompta öz iki-üç postunu nümunə ver ki, üslubun qalsın."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "red", "title": "Yoxla", "sub": "Rəqəm və faktları *özün* yoxla, sonra paylaş",
+   "cap": "Paylaşmazdan əvvəl faktları yoxla",
+   "vo": "Və paylaşmazdan əvvəl rəqəmləri, faktları mütləq özün yoxla."},
+  {"kind": "cta", "dur": 4.6, "small": "Hazır prompt lazımdır?", "big": "PROMPT", "sub": "Direktə yaz, göndərim", "button": "Direktə yaz →",
+   "cap": "Hazır prompt istəyirsən? Direktə PROMPT yaz",
+   "vo": "Hazır promptu istəyirsən? Direktə PROMPT yaz, göndərim."}
+ ]
+}
