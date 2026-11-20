@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-21-rey-istemek",
+ "type": "reel",
+ "tag": "BİZNES",
+ "musicSeed": 98,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Müştəri razıdır, amma rəy yazmır?", "big": "Rəy yox?", "sub": "Problem *necə istəməyindədir*",
+   "cap": "Müştəri razıdır, amma rəy yazmır?",
+   "vo": "Müştəri razıdır, amma rəy yazmır? Problem necə istəməyindədir."},
+  {"kind": "compare", "dur": 5.0, "title": "Rəy istəmək", "badLabel": "Belə yox", "bad": "\"Vaxtınız olsa, rəy yazarsız\"", "goodLabel": "Belə", "good": "İş bitən gün, hazır linklə",
+   "cap": "Vaxtınız olsa yox, iş bitən gün linklə",
+   "vo": "Vaxtınız olsa yazarsız demə. İş bitən gün, hazır linklə istə."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Vaxt", "sub": "Müştəri *ən razı* olduğu an soruş", "visual": "target",
+   "cap": "Müştəri ən razı olduğu an soruş",
+   "vo": "Birinci, vaxt. Müştəri ən razı olduğu an soruş."},
+  {"kind": "step", "dur": 4.6, "num": "02", "color": "yellow", "title": "Link", "sub": "Birbaşa _rəy linkini_ at — axtarmasın",
+   "cap": "Birbaşa rəy linkini at, axtarmasın",
+   "vo": "İkinci, link. Birbaşa rəy səhifəsinin linkini at, müştəri axtarmasın."},
+  {"kind": "step", "dur": 4.6, "num": "03", "color": "cyan", "title": "Qısa sual", "sub": "\"Ən çox nəyi bəyəndiniz?\" — cavab *özü rəydir*", "visual": "bars",
+   "cap": "Ən çox nəyi bəyəndiniz? Cavab özü rəydir",
+   "vo": "Üçüncü, qısa sual ver. Ən çox nəyi bəyəndiniz? Cavabı elə rəydir."},
+  {"kind": "list", "dur": 5.0, "title": "Mesaj şablonu", "items": ["Təşəkkür et", "1 qısa sual ver", "Linki at", "Yazmasa — 1 dəfə xatırlat"],
+   "cap": "Təşəkkür, sual, link, bir dəfə xatırlatma",
+   "vo": "Şablon sadədir: təşəkkür et, bir sual ver, linki at. Yazmasa, bir dəfə xatırlat."},
+  {"kind": "cta", "dur": 4.6, "small": "Hazır mesaj lazımdır?", "big": "RƏY", "sub": "Direktə yaz, göndərim", "button": "Direktə yaz →",
+   "cap": "Hazır mesajı istəyirsən? Direktə RƏY yaz",
+   "vo": "Hazır mesaj şablonu istəyirsən? Direktə RƏY yaz."}
+ ]
+}

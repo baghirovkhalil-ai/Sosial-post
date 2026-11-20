@@ -316,19 +316,21 @@
   },
   {
     "n": 36,
-    "status": "todo",
+    "status": "done",
     "format": "reel",
     "pillar": "Psixologiya",
     "hook": "3 paket qoy, ortanı satın alacaqlar",
-    "angle": "Decoy/kompromis effekti"
+    "angle": "Decoy/kompromis effekti",
+    "date": "2026-11-21"
   },
   {
     "n": 37,
-    "status": "todo",
+    "status": "done",
     "format": "reel",
     "pillar": "Biznes",
     "hook": "Müştəri rəyini necə istəmək olar ki, yazsın",
-    "angle": "Vaxt, link, qısa sual"
+    "angle": "Vaxt, link, qısa sual",
+    "date": "2026-11-21"
   },
   {
     "n": 38,
@@ -353,5 +355,85 @@
     "pillar": "Ads",
     "hook": "Meta reklamında “Mesaj” hədəfi nə vaxt seçilməli",
     "angle": "Direct satış edən bizneslər üçün"
+  },
+  {
+    "n": 41,
+    "status": "todo",
+    "format": "reel",
+    "pillar": "Instagram",
+    "hook": "Instagram-da yadda saxlama (save) niyə laykdan vacibdir",
+    "angle": "Save toplayan post formatları"
+  },
+  {
+    "n": 42,
+    "status": "todo",
+    "format": "reel",
+    "pillar": "Ads",
+    "hook": "Meta AI Business Assistant: reklam kabinetində nə soruşmaq olar",
+    "angle": "Yeni AI köməkçidən praktik istifadə"
+  },
+  {
+    "n": 43,
+    "status": "todo",
+    "format": "reel",
+    "pillar": "Psixologiya",
+    "hook": "Endirim yox, bonus ver",
+    "angle": "Qiyməti salmadan dəyəri artırmaq"
+  },
+  {
+    "n": 44,
+    "status": "todo",
+    "format": "reel",
+    "pillar": "Biznes",
+    "hook": "Yeni il kampaniyasına indidən hazırlaş: 4 addım",
+    "angle": "Təqvim, təklif, kreativ, büdcə"
+  },
+  {
+    "n": 45,
+    "status": "todo",
+    "format": "reel",
+    "pillar": "AI",
+    "hook": "ChatGPT ilə 30 günlük kontent planı 1 promptla",
+    "angle": "Prompt nümunəsi + düzəliş"
+  },
+  {
+    "n": 46,
+    "status": "todo",
+    "format": "reel",
+    "pillar": "Instagram",
+    "hook": "Profilə gələn niyə izləmir? 3 səbəb",
+    "angle": "Bio, pin post, highlights"
+  },
+  {
+    "n": 47,
+    "status": "todo",
+    "format": "reel",
+    "pillar": "Ads",
+    "hook": "Reklamda auditoriyanı çox daraltma",
+    "angle": "Geniş hədəfləmə + güclü kreativ"
+  },
+  {
+    "n": 48,
+    "status": "todo",
+    "format": "reel",
+    "pillar": "Psixologiya",
+    "hook": "Sosial sübut: '100+ müştəri' necə yazılmalı",
+    "angle": "Konkret rəqəm, rəy, ekran görüntüsü"
+  },
+  {
+    "n": 49,
+    "status": "todo",
+    "format": "reel",
+    "pillar": "Biznes",
+    "hook": "WhatsApp-da hazır cavablar: vaxta qənaət",
+    "angle": "Quick replies, kataloq, salam mesajı"
+  },
+  {
+    "n": 50,
+    "status": "todo",
+    "format": "reel",
+    "pillar": "AI",
+    "hook": "AI ilə rəy cavabları: nəzakətli və sürətli",
+    "angle": "Müsbət və mənfi rəyə prompt"
   }
 ]

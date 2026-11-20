@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-21-3-paket-qiymet",
+ "type": "reel",
+ "tag": "PSİXOLOGİYA",
+ "musicSeed": 97,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Qiymətin tək paketdir?", "big": "3 paket", "sub": "Qoy — müştəri *ortanı* seçəcək",
+   "cap": "Tək qiymət yox, 3 paket qoy",
+   "vo": "Qiymətin tək paketdir? Üç paket qoy, müştəri ortanı seçəcək."},
+  {"kind": "compare", "dur": 5.0, "title": "Qiymət siyahısı", "badLabel": "Belə yox", "bad": "1 paket: \"al, ya alma\"", "goodLabel": "Belə", "good": "3 paket: \"hansını alım?\"",
+   "cap": "Tək paket: al ya alma. Üç paket: hansını alım",
+   "vo": "Tək paketdə müştəri düşünür: alım, ya yox. Üç paketdə düşünür: hansını alım."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Kiçik paket", "sub": "Giriş qapısı — *az* verir, ucuzdur", "visual": "bars",
+   "cap": "Kiçik paket ucuzdur, amma az verir",
+   "vo": "Birinci, kiçik paket. Ucuzdur, amma az verir."},
+  {"kind": "step", "dur": 4.6, "num": "02", "color": "yellow", "title": "Orta paket", "sub": "Satmaq istədiyin — _ən sərfəli_ görünsün", "visual": "target",
+   "cap": "Orta paket ən sərfəli görünməlidir",
+   "vo": "İkinci, orta paket. Əsl satmaq istədiyin budur, ən sərfəli görünsün."},
+  {"kind": "step", "dur": 4.6, "num": "03", "color": "cyan", "title": "Böyük paket", "sub": "Lövbər rolu: ortanı *əlçatan* göstərir",
+   "cap": "Böyük paket ortanı əlçatan göstərir",
+   "vo": "Üçüncü, böyük paket. Bahalıdır və ortanı əlçatan göstərir."},
+  {"kind": "list", "dur": 5.0, "title": "Niyə işləyir?", "items": ["İnsan kənarlardan qaçır", "Ortanı \"təhlükəsiz\" görür", "Müqayisə qərarı asanlaşdırır"],
+   "cap": "İnsan kənarlardan qaçır, ortanı təhlükəsiz görür",
+   "vo": "Buna kompromis effekti deyilir. İnsan kənarlardan qaçır və ortanı təhlükəsiz seçim kimi görür."},
+  {"kind": "cta", "dur": 4.6, "small": "Paketlərini birlikdə quraq?", "big": "PAKET", "sub": "Direktə yaz, baxım", "button": "Direktə yaz →",
+   "cap": "Paketlərini quraq? Direktə PAKET yaz",
+   "vo": "Paketlərini birlikdə quraq? Direktə PAKET yaz."}
+ ]
+}
