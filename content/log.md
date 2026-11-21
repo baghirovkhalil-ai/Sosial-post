@@ -63,3 +63,4 @@
 - 2026-11-19: 12:00 "Direktə qiymət? yazana cavab" (Biznes, #32, seed 93) + 20:00 "Bio 4 sətir formulu" (Instagram, #33, seed 94) — PENDING planlandı. ⚠️ 11-18 postları da ERROR ("account limit") — paylaşılmayıb.
 - 2026-11-20: 12:00 "AI ilə 1 videodan 5 kontent" (AI, #34, seed 95) + 20:00 "Reklam kreativi 3 saniyə" (Ads, #35, seed 96) — PENDING planlandı. ⚠️ 11-19 postları da ERROR ("account limit") — paylaşılmayıb.
 - 2026-11-21: 12:00 "3 paket qoy, ortanı seçəcəklər" (Psixologiya, #36, seed 97) + 20:00 "Müştəri rəyini necə istəmək" (Biznes, #37, seed 98) — PENDING planlandı (SHA linki). Yeni ideyalar 41–50 əlavə edildi.
+- 2026-11-22: 12:00 "Reels-də 5 hook formulu" (Instagram, #38, seed 99) + 20:00 "ChatGPT ilə rəqib analizi" (AI, #39, seed 100) — PENDING planlandı (SHA linki). ⚠️ 11-20 və 11-21 postları da ERROR ("account limit") — paylaşılmayıb.

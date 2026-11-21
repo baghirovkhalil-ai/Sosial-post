@@ -1,439 +1,441 @@
 [
-  {
-    "n": 1,
-    "status": "done",
-    "date": "2026-10-28",
-    "format": "reel",
-    "pillar": "AI",
-    "hook": "30 günlük kontent planı 3 saat? AI ilə 1 dəqiqə",
-    "angle": "Kontent planı üçün düzgün prompt: konkret, format, ton"
-  },
-  {
-    "n": 2,
-    "status": "done",
-    "date": "2026-10-29",
-    "format": "carousel",
-    "pillar": "Ads",
-    "hook": "Instagram reklamında pulu yandıran 5 səhv",
-    "angle": "Boost, geniş auditoriya, like hədəfi, 1 kreativ, tez söndürmək"
-  },
-  {
-    "n": 3,
-    "status": "done",
-    "date": "2026-10-31",
-    "format": "reel",
-    "pillar": "Ads",
-    "hook": "Reklama 100 AZN qoydun, 0 mesaj gəldi? Səbəb büdcə deyil",
-    "angle": "Kreativin ilk 2 saniyəsi — qarmaq olmayan video satmır"
-  },
-  {
-    "n": 4,
-    "status": "done",
-    "format": "reel",
-    "pillar": "AI",
-    "hook": "ChatGPT-yə bu sualı ver — rəqibinin zəif yerini tapacaq",
-    "angle": "Rəqib analizi promptu: rəylər, qiymət, mesajlar",
-    "date": "2026-10-30"
-  },
-  {
-    "n": 5,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Instagram",
-    "hook": "Profilinə girən 10 nəfərdən 9-u niyə izləmir?",
-    "angle": "Bio, highlights, ilk 9 post, CTA — profil auditi checklist",
-    "date": "2026-10-31"
-  },
-  {
-    "n": 6,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Psixologiya",
-    "hook": "Menyuda ən bahalı yemək satılmaq üçün deyil",
-    "angle": "Anchoring/decoy effekti — Bakı kafeləri üçün qiymət psixologiyası",
-    "date": "2026-10-30"
-  },
-  {
-    "n": 7,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Ads",
-    "hook": "Eyni büdcə, 3 dəfə ucuz müraciət — bir ayarla",
-    "angle": "Mesaj kampaniyası + WhatsApp/Direct hədəfi vs trafik",
-    "date": "2026-11-01 12:00"
-  },
-  {
-    "n": 8,
-    "status": "done",
-    "format": "reel",
-    "pillar": "AI",
-    "hook": "Biznes üçün 7 pulsuz AI aləti (2026)",
-    "angle": "Mətn, şəkil, video, səs, təqdimat, analiz, avtomatlaşdırma — hər birinə 1 istifadə",
-    "date": "2026-11-01 20:00"
-  },
-  {
-    "n": 9,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Instagram",
-    "hook": "Reels-in 300 baxışda ilişir? Bu 3 saniyəyə bax",
-    "angle": "Hook, tempo, altyazı — kəşfətə düşmə məntiqi",
-    "date": "2026-11-05"
-  },
-  {
-    "n": 10,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Biznes",
-    "hook": "Bakıda 10 biznesdən 7-si Direct-ə gec cavab verir",
-    "angle": "Cavab sürəti = satış; avtomatik cavab və şablonlar",
-    "date": "2026-11-05"
-  },
-  {
-    "n": 11,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Ads",
-    "hook": "Meta reklamında auditoriya: 3 növ, hansı nə vaxt?",
-    "angle": "Geniş, maraqlar, lookalike/retargeting — sadə izah",
-    "date": "2026-11-06"
-  },
-  {
-    "n": 12,
-    "status": "done",
-    "format": "reel",
-    "pillar": "AI",
-    "hook": "Müştəri artıq Google-da yox, ChatGPT-də axtarır",
-    "angle": "AI axtarışında görünmək (GEO): rəylər, sayt, Google Maps",
-    "date": "2026-10-29"
-  },
-  {
-    "n": 13,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Psixologiya",
-    "hook": "“Son 3 yer qaldı” niyə işləyir?",
-    "angle": "Qıtlıq və təcililik — etik istifadə nümunələri",
-    "date": "2026-11-06"
-  },
-  {
-    "n": 14,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Instagram",
-    "hook": "Hər gün nə paylaşım? 7 günlük hazır şablon",
-    "angle": "Həftəlik rubrika: dərs, nəticə, kulis, sual, rəy, təklif, trend",
-    "date": "2026-11-07 12:00"
-  },
-  {
-    "n": 15,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Ads",
-    "hook": "Reklamı nə vaxt söndürməli? 3 rəqəmə bax",
-    "angle": "CPM, CTR, mesaj başına qiymət — sadə qərar qaydası",
-    "date": "2026-11-07 20:00"
-  },
-  {
-    "n": 16,
-    "status": "done",
-    "format": "reel",
-    "pillar": "AI",
-    "hook": "1 şəkildən 10 reklam kreativi — AI ilə",
-    "angle": "Məhsul şəklindən fon, mətn, format variantları",
-    "date": "2026-11-08 12:00"
-  },
-  {
-    "n": 17,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Biznes",
-    "hook": "Kiçik biznes üçün aylıq marketinq büdcəsi necə bölünür?",
-    "angle": "Reklam, kontent, alətlər, test — faiz bölgüsü",
-    "date": "2026-11-08 20:00"
-  },
-  {
-    "n": 18,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Instagram",
-    "hook": "Hashtag artıq işləmir? Əvəzinə bunu yaz",
-    "angle": "Açar sözlər, caption SEO, alt-text",
-    "date": "2026-11-12"
-  },
-  {
-    "n": 19,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Psixologiya",
-    "hook": "Niyə 19.99 AZN, 20 AZN deyil?",
-    "angle": "Qiymət psixologiyası: sol rəqəm effekti və nə vaxt işləmir",
-    "date": "2026-11-12"
-  },
-  {
-    "n": 20,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Ads",
-    "hook": "TikTok reklamı vs Instagram reklamı — kimə hansı?",
-    "angle": "Auditoriya, qiymət, kreativ tələbi müqayisəsi",
-    "date": "2026-11-13"
-  },
-  {
-    "n": 21,
-    "status": "done",
-    "format": "reel",
-    "pillar": "AI",
-    "hook": "Müştəri rəylərini AI ilə 2 dəqiqəyə analiz et",
-    "angle": "100 rəyi yapışdır → şikayət, tərif, ideya çıxar",
-    "date": "2026-11-13"
-  },
-  {
-    "n": 22,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Biznes",
-    "hook": "İzləyici çoxdur, satış yoxdur? Problem buradadır",
-    "angle": "Vanity metrics vs müraciət; CTA və təklif",
-    "date": "2026-11-14 12:00"
-  },
-  {
-    "n": 23,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Instagram",
-    "hook": "Kəşfətə düşən Reels-in 6 qaydası",
-    "angle": "Hook, uzunluq, saxlanma, paylaşım, orijinallıq, ardıcıllıq",
-    "date": "2026-11-14 20:00"
-  },
-  {
-    "n": 24,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Ads",
-    "hook": "Rəqibinin hansı reklamı işlədiyini pulsuz gör",
-    "angle": "Meta Ad Library — necə istifadə etmək",
-    "date": "2026-11-15"
-  },
-  {
-    "n": 25,
-    "status": "done",
-    "format": "reel",
-    "pillar": "AI",
-    "hook": "Bu promptla CV yox, satış mətni yaz",
-    "angle": "AIDA formulu ilə AI-dan satış mətni",
-    "date": "2026-11-15"
-  },
-  {
-    "n": 26,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Psixologiya",
-    "hook": "Müştərini “bəli” deməyə yaxınlaşdıran 5 söz",
-    "angle": "Pulsuz, yeni, sən, çünki, indi — nümunələrlə",
-    "date": "2026-11-16"
-  },
-  {
-    "n": 27,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Biznes",
-    "hook": "Google Maps-də 1-ci olmaq üçün 4 addım",
-    "angle": "Profil, şəkillər, rəylər, cavablar — yerli SEO",
-    "date": "2026-11-16"
-  },
-  {
-    "n": 28,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Instagram",
-    "hook": "Story-ni kim baxır, kim almır? Bu stikerlərlə dəyiş",
-    "angle": "Sorğu, sual, sürüşdürmə — engagement → DM",
-    "date": "2026-11-17"
-  },
-  {
-    "n": 29,
-    "status": "done",
-    "format": "reel",
-    "pillar": "AI",
-    "hook": "ChatGPT-yə marketinq üçün 10 hazır prompt",
-    "angle": "Saxlamalı prompt kitabçası",
-    "date": "2026-11-17"
-  },
-  {
-    "n": 30,
-    "status": "done",
-    "date": "2026-11-18",
-    "format": "reel",
-    "pillar": "Ads",
-    "hook": "Retargeting: saytına girib almayanları geri qaytar",
-    "angle": "Pixel/engagement auditoriyası, sadə qurulum"
-  },
-  {
-    "n": 31,
-    "status": "done",
-    "date": "2026-11-18",
-    "format": "reel",
-    "pillar": "Psixologiya",
-    "hook": "Qiyməti əvvəl yox, sonda de: niyə?",
-    "angle": "Dəyər → qiymət ardıcıllığı, lövbər effekti"
-  },
-  {
-    "n": 32,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Biznes",
-    "hook": "Direct-də “qiymət?” yazana necə cavab verməli",
-    "angle": "Hazır cavab şablonu: sual + dəyər + qiymət + CTA",
-    "date": "2026-11-19 12:00"
-  },
-  {
-    "n": 33,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Instagram",
-    "hook": "Bio-nu 1 dəqiqədə düzəlt: 4 sətir formulu",
-    "angle": "Kim + kimə + nəticə + CTA",
-    "date": "2026-11-19 20:00"
-  },
-  {
-    "n": 34,
-    "status": "done",
-    "format": "reel",
-    "pillar": "AI",
-    "hook": "AI ilə 1 videodan 5 kontent",
-    "angle": "Reel → caption, story, karusel mətni, post",
-    "date": "2026-11-20"
-  },
-  {
-    "n": 35,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Ads",
-    "hook": "Reklam kreativi 3 saniyədə tutmursa, pul yanır",
-    "angle": "Hook, mətn üstdə, səs olmadan anlaşılma",
-    "date": "2026-11-20"
-  },
-  {
-    "n": 36,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Psixologiya",
-    "hook": "3 paket qoy, ortanı satın alacaqlar",
-    "angle": "Decoy/kompromis effekti",
-    "date": "2026-11-21"
-  },
-  {
-    "n": 37,
-    "status": "done",
-    "format": "reel",
-    "pillar": "Biznes",
-    "hook": "Müştəri rəyini necə istəmək olar ki, yazsın",
-    "angle": "Vaxt, link, qısa sual",
-    "date": "2026-11-21"
-  },
-  {
-    "n": 38,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "Instagram",
-    "hook": "Reels-də ilk 3 saniyə üçün 5 hook formulu",
-    "angle": "Sual, rəqəm, ziddiyyət, səhv, nəticə"
-  },
-  {
-    "n": 39,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "AI",
-    "hook": "ChatGPT ilə rəqib analizi: 3 prompt",
-    "angle": "Rəqibin profili, rəyləri, təklifi"
-  },
-  {
-    "n": 40,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "Ads",
-    "hook": "Meta reklamında “Mesaj” hədəfi nə vaxt seçilməli",
-    "angle": "Direct satış edən bizneslər üçün"
-  },
-  {
-    "n": 41,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "Instagram",
-    "hook": "Instagram-da yadda saxlama (save) niyə laykdan vacibdir",
-    "angle": "Save toplayan post formatları"
-  },
-  {
-    "n": 42,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "Ads",
-    "hook": "Meta AI Business Assistant: reklam kabinetində nə soruşmaq olar",
-    "angle": "Yeni AI köməkçidən praktik istifadə"
-  },
-  {
-    "n": 43,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "Psixologiya",
-    "hook": "Endirim yox, bonus ver",
-    "angle": "Qiyməti salmadan dəyəri artırmaq"
-  },
-  {
-    "n": 44,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "Biznes",
-    "hook": "Yeni il kampaniyasına indidən hazırlaş: 4 addım",
-    "angle": "Təqvim, təklif, kreativ, büdcə"
-  },
-  {
-    "n": 45,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "AI",
-    "hook": "ChatGPT ilə 30 günlük kontent planı 1 promptla",
-    "angle": "Prompt nümunəsi + düzəliş"
-  },
-  {
-    "n": 46,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "Instagram",
-    "hook": "Profilə gələn niyə izləmir? 3 səbəb",
-    "angle": "Bio, pin post, highlights"
-  },
-  {
-    "n": 47,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "Ads",
-    "hook": "Reklamda auditoriyanı çox daraltma",
-    "angle": "Geniş hədəfləmə + güclü kreativ"
-  },
-  {
-    "n": 48,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "Psixologiya",
-    "hook": "Sosial sübut: '100+ müştəri' necə yazılmalı",
-    "angle": "Konkret rəqəm, rəy, ekran görüntüsü"
-  },
-  {
-    "n": 49,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "Biznes",
-    "hook": "WhatsApp-da hazır cavablar: vaxta qənaət",
-    "angle": "Quick replies, kataloq, salam mesajı"
-  },
-  {
-    "n": 50,
-    "status": "todo",
-    "format": "reel",
-    "pillar": "AI",
-    "hook": "AI ilə rəy cavabları: nəzakətli və sürətli",
-    "angle": "Müsbət və mənfi rəyə prompt"
-  }
+ {
+  "n": 1,
+  "status": "done",
+  "date": "2026-10-28",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "30 günlük kontent planı 3 saat? AI ilə 1 dəqiqə",
+  "angle": "Kontent planı üçün düzgün prompt: konkret, format, ton"
+ },
+ {
+  "n": 2,
+  "status": "done",
+  "date": "2026-10-29",
+  "format": "carousel",
+  "pillar": "Ads",
+  "hook": "Instagram reklamında pulu yandıran 5 səhv",
+  "angle": "Boost, geniş auditoriya, like hədəfi, 1 kreativ, tez söndürmək"
+ },
+ {
+  "n": 3,
+  "status": "done",
+  "date": "2026-10-31",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "Reklama 100 AZN qoydun, 0 mesaj gəldi? Səbəb büdcə deyil",
+  "angle": "Kreativin ilk 2 saniyəsi — qarmaq olmayan video satmır"
+ },
+ {
+  "n": 4,
+  "status": "done",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "ChatGPT-yə bu sualı ver — rəqibinin zəif yerini tapacaq",
+  "angle": "Rəqib analizi promptu: rəylər, qiymət, mesajlar",
+  "date": "2026-10-30"
+ },
+ {
+  "n": 5,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Instagram",
+  "hook": "Profilinə girən 10 nəfərdən 9-u niyə izləmir?",
+  "angle": "Bio, highlights, ilk 9 post, CTA — profil auditi checklist",
+  "date": "2026-10-31"
+ },
+ {
+  "n": 6,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Psixologiya",
+  "hook": "Menyuda ən bahalı yemək satılmaq üçün deyil",
+  "angle": "Anchoring/decoy effekti — Bakı kafeləri üçün qiymət psixologiyası",
+  "date": "2026-10-30"
+ },
+ {
+  "n": 7,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "Eyni büdcə, 3 dəfə ucuz müraciət — bir ayarla",
+  "angle": "Mesaj kampaniyası + WhatsApp/Direct hədəfi vs trafik",
+  "date": "2026-11-01 12:00"
+ },
+ {
+  "n": 8,
+  "status": "done",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "Biznes üçün 7 pulsuz AI aləti (2026)",
+  "angle": "Mətn, şəkil, video, səs, təqdimat, analiz, avtomatlaşdırma — hər birinə 1 istifadə",
+  "date": "2026-11-01 20:00"
+ },
+ {
+  "n": 9,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Instagram",
+  "hook": "Reels-in 300 baxışda ilişir? Bu 3 saniyəyə bax",
+  "angle": "Hook, tempo, altyazı — kəşfətə düşmə məntiqi",
+  "date": "2026-11-05"
+ },
+ {
+  "n": 10,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Biznes",
+  "hook": "Bakıda 10 biznesdən 7-si Direct-ə gec cavab verir",
+  "angle": "Cavab sürəti = satış; avtomatik cavab və şablonlar",
+  "date": "2026-11-05"
+ },
+ {
+  "n": 11,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "Meta reklamında auditoriya: 3 növ, hansı nə vaxt?",
+  "angle": "Geniş, maraqlar, lookalike/retargeting — sadə izah",
+  "date": "2026-11-06"
+ },
+ {
+  "n": 12,
+  "status": "done",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "Müştəri artıq Google-da yox, ChatGPT-də axtarır",
+  "angle": "AI axtarışında görünmək (GEO): rəylər, sayt, Google Maps",
+  "date": "2026-10-29"
+ },
+ {
+  "n": 13,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Psixologiya",
+  "hook": "“Son 3 yer qaldı” niyə işləyir?",
+  "angle": "Qıtlıq və təcililik — etik istifadə nümunələri",
+  "date": "2026-11-06"
+ },
+ {
+  "n": 14,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Instagram",
+  "hook": "Hər gün nə paylaşım? 7 günlük hazır şablon",
+  "angle": "Həftəlik rubrika: dərs, nəticə, kulis, sual, rəy, təklif, trend",
+  "date": "2026-11-07 12:00"
+ },
+ {
+  "n": 15,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "Reklamı nə vaxt söndürməli? 3 rəqəmə bax",
+  "angle": "CPM, CTR, mesaj başına qiymət — sadə qərar qaydası",
+  "date": "2026-11-07 20:00"
+ },
+ {
+  "n": 16,
+  "status": "done",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "1 şəkildən 10 reklam kreativi — AI ilə",
+  "angle": "Məhsul şəklindən fon, mətn, format variantları",
+  "date": "2026-11-08 12:00"
+ },
+ {
+  "n": 17,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Biznes",
+  "hook": "Kiçik biznes üçün aylıq marketinq büdcəsi necə bölünür?",
+  "angle": "Reklam, kontent, alətlər, test — faiz bölgüsü",
+  "date": "2026-11-08 20:00"
+ },
+ {
+  "n": 18,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Instagram",
+  "hook": "Hashtag artıq işləmir? Əvəzinə bunu yaz",
+  "angle": "Açar sözlər, caption SEO, alt-text",
+  "date": "2026-11-12"
+ },
+ {
+  "n": 19,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Psixologiya",
+  "hook": "Niyə 19.99 AZN, 20 AZN deyil?",
+  "angle": "Qiymət psixologiyası: sol rəqəm effekti və nə vaxt işləmir",
+  "date": "2026-11-12"
+ },
+ {
+  "n": 20,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "TikTok reklamı vs Instagram reklamı — kimə hansı?",
+  "angle": "Auditoriya, qiymət, kreativ tələbi müqayisəsi",
+  "date": "2026-11-13"
+ },
+ {
+  "n": 21,
+  "status": "done",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "Müştəri rəylərini AI ilə 2 dəqiqəyə analiz et",
+  "angle": "100 rəyi yapışdır → şikayət, tərif, ideya çıxar",
+  "date": "2026-11-13"
+ },
+ {
+  "n": 22,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Biznes",
+  "hook": "İzləyici çoxdur, satış yoxdur? Problem buradadır",
+  "angle": "Vanity metrics vs müraciət; CTA və təklif",
+  "date": "2026-11-14 12:00"
+ },
+ {
+  "n": 23,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Instagram",
+  "hook": "Kəşfətə düşən Reels-in 6 qaydası",
+  "angle": "Hook, uzunluq, saxlanma, paylaşım, orijinallıq, ardıcıllıq",
+  "date": "2026-11-14 20:00"
+ },
+ {
+  "n": 24,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "Rəqibinin hansı reklamı işlədiyini pulsuz gör",
+  "angle": "Meta Ad Library — necə istifadə etmək",
+  "date": "2026-11-15"
+ },
+ {
+  "n": 25,
+  "status": "done",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "Bu promptla CV yox, satış mətni yaz",
+  "angle": "AIDA formulu ilə AI-dan satış mətni",
+  "date": "2026-11-15"
+ },
+ {
+  "n": 26,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Psixologiya",
+  "hook": "Müştərini “bəli” deməyə yaxınlaşdıran 5 söz",
+  "angle": "Pulsuz, yeni, sən, çünki, indi — nümunələrlə",
+  "date": "2026-11-16"
+ },
+ {
+  "n": 27,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Biznes",
+  "hook": "Google Maps-də 1-ci olmaq üçün 4 addım",
+  "angle": "Profil, şəkillər, rəylər, cavablar — yerli SEO",
+  "date": "2026-11-16"
+ },
+ {
+  "n": 28,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Instagram",
+  "hook": "Story-ni kim baxır, kim almır? Bu stikerlərlə dəyiş",
+  "angle": "Sorğu, sual, sürüşdürmə — engagement → DM",
+  "date": "2026-11-17"
+ },
+ {
+  "n": 29,
+  "status": "done",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "ChatGPT-yə marketinq üçün 10 hazır prompt",
+  "angle": "Saxlamalı prompt kitabçası",
+  "date": "2026-11-17"
+ },
+ {
+  "n": 30,
+  "status": "done",
+  "date": "2026-11-18",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "Retargeting: saytına girib almayanları geri qaytar",
+  "angle": "Pixel/engagement auditoriyası, sadə qurulum"
+ },
+ {
+  "n": 31,
+  "status": "done",
+  "date": "2026-11-18",
+  "format": "reel",
+  "pillar": "Psixologiya",
+  "hook": "Qiyməti əvvəl yox, sonda de: niyə?",
+  "angle": "Dəyər → qiymət ardıcıllığı, lövbər effekti"
+ },
+ {
+  "n": 32,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Biznes",
+  "hook": "Direct-də “qiymət?” yazana necə cavab verməli",
+  "angle": "Hazır cavab şablonu: sual + dəyər + qiymət + CTA",
+  "date": "2026-11-19 12:00"
+ },
+ {
+  "n": 33,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Instagram",
+  "hook": "Bio-nu 1 dəqiqədə düzəlt: 4 sətir formulu",
+  "angle": "Kim + kimə + nəticə + CTA",
+  "date": "2026-11-19 20:00"
+ },
+ {
+  "n": 34,
+  "status": "done",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "AI ilə 1 videodan 5 kontent",
+  "angle": "Reel → caption, story, karusel mətni, post",
+  "date": "2026-11-20"
+ },
+ {
+  "n": 35,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "Reklam kreativi 3 saniyədə tutmursa, pul yanır",
+  "angle": "Hook, mətn üstdə, səs olmadan anlaşılma",
+  "date": "2026-11-20"
+ },
+ {
+  "n": 36,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Psixologiya",
+  "hook": "3 paket qoy, ortanı satın alacaqlar",
+  "angle": "Decoy/kompromis effekti",
+  "date": "2026-11-21"
+ },
+ {
+  "n": 37,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Biznes",
+  "hook": "Müştəri rəyini necə istəmək olar ki, yazsın",
+  "angle": "Vaxt, link, qısa sual",
+  "date": "2026-11-21"
+ },
+ {
+  "n": 38,
+  "status": "done",
+  "format": "reel",
+  "pillar": "Instagram",
+  "hook": "Reels-də ilk 3 saniyə üçün 5 hook formulu",
+  "angle": "Sual, rəqəm, ziddiyyət, səhv, nəticə",
+  "date": "2026-11-22"
+ },
+ {
+  "n": 39,
+  "status": "done",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "ChatGPT ilə rəqib analizi: 3 prompt",
+  "angle": "Rəqibin profili, rəyləri, təklifi",
+  "date": "2026-11-22"
+ },
+ {
+  "n": 40,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "Meta reklamında “Mesaj” hədəfi nə vaxt seçilməli",
+  "angle": "Direct satış edən bizneslər üçün"
+ },
+ {
+  "n": 41,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Instagram",
+  "hook": "Instagram-da yadda saxlama (save) niyə laykdan vacibdir",
+  "angle": "Save toplayan post formatları"
+ },
+ {
+  "n": 42,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "Meta AI Business Assistant: reklam kabinetində nə soruşmaq olar",
+  "angle": "Yeni AI köməkçidən praktik istifadə"
+ },
+ {
+  "n": 43,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Psixologiya",
+  "hook": "Endirim yox, bonus ver",
+  "angle": "Qiyməti salmadan dəyəri artırmaq"
+ },
+ {
+  "n": 44,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Biznes",
+  "hook": "Yeni il kampaniyasına indidən hazırlaş: 4 addım",
+  "angle": "Təqvim, təklif, kreativ, büdcə"
+ },
+ {
+  "n": 45,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "ChatGPT ilə 30 günlük kontent planı 1 promptla",
+  "angle": "Prompt nümunəsi + düzəliş"
+ },
+ {
+  "n": 46,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Instagram",
+  "hook": "Profilə gələn niyə izləmir? 3 səbəb",
+  "angle": "Bio, pin post, highlights"
+ },
+ {
+  "n": 47,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Ads",
+  "hook": "Reklamda auditoriyanı çox daraltma",
+  "angle": "Geniş hədəfləmə + güclü kreativ"
+ },
+ {
+  "n": 48,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Psixologiya",
+  "hook": "Sosial sübut: '100+ müştəri' necə yazılmalı",
+  "angle": "Konkret rəqəm, rəy, ekran görüntüsü"
+ },
+ {
+  "n": 49,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Biznes",
+  "hook": "WhatsApp-da hazır cavablar: vaxta qənaət",
+  "angle": "Quick replies, kataloq, salam mesajı"
+ },
+ {
+  "n": 50,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "AI",
+  "hook": "AI ilə rəy cavabları: nəzakətli və sürətli",
+  "angle": "Müsbət və mənfi rəyə prompt"
+ }
 ]
