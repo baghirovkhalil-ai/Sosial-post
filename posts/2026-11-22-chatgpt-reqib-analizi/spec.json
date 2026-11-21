@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-22-chatgpt-reqib-analizi",
+ "type": "reel",
+ "tag": "AI",
+ "musicSeed": 100,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Rəqibin niyə daha çox satır?", "big": "3 prompt", "sub": "*ChatGPT* ilə rəqib analizi",
+   "cap": "Rəqibin niyə çox satır? Üç prompt",
+   "vo": "Rəqibin niyə səndən çox satır? ChatGPT ilə üç promptda öyrən."},
+  {"kind": "chat", "dur": 5.4, "title": "1 · Profil", "msgs": [
+     {"from": "user", "text": "Bu rəqibin bio və son 10 post başlığını analiz et: kimə satır, nə vəd edir?"},
+     {"from": "ai", "text": "Auditoriya: gənc analar. Vəd: sürətli çatdırılma..."}],
+   "cap": "Birinci, rəqibin profilini analiz et",
+   "vo": "Birinci prompt: rəqibin bio və post başlıqlarını ver, kimə satdığını və nə vəd etdiyini soruş."},
+  {"kind": "chat", "dur": 5.4, "title": "2 · Rəylər", "msgs": [
+     {"from": "user", "text": "Bu rəyləri qrupla: müştərilər nəyi bəyənir, nədən şikayət edir?"},
+     {"from": "ai", "text": "Bəyənir: keyfiyyət. Şikayət: gec cavab, bahalı çatdırılma..."}],
+   "cap": "İkinci, rəqibin rəylərini qrupla",
+   "vo": "İkinci prompt: rəqibin rəylərini kopyala, nəyi bəyəndiklərini və nədən şikayət etdiklərini qruplaşdır."},
+  {"kind": "chat", "dur": 5.4, "title": "3 · Təklif", "msgs": [
+     {"from": "user", "text": "Bu zəif yerlərə görə mənim biznesim üçün 3 güclü təklif yaz"},
+     {"from": "ai", "text": "1) 1 saatda cavab zəmanəti 2) Pulsuz çatdırılma..."}],
+   "cap": "Üçüncü, onların zəifliyindən təklif yarat",
+   "vo": "Üçüncü prompt: rəqibin zəif yerlərinə görə özün üçün üç təklif yazdır."},
+  {"kind": "compare", "dur": 4.8, "title": "Məqsəd", "badLabel": "Belə yox", "bad": "Rəqibi kopyala", "goodLabel": "Belə", "good": "Onun boşluğunu doldur",
+   "cap": "Kopyalama, boşluğu doldur",
+   "vo": "Məqsəd rəqibi kopyalamaq deyil. Onun boş qoyduğu yeri doldurmaqdır."},
+  {"kind": "step", "dur": 4.4, "num": "!", "color": "red", "title": "Yoxla", "sub": "AI nəticəsini *real rəylərlə* yoxla", "visual": "cross",
+   "cap": "AI nəticəsini özün yoxla",
+   "vo": "Və unutma, AI-ın nəticəsini real rəylərlə özün yoxla."},
+  {"kind": "cta", "dur": 4.6, "small": "3 promptu tam istəyirsən?", "big": "RƏQİB", "sub": "Direktə yaz, göndərim", "button": "Direktə yaz →",
+   "cap": "Promptları istəyirsən? Direktə RƏQİB yaz",
+   "vo": "Üç promptu tam istəyirsən? Direktə RƏQİB yaz, göndərim."}
+ ]
+}

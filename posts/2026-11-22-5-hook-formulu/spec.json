@@ -1,0 +1,32 @@
+{
+ "id": "2026-11-22-5-hook-formulu",
+ "type": "reel",
+ "tag": "INSTAGRAM",
+ "musicSeed": 99,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Reelini 2 saniyədə keçirlər?", "big": "5 hook", "sub": "İlk 3 saniyə üçün *formula*",
+   "cap": "Reelini keçirlər? Beş hook formulu",
+   "vo": "Reelini iki saniyədə keçirlər? Budur, ilk üç saniyə üçün beş hook formulu."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Sual", "sub": "\"Reklama pul verirsən, satış *yoxdur*?\"", "visual": "target",
+   "cap": "Birinci, auditoriyanın dərdini sual et",
+   "vo": "Birinci, sual. Auditoriyanın öz dərdini sual kimi ver."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "Rəqəm", "sub": "\"_3 səhv_ ki, büdcəni yandırır\"", "visual": "bars",
+   "cap": "İkinci, konkret rəqəm ver",
+   "vo": "İkinci, rəqəm. Üç səhv, beş addım, on dəqiqə. Rəqəm diqqəti tutur."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "cyan", "title": "Ziddiyyət", "sub": "\"Çox post atmaq səni *geri salır*\"",
+   "cap": "Üçüncü, gözlənilməz fikir söylə",
+   "vo": "Üçüncü, ziddiyyət. Hamının düşündüyünün əksini de."},
+  {"kind": "step", "dur": 4.4, "num": "04", "color": "red", "title": "Səhv", "sub": "\"Bu ~səhvi~ hamı edir\"", "visual": "cross",
+   "cap": "Dördüncü, ümumi səhvi göstər",
+   "vo": "Dördüncü, səhv. İnsanlar səhv etdiklərini bilmək istəyir."},
+  {"kind": "step", "dur": 4.4, "num": "05", "title": "Nəticə", "sub": "Sonu əvvəl göstər — *sonra* yolu izah et",
+   "cap": "Beşinci, nəticəni əvvəldə göstər",
+   "vo": "Beşinci, nəticə. Sonu əvvəldə göstər, sonra necə olduğunu izah et."},
+  {"kind": "list", "dur": 4.6, "title": "Hook qaydası", "items": ["Loqo və salam yox", "İlk kadrda mətn", "1 cümlə, 1 fikir", "3 variant yaz, test et"],
+   "cap": "Salam yox, ekranda mətn, bir fikir",
+   "vo": "Qayda sadədir: salam yox, ekranda mətn, bir cümlə. Üç variant yaz, test et."},
+  {"kind": "cta", "dur": 4.6, "small": "Hazır hook siyahısı lazımdır?", "big": "HOOK", "sub": "Direktə yaz, göndərim", "button": "Direktə yaz →",
+   "cap": "Hazır siyahı istəyirsən? Direktə HOOK yaz",
+   "vo": "Hazır hook siyahısı istəyirsən? Direktə HOOK yaz, göndərim."}
+ ]
+}
