@@ -64,3 +64,12 @@
 - 2026-11-20: 12:00 "AI ilə 1 videodan 5 kontent" (AI, #34, seed 95) + 20:00 "Reklam kreativi 3 saniyə" (Ads, #35, seed 96) — PENDING planlandı. ⚠️ 11-19 postları da ERROR ("account limit") — paylaşılmayıb.
 - 2026-11-21: 12:00 "3 paket qoy, ortanı seçəcəklər" (Psixologiya, #36, seed 97) + 20:00 "Müştəri rəyini necə istəmək" (Biznes, #37, seed 98) — PENDING planlandı (SHA linki). Yeni ideyalar 41–50 əlavə edildi.
 - 2026-11-22: 12:00 "Reels-də 5 hook formulu" (Instagram, #38, seed 99) + 20:00 "ChatGPT ilə rəqib analizi" (AI, #39, seed 100) — PENDING planlandı (SHA linki). ⚠️ 11-20 və 11-21 postları da ERROR ("account limit") — paylaşılmayıb.
+| 2026-11-23 12:00 | Meta reklamında "Mesaj" hədəfi nə vaxt seçilməli | reel | Ads | v3, seed 101, Metricool 437734401 |
+| 2026-11-23 20:00 | Instagram-da save niyə laykdan vacibdir | reel | Instagram | v3, seed 102, Metricool 437734468 |
+
+### Həftəlik statistika (2026-11-15 → 11-22, Instagram Reels)
+- ⚠️ Bu həftə avtomatik reel-lərin HEÇ BİRİ paylaşılmayıb — 11-12-dən bəri hamısı Metricool ERROR "account limit" (11-22 postları da daxil). Statistikada yalnız Khalil-in əl ilə paylaşdığı 6 reel var.
+- Ən yaxşı: TripAdvisor xidməti (11-16) — 930 baxış, 830 reach, 17 interaksiya, 6 save, skip 55.5%. Sonra Google xəritə/konum (11-15) — 376 baxış.
+- Ən zəif: "Reklama pul verirsən, satış yoxdur? 3 səhv" (11-15) — 85 baxış, skip 84%.
+- Nəticə: lokal görünürlük (TripAdvisor, Google Xəritə, turist) mövzuları ən çox reach verir. Növbəti həftə: yeni ideyalar #51 (Google Xəritə) və #52 (Turist restoranı necə seçir) önə çəkildi.
+- 2026-11-22: 11-23 12:00 "Meta Mesaj hədəfi" (Ads, #40, seed 101) + 20:00 "Save laykdan vacib" (Instagram, #41, seed 102) — PENDING planlandı (SHA linki).

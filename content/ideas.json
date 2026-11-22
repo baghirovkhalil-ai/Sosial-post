@@ -352,19 +352,21 @@
  },
  {
   "n": 40,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Ads",
   "hook": "Meta reklamında “Mesaj” hədəfi nə vaxt seçilməli",
-  "angle": "Direct satış edən bizneslər üçün"
+  "angle": "Direct satış edən bizneslər üçün",
+  "date": "2026-11-23"
  },
  {
   "n": 41,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Instagram",
   "hook": "Instagram-da yadda saxlama (save) niyə laykdan vacibdir",
-  "angle": "Save toplayan post formatları"
+  "angle": "Save toplayan post formatları",
+  "date": "2026-11-23"
  },
  {
   "n": 42,
@@ -373,6 +375,14 @@
   "pillar": "Ads",
   "hook": "Meta AI Business Assistant: reklam kabinetində nə soruşmaq olar",
   "angle": "Yeni AI köməkçidən praktik istifadə"
+ },
+ {
+  "n": 51,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Biznes",
+  "hook": "Google Xəritədə yaxınlıqda axtaranda niyə sən çıxmırsan?",
+  "angle": "Profil tamlığı, kateqoriya, şəkil, rəy (həftənin ən yaxşı mövzusu: lokal görünürlük)"
  },
  {
   "n": 43,
@@ -397,6 +407,14 @@
   "pillar": "AI",
   "hook": "ChatGPT ilə 30 günlük kontent planı 1 promptla",
   "angle": "Prompt nümunəsi + düzəliş"
+ },
+ {
+  "n": 52,
+  "status": "todo",
+  "format": "reel",
+  "pillar": "Biznes",
+  "hook": "Turist restoranı necə seçir? 3 yerdə görün",
+  "angle": "TripAdvisor, Google Xəritə, Instagram — lokal görünürlük"
  },
  {
   "n": 46,
