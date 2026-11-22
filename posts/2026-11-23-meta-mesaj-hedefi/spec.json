@@ -1,0 +1,32 @@
+{
+ "id": "2026-11-23-meta-mesaj-hedefi",
+ "type": "reel",
+ "tag": "META ADS",
+ "musicSeed": 101,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Satışın direktdə bağlanır?", "big": "Mesaj", "sub": "Bu hədəf nə vaxt *düz seçimdir*?",
+   "cap": "Satış direktdə bağlanır? Mesaj hədəfi",
+   "vo": "Satışın direktdə bağlanır? Onda reklamda mesaj hədəfi nə vaxt düz seçimdir, bax."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Sual verən məhsul", "sub": "Ölçü, rəng, qiymət — *söhbətlə* satılır", "visual": "target",
+   "cap": "Müştəri almadan əvvəl sual verirsə",
+   "vo": "Birinci, müştəri almadan əvvəl sual verirsə. Ölçü, rəng, qiymət soruşursa."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "Sayt yoxdur", "sub": "Online ödəniş yoxdursa, _direkt_ sənin kassandır", "visual": "bars",
+   "cap": "Saytın və online ödənişin yoxdursa",
+   "vo": "İkinci, saytın yoxdursa. Online ödəniş yoxdursa, direkt sənin kassandır."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "cyan", "title": "Xidmət biznesi", "sub": "Salon, kurs, təmir — *qeydiyyat* söhbətdə olur",
+   "cap": "Xidmət satırsansa, qeydiyyat söhbətdədir",
+   "vo": "Üçüncü, xidmət satırsansa. Salon, kurs, təmir. Qeydiyyat söhbətdə olur."},
+  {"kind": "compare", "dur": 4.8, "title": "Nə vaxt seçmə?", "bad": "Sayt var, səbət işləyir — yenə mesaj", "good": "Sayt varsa: satış hədəfi", "badLabel": "Səhv", "goodLabel": "Düz",
+   "cap": "Saytda səbət işləyirsə, satış hədəfi seç",
+   "vo": "Amma saytın və səbətin işləyirsə, mesaj yox, satış hədəfi seç."},
+  {"kind": "step", "dur": 4.6, "num": "04", "color": "red", "title": "Gec cavab", "sub": "Mesaj gəlir, sən ~saatlarla~ cavab vermirsən", "visual": "cross",
+   "cap": "Ən böyük səhv: gec cavab vermək",
+   "vo": "Ən böyük səhv isə gec cavabdır. Mesaj gəlir, sən saatlarla cavab vermirsən."},
+  {"kind": "list", "dur": 4.6, "title": "Mesaj reklamı üçün", "items": ["Hazır salam mesajı", "Tez-tez sual cavabları", "Qiyməti gizlətmə", "Tez cavab ver"],
+   "cap": "Hazır cavablar qur, tez cavab ver",
+   "vo": "Ona görə hazır salam mesajı və sual cavabları qur. Qiyməti gizlətmə, tez cavab ver."},
+  {"kind": "cta", "dur": 4.6, "small": "Reklamın üçün hədəf seçək?", "big": "MESAJ", "sub": "Direktə yaz, baxım", "button": "Direktə yaz →",
+   "cap": "Hədəf seçimində kömək? Direktə MESAJ yaz",
+   "vo": "Hansı hədəfi seçəcəyini bilmirsən? Direktə MESAJ yaz, birlikdə baxaq."}
+ ]
+}

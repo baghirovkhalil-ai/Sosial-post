@@ -1,0 +1,32 @@
+{
+ "id": "2026-11-23-save-laykdan-vacib",
+ "type": "reel",
+ "tag": "INSTAGRAM",
+ "musicSeed": 102,
+ "scenes": [
+  {"kind": "hook", "dur": 4.0, "small": "Layk çoxdur, böyümə yoxdur?", "big": "Save", "sub": "Laykdan *daha güclü* siqnal",
+   "cap": "Layk çoxdur, böyümə yox? Save vacibdir",
+   "vo": "Layk çoxdur, amma səhifə böyümür? Çünki Instagram-da yadda saxlama laykdan daha güclü siqnaldır."},
+  {"kind": "compare", "dur": 4.6, "title": "Fərq nədir?", "bad": "Layk: 1 saniyəlik \"bəyəndim\"", "good": "Save: \"buna qayıdacam\"", "badLabel": "Layk", "goodLabel": "Save",
+   "cap": "Layk bir saniyədir, save qayıtmaq deməkdir",
+   "vo": "Layk bir saniyəlik bəyəndimdir. Save isə deyir: bu faydalıdır, buna qayıdacam."},
+  {"kind": "step", "dur": 4.4, "num": "01", "title": "Checklist", "sub": "\"Post atmazdan əvvəl *5 yoxlama*\"", "visual": "target",
+   "cap": "Birinci format: yoxlama siyahısı",
+   "vo": "Save toplayan birinci format: yoxlama siyahısı."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "Addım-addım", "sub": "Bir problemi _başdan sona_ həll et", "visual": "bars",
+   "cap": "İkinci format: addım-addım təlimat",
+   "vo": "İkinci, addım-addım təlimat. Bir problemi başdan sona həll et."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "cyan", "title": "Hazır şablon", "sub": "Prompt, mesaj, *caption* — kopyala, işlət",
+   "cap": "Üçüncü format: hazır şablon və prompt",
+   "vo": "Üçüncü, hazır şablon. Prompt, mesaj, caption. Kopyala və işlət."},
+  {"kind": "step", "dur": 4.4, "num": "04", "color": "red", "title": "Səhvlər siyahısı", "sub": "\"Bu ~3 səhv~ büdcəni yeyir\"", "visual": "cross",
+   "cap": "Dördüncü format: səhvlər siyahısı",
+   "vo": "Dördüncü, səhvlər siyahısı. İnsan səhvini sonra yoxlamaq üçün saxlayır."},
+  {"kind": "list", "dur": 4.6, "title": "Save qaydası", "items": ["1 post, 1 problem", "Ekranda qısa mətn", "Sonra lazım olacaq info", "Sonda: yadda saxla"],
+   "cap": "Sonda de: yadda saxla",
+   "vo": "Qayda: bir post, bir problem. Sonra lazım olacaq info ver və sonda de: yadda saxla."},
+  {"kind": "cta", "dur": 4.6, "small": "Bu reeli də elə et", "big": "SAVE", "sub": "Yadda saxla, sonra lazım olacaq", "button": "Yadda saxla →",
+   "cap": "Bu videonu da yadda saxla",
+   "vo": "Elə bu videonu da yadda saxla. Post planlayanda lazım olacaq."}
+ ]
+}
