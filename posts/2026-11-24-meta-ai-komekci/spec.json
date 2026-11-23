@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-24-meta-ai-komekci",
+ "type": "reel",
+ "tag": "META ADS",
+ "musicSeed": 103,
+ "scenes": [
+  {"kind": "hook", "dur": 4.2, "small": "Reklam kabinetində yeni köməkçi", "big": "Meta AI", "sub": "Ondan *nə soruşmaq* olar?",
+   "cap": "Reklam kabinetində Meta AI köməkçisi var",
+   "vo": "Meta-nın reklam kabinetində artıq AI köməkçi var. Bəs ondan nə soruşmaq olar?"},
+  {"kind": "list", "dur": 4.6, "title": "Harada tapım?", "items": ["Ads Manager", "Meta Business Suite", "All Tools menyusu", "Admin və ya Editor rolu"],
+   "cap": "Ads Manager və Business Suite içində",
+   "vo": "Onu Ads Manager və Business Suite içində tapırsan. Admin və ya Editor rolun olmalıdır."},
+  {"kind": "chat", "dur": 5.0, "title": "Sual 1: nəticə", "msgs": [{"from": "user", "text": "Bu ay ən yaxşı 5 kampaniyam hansıdır?"}, {"from": "ai", "text": "Nəticəyə görə sıralayıram..."}],
+   "cap": "Birinci sual: ən yaxşı kampaniyalar",
+   "vo": "Birinci sual: bu ay ən yaxşı beş kampaniyam hansıdır?"},
+  {"kind": "chat", "dur": 5.0, "title": "Sual 2: problem", "msgs": [{"from": "user", "text": "Hansı kampaniyam zəif işləyir?"}, {"from": "ai", "text": "Nəticə qiyməti artan kampaniyalar bunlardır..."}],
+   "cap": "İkinci sual: hansı kampaniya zəifdir",
+   "vo": "İkinci sual: hansı kampaniyam zəif işləyir? Problemi tez taparsan."},
+  {"kind": "chat", "dur": 5.0, "title": "Sual 3: xəta", "msgs": [{"from": "user", "text": "Reklamım niyə göstərilmir?"}, {"from": "ai", "text": "Ödəniş və yayım xətalarını yoxlayıram..."}],
+   "cap": "Üçüncü sual: ödəniş və yayım xətası",
+   "vo": "Üçüncü sual: reklamım niyə göstərilmir? Ödəniş və yayım xətalarında kömək edir."},
+  {"kind": "step", "dur": 4.6, "num": "!", "color": "red", "title": "Unutma", "sub": "Tövsiyəni ~kor-koranə~ tətbiq etmə", "visual": "cross",
+   "cap": "Tövsiyəni kor-koranə tətbiq etmə",
+   "vo": "Amma tövsiyəni kor-koranə tətbiq etmə. Biznesini sən tanıyırsan, AI yox."},
+  {"kind": "cta", "dur": 4.6, "small": "Yadda saxla", "big": "3 SUAL", "sub": "Kabinetə girəndə *soruş*", "button": "Yadda saxla →",
+   "cap": "Yadda saxla, kabinetdə soruş",
+   "vo": "Bu üç sualı yadda saxla və reklam kabinetinə girəndə soruş."}
+ ]
+}

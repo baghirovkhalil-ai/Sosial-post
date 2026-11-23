@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-24-google-xeritede-gorun",
+ "type": "reel",
+ "tag": "BİZNES",
+ "musicSeed": 104,
+ "scenes": [
+  {"kind": "hook", "dur": 4.2, "small": "Müştəri yaxınlıqda axtarır...", "big": "Sən yoxsan", "sub": "Google Xəritədə *5 səhv*",
+   "cap": "Google Xəritədə niyə çıxmırsan?",
+   "vo": "Müştəri yaxınlıqda axtarır, amma Google Xəritədə sən çıxmırsan? Bu beş səhvə bax."},
+  {"kind": "step", "dur": 4.4, "num": "01", "color": "red", "title": "Səhv kateqoriya", "sub": "Əsas kateqoriya *dəqiq* olsun", "visual": "target",
+   "cap": "Birinci səhv: yanlış əsas kateqoriya",
+   "vo": "Birinci: yanlış əsas kateqoriya. Kafe isən, kafe seç, ümumi bir şey yox."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "red", "title": "Adda açar söz", "sub": "Ada ~artıq söz~ yazma — blok riski", "visual": "cross",
+   "cap": "İkinci səhv: ada açar söz doldurmaq",
+   "vo": "İkinci: biznes adına açar söz doldurmaq. Google bunu qaydaya zidd sayır, profil bloklana bilər."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "yellow", "title": "Köhnə saatlar", "sub": "Bayram saatlarını da _yenilə_", "visual": "bars",
+   "cap": "Üçüncü səhv: köhnə iş saatları",
+   "vo": "Üçüncü: köhnə iş saatları. Müştəri gəlir, qapı bağlıdır. Bayram saatlarını da yenilə."},
+  {"kind": "step", "dur": 4.4, "num": "04", "color": "yellow", "title": "Şəkil yoxdur", "sub": "Məkan, məhsul, *komanda*", "visual": "target",
+   "cap": "Dördüncü səhv: şəkil yoxdur",
+   "vo": "Dördüncü: şəkil yoxdur və ya köhnədir. Məkanı, məhsulu, komandanı göstər."},
+  {"kind": "step", "dur": 4.4, "num": "05", "color": "red", "title": "Rəylər cavabsız", "sub": "Hər rəyə, pisə də, *cavab ver*", "visual": "cross",
+   "cap": "Beşinci səhv: rəylərə cavab vermirsən",
+   "vo": "Beşinci: rəylərə cavab vermirsən. Hər rəyə cavab ver, pis rəyə də."},
+  {"kind": "cta", "dur": 4.8, "small": "Profilini yoxlayım?", "big": "MAPS", "sub": "Direktə *MAPS* yaz", "button": "DM: MAPS →",
+   "cap": "Direktə MAPS yaz, profilinə baxım",
+   "vo": "Profilinə baxmağımı istəyirsən? Direktə MAPS yaz."}
+ ]
+}
