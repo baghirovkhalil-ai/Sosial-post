@@ -370,19 +370,21 @@
  },
  {
   "n": 42,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Ads",
   "hook": "Meta AI Business Assistant: reklam kabinetində nə soruşmaq olar",
-  "angle": "Yeni AI köməkçidən praktik istifadə"
+  "angle": "Yeni AI köməkçidən praktik istifadə",
+  "date": "2026-11-24"
  },
  {
   "n": 51,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Biznes",
   "hook": "Google Xəritədə yaxınlıqda axtaranda niyə sən çıxmırsan?",
-  "angle": "Profil tamlığı, kateqoriya, şəkil, rəy (həftənin ən yaxşı mövzusu: lokal görünürlük)"
+  "angle": "Profil tamlığı, kateqoriya, şəkil, rəy (həftənin ən yaxşı mövzusu: lokal görünürlük)",
+  "date": "2026-11-24"
  },
  {
   "n": 43,

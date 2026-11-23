@@ -73,3 +73,6 @@
 - Ən zəif: "Reklama pul verirsən, satış yoxdur? 3 səhv" (11-15) — 85 baxış, skip 84%.
 - Nəticə: lokal görünürlük (TripAdvisor, Google Xəritə, turist) mövzuları ən çox reach verir. Növbəti həftə: yeni ideyalar #51 (Google Xəritə) və #52 (Turist restoranı necə seçir) önə çəkildi.
 - 2026-11-22: 11-23 12:00 "Meta Mesaj hədəfi" (Ads, #40, seed 101) + 20:00 "Save laykdan vacib" (Instagram, #41, seed 102) — PENDING planlandı (SHA linki).
+| 2026-11-24 12:00 | Meta AI köməkçisi: reklam kabinetində nə soruşmaq olar | reel | Ads | v3, seed 103, #42, Metricool 439089957 |
+| 2026-11-24 20:00 | Google Xəritədə niyə çıxmırsan? 5 səhv | reel | Biznes | v3, seed 104, #51 (11-16 Maps postundan fərqli bucaq: səhvlər), Metricool 439090041 |
+- 2026-11-23: ⚠️ 11-23 hər iki reel yenə Metricool ERROR "account limit" — avtomatik paylaşım hələ də işləmir.
