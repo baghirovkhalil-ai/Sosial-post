@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-25-yeni-il-kampaniyasi",
+ "type": "reel",
+ "tag": "BİZNES",
+ "musicSeed": 106,
+ "scenes": [
+  {"kind": "hook", "dur": 4.2, "small": "Yeni ilə bir ay qalıb", "big": "Gecikmə", "sub": "Kampaniyaya *4 addımda* hazırlaş",
+   "cap": "Yeni il kampaniyasına indidən hazırlaş",
+   "vo": "Yeni ilə cəmi bir ay qalıb. Kampaniyaya indidən hazırlaş, dörd addımda."},
+  {"kind": "step", "dur": 4.4, "num": "01", "color": "cyan", "title": "Təqvim", "sub": "Başlanğıc, *pik günlər*, son tarix", "visual": "bars",
+   "cap": "Birinci addım: kampaniya təqvimi",
+   "vo": "Birinci: təqvim. Nə vaxt başlayırsan, pik günlər hansıdır, son tarix nədir."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "Təklif", "sub": "Hədiyyə paketi, _bonus_, limitli say", "visual": "target",
+   "cap": "İkinci addım: aydın təklif",
+   "vo": "İkinci: təklif. Hədiyyə paketi, bonus və ya limitli say. Bir cümlədə aydın olsun."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "cyan", "title": "Kreativ", "sub": "Reels, story, *bayram* vizualı", "visual": "target",
+   "cap": "Üçüncü addım: kreativləri əvvəlcədən hazırla",
+   "vo": "Üçüncü: kreativ. Reels, story və bayram vizuallarını əvvəlcədən hazırla."},
+  {"kind": "step", "dur": 4.4, "num": "04", "color": "yellow", "title": "Büdcə", "sub": "Pulun çoxunu _pik günlərə_ saxla", "visual": "bars",
+   "cap": "Dördüncü addım: büdcə planı",
+   "vo": "Dördüncü: büdcə. Reklam pulunun çoxunu pik günlərə saxla."},
+  {"kind": "compare", "dur": 4.6, "title": "Fərq", "badLabel": "Son həftə", "bad": "~Tələsik~ post, baha reklam", "goodLabel": "İndidən", "good": "Plan, test, *sakit* satış",
+   "cap": "Son həftəyə qalma, indidən başla",
+   "vo": "Son həftəyə qalan tələsir. İndidən başlayan test edir və sakit satır."},
+  {"kind": "cta", "dur": 4.8, "small": "Kampaniya planı lazımdır?", "big": "PLAN", "sub": "Direktə *PLAN* yaz", "button": "DM: PLAN →",
+   "cap": "Direktə PLAN yaz",
+   "vo": "Yeni il kampaniyası üçün plan lazımdır? Direktə PLAN yaz."}
+ ]
+}

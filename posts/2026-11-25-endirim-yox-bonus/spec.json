@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-25-endirim-yox-bonus",
+ "type": "reel",
+ "tag": "PSİXOLOGİYA",
+ "musicSeed": 105,
+ "scenes": [
+  {"kind": "hook", "dur": 4.2, "small": "Satış zəifdir, qiyməti salırsan?", "big": "Dayan", "sub": "Endirim yox, *bonus ver*",
+   "cap": "Satış zəifdir? Endirim etmə",
+   "vo": "Satış zəifdir və qiyməti salmaq istəyirsən? Dayan. Endirim yox, bonus ver."},
+  {"kind": "compare", "dur": 4.8, "title": "Eyni xərc, fərqli təsir", "badLabel": "Endirim", "bad": "~-20%~ qiymət", "goodLabel": "Bonus", "good": "Eyni qiymət + *hədiyyə*",
+   "cap": "Endirim qiyməti ucuzladır, bonus dəyəri artırır",
+   "vo": "Endirim qiymətini ucuzladır. Bonus isə qiyməti saxlayır, amma dəyəri artırır."},
+  {"kind": "step", "dur": 4.4, "num": "01", "color": "red", "title": "Qiymət yaddaşda qalır", "sub": "Endirimdən sonra köhnə qiymət ~baha~ görünür", "visual": "cross",
+   "cap": "Endirimli qiymət yaddaşda qalır",
+   "vo": "Birinci: müştəri endirimli qiyməti yadda saxlayır. Sonra köhnə qiymət ona baha görünür."},
+  {"kind": "step", "dur": 4.4, "num": "02", "color": "yellow", "title": "Bonus ucuz başa gəlir", "sub": "Hədiyyənin _sənə xərci_ az, dəyəri çox", "visual": "bars",
+   "cap": "Bonusun sənə xərci azdır",
+   "vo": "İkinci: bonusun sənə xərci az olur, müştəri isə onu tam dəyəri ilə qiymətləndirir."},
+  {"kind": "list", "dur": 4.8, "title": "Bonus ideyaları", "items": ["Pulsuz çatdırılma", "2-ci xidmət hədiyyə", "Pulsuz konsultasiya", "Bonus paket / aksesuar"],
+   "cap": "Pulsuz çatdırılma, hədiyyə xidmət, konsultasiya",
+   "vo": "Nə vermək olar? Pulsuz çatdırılma, hədiyyə xidmət, pulsuz konsultasiya və ya kiçik aksesuar."},
+  {"kind": "step", "dur": 4.4, "num": "03", "color": "cyan", "title": "Dəyərini yaz", "sub": "\"Hədiyyə: *30 manatlıq* xidmət\"", "visual": "target",
+   "cap": "Bonusun dəyərini mütləq yaz",
+   "vo": "Üçüncü: bonusun dəyərini mütləq yaz. Məsələn, hədiyyə: otuz manatlıq xidmət."},
+  {"kind": "cta", "dur": 4.8, "small": "Sənin biznesin üçün bonus?", "big": "BONUS", "sub": "Direktə *BONUS* yaz", "button": "DM: BONUS →",
+   "cap": "Direktə BONUS yaz, ideya verim",
+   "vo": "Öz biznesin üçün bonus ideyası istəyirsən? Direktə BONUS yaz."}
+ ]
+}
