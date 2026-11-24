@@ -76,3 +76,6 @@
 | 2026-11-24 12:00 | Meta AI köməkçisi: reklam kabinetində nə soruşmaq olar | reel | Ads | v3, seed 103, #42, Metricool 439089957 |
 | 2026-11-24 20:00 | Google Xəritədə niyə çıxmırsan? 5 səhv | reel | Biznes | v3, seed 104, #51 (11-16 Maps postundan fərqli bucaq: səhvlər), Metricool 439090041 |
 - 2026-11-23: ⚠️ 11-23 hər iki reel yenə Metricool ERROR "account limit" — avtomatik paylaşım hələ də işləmir.
+| 2026-11-25 12:00 | Endirim yox, bonus ver | reel | Psixologiya | v3, seed 105, #43, Metricool 440578021 |
+| 2026-11-25 20:00 | Yeni il kampaniyasına 4 addımda hazırlaş | reel | Biznes | v3, seed 106, #44, Metricool 440578519 |
+- 2026-11-24: ⚠️ 11-24 hər iki reel də Metricool ERROR "account limit" — avtomatik paylaşım hələ işləmir.

@@ -388,19 +388,21 @@
  },
  {
   "n": 43,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Psixologiya",
   "hook": "Endirim yox, bonus ver",
-  "angle": "Qiyməti salmadan dəyəri artırmaq"
+  "angle": "Qiyməti salmadan dəyəri artırmaq",
+  "date": "2026-11-25"
  },
  {
   "n": 44,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Biznes",
   "hook": "Yeni il kampaniyasına indidən hazırlaş: 4 addım",
-  "angle": "Təqvim, təklif, kreativ, büdcə"
+  "angle": "Təqvim, təklif, kreativ, büdcə",
+  "date": "2026-11-25"
  },
  {
   "n": 45,
