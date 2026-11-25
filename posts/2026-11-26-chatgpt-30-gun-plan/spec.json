@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-26-chatgpt-30-gun-plan",
+ "type": "reel",
+ "tag": "AI",
+ "musicSeed": 107,
+ "scenes": [
+  {"kind": "hook", "dur": 4.2, "small": "Bir prompt, bir ay kontent", "big": "30 gün", "sub": "ChatGPT ilə *kontent planı*",
+   "cap": "ChatGPT ilə 30 günlük kontent planı",
+   "vo": "Bir aylıq kontent planını ChatGPT ilə bir promptla hazırla. Necə? Bax."},
+  {"kind": "list", "dur": 4.8, "title": "Promptda 4 şey", "items": ["Biznesin nədir", "Kimə satırsan", "Neçə post, hansı format", "Cədvəl şəklində ver"],
+   "cap": "Promptda bu dörd şey olsun",
+   "vo": "Promptda dörd şey olsun: biznesin, müştərin, neçə post və hansı format, bir də cədvəl."},
+  {"kind": "chat", "dur": 5.4, "title": "Prompt", "msgs": [{"from": "user", "text": "Bakıda qəhvəxanayam. Müştərim tələbələrdir. 30 günlük Instagram planı ver: həftədə 4 reel, 3 story. Cədvəl: gün, mövzu, format, qarmaq."}, {"from": "ai", "text": "Budur 30 günlük plan..."}],
+   "cap": "Nümunə prompt: qəhvəxana üçün",
+   "vo": "Məsələn: Bakıda qəhvəxanayam, müştərim tələbələrdir. Otuz günlük plan ver, cədvəl şəklində."},
+  {"kind": "step", "dur": 4.6, "num": "01", "color": "cyan", "title": "Düzəliş et", "sub": "Bəyənmədiyini *yenidən* istə", "visual": "target",
+   "cap": "Bəyənmədiyin günləri yenidən istə",
+   "vo": "Plan gəldi? Bəyənmədiyin günləri göstər və onları yenidən yazmasını istə."},
+  {"kind": "chat", "dur": 5.0, "title": "Düzəliş", "msgs": [{"from": "user", "text": "5, 12 və 19-cu günlər çox satışdır. Onları faydalı məsləhətlə əvəz et."}, {"from": "ai", "text": "Yeniləndi..."}],
+   "cap": "Satış postlarını məsləhətlə əvəz et",
+   "vo": "Məsələn: bu günlər çox satışdır, onları faydalı məsləhətlə əvəz et."},
+  {"kind": "step", "dur": 4.6, "num": "!", "color": "red", "title": "Unutma", "sub": "Faktları və qiymətləri ~yoxla~", "visual": "cross",
+   "cap": "Faktları və qiymətləri özün yoxla",
+   "vo": "Amma faktları və qiymətləri mütləq özün yoxla. AI səhv edə bilər."},
+  {"kind": "cta", "dur": 4.6, "small": "Promptu itirmə", "big": "YADDA SAXLA", "sub": "Ay başı *istifadə et*", "button": "Yadda saxla →",
+   "cap": "Yadda saxla, ay başı istifadə et",
+   "vo": "Bu promptu yadda saxla və hər ay başı istifadə et."}
+ ]
+}

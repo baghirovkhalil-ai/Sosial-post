@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-26-turist-restoran-secir",
+ "type": "reel",
+ "tag": "BİZNES",
+ "musicSeed": 108,
+ "scenes": [
+  {"kind": "hook", "dur": 4.2, "small": "Turist Bakıda acdır", "big": "Səni tapır?", "sub": "Restoranı *3 yerdə* axtarır",
+   "cap": "Turist restoranı necə seçir?",
+   "vo": "Turist Bakıda restoran axtaranda səni tapır? O, adətən üç yerə baxır."},
+  {"kind": "step", "dur": 4.6, "num": "01", "color": "cyan", "title": "Google Xəritə", "sub": "Profil, *şəkillər*, iş saatı", "visual": "target",
+   "cap": "Birinci: Google Xəritə profili",
+   "vo": "Birinci: Google Xəritə. Profilin dolu olsun: şəkillər, iş saatı, menyu."},
+  {"kind": "step", "dur": 4.6, "num": "02", "color": "yellow", "title": "TripAdvisor", "sub": "Rəylərə _cavab_ ver", "visual": "bars",
+   "cap": "İkinci: TripAdvisor və rəylər",
+   "vo": "İkinci: TripAdvisor. Profilini idarə et və rəylərə cavab ver."},
+  {"kind": "step", "dur": 4.6, "num": "03", "color": "cyan", "title": "Instagram", "sub": "Məkan *teqi* və ingiliscə bio", "visual": "target",
+   "cap": "Üçüncü: Instagram və məkan teqi",
+   "vo": "Üçüncü: Instagram. Məkan teqi əlavə et, bioda ingiliscə bir sətir yaz."},
+  {"kind": "list", "dur": 4.8, "title": "Hər yerdə eyni", "items": ["Ad və ünvan", "Telefon", "İş saatı", "İngiliscə menyu"],
+   "cap": "Hər üç yerdə məlumat eyni olsun",
+   "vo": "Ən vacibi: ad, ünvan, telefon və iş saatı hər yerdə eyni olsun. İngiliscə menyu da əlavə et."},
+  {"kind": "compare", "dur": 4.6, "title": "Fərq", "badLabel": "Görünməyən", "bad": "~Boş~ profil, köhnə saat", "goodLabel": "Görünən", "good": "Şəkil, rəy, *aydın* menyu",
+   "cap": "Boş profil itirir, dolu profil qazanır",
+   "vo": "Boş profil turisti itirir. Şəkli, rəyi və aydın menyusu olan qazanır."},
+  {"kind": "cta", "dur": 4.6, "small": "Restoranın var?", "big": "TURİST", "sub": "Direktə *TURİST* yaz", "button": "DM: TURİST →",
+   "cap": "Direktə TURİST yaz",
+   "vo": "Restoranın var və turist cəlb etmək istəyirsən? Direktə TURİST yaz."}
+ ]
+}
