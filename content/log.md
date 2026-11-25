@@ -81,3 +81,4 @@
 - 2026-11-24: ⚠️ 11-24 hər iki reel də Metricool ERROR "account limit" — avtomatik paylaşım hələ işləmir.
 | 2026-11-26 12:00 | ChatGPT ilə 30 günlük kontent planı 1 promptla | reel | AI | v3, seed 107, #45, Metricool 442019445 |
 | 2026-11-26 20:00 | Turist restoranı necə seçir? 3 yerdə görün | reel | Biznes | v3, seed 108, #52, Metricool 442019495 |
+- 2026-11-25: ⚠️ 11-25 hər iki reel də Metricool ERROR "account limit" — avtomatik paylaşım hələ işləmir.
