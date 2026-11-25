@@ -406,19 +406,21 @@
  },
  {
   "n": 45,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "AI",
   "hook": "ChatGPT ilə 30 günlük kontent planı 1 promptla",
-  "angle": "Prompt nümunəsi + düzəliş"
+  "angle": "Prompt nümunəsi + düzəliş",
+  "date": "2026-11-26"
  },
  {
   "n": 52,
-  "status": "todo",
+  "status": "done",
   "format": "reel",
   "pillar": "Biznes",
   "hook": "Turist restoranı necə seçir? 3 yerdə görün",
-  "angle": "TripAdvisor, Google Xəritə, Instagram — lokal görünürlük"
+  "angle": "TripAdvisor, Google Xəritə, Instagram — lokal görünürlük",
+  "date": "2026-11-26"
  },
  {
   "n": 46,
